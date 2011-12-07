@@ -1,18 +1,18 @@
 Getting your Bigcommerce store online and showing up in Google isn't only a few clicks away. There are some things that need to be done while preparing to get organic traffic. 
-
+<br />
 Traffic form Google is very important but please consider not relying only on this kind of traffic. You will need to be creative and get customer using other ways too. In this post I'll write down a few basic steps to help you prepare your shop. 
-
+<br />
 
 <h2>Choose your store's domain name carefully</h2>
 
 The first and most clever SEO thing to do is to choose a domain name that has the keywords for your business in it. Domains with keywords in their name rank higher for that given keyword. 
-
+<br />
 If you name it like this: myawesomeshop.com you won't help Google much in deciding what your store is all about. Truthfully, everyone thinks that their shop is awesome, so that won't help at all. These days is harder and harder to get a piece of the pie if your are a newcomer. 
-
+<br />
 Google gives higher priority to established brands because they are big and have some years behind them. Being in the game for a lot of time gives them authority. And authority is what Google likes. Yes, the rich get richer and it ain't that fair, but there are still businesses that are riding along. 
-
+<br />
 In order to have better rankings you must choose domain names like best-french-cheese.com, if you sell french cheese, or cheap-reconditioned-cars.com, if you sell cars that have been reconditioned.
-
+<br />
 Domain name convention:
 <ul>
 
@@ -23,46 +23,46 @@ Domain name convention:
 </ul>
 
 Do a keyword research and find out what keywords fit best for your products and choose a domain name accordingly. For a guide that help you run these researches please <a href="http://www.seomoz.org/beginners-guide-to-seo/keyword-research" target="_blank">read this post</a>.
-
+<br />
 What ever you sell please keep in mind that you need to be different from them, starting form the domain name. If you sell hats, and especially summer hats, then the first step you need to do in this research is to Google summer hats. 
-
+<br />
 The stores that sell summer hats are you competition. Study it. What domain name did they chose? Look at the source code of the page and see the description they chose, the keywords. Spend a few days doing this and going back and forth those sites to see what you could do different and what name you should choose. 
-
+<br />
 When you feel you are ready use tools like <a href="http://www.panabee.com/" target="_blank">Panabee</a>, that combine the words you insert there and create new names. Tools like that also check if a given domain name has been already taken. Use it as much as you can. 
-
+<br />
 <h2>While on trial use disallow in robots.txt</h2>
 
 Most of BigCommerce store owners know that they can simply have a free store for 15 days during which they can understand the platform better, use the integration or create products. 
-
+<br />
 Many do not know about a danger that lies with robots.txt file during this time. The standard lines of instruction from that file let crawlers index the pages and products you create while on trial. 
-
+<br />
 That is an issue. Because during trial you create products, list your store in Google  and the indexing begins. With the url to the trial store you have. 
-
+<br />
 And when you buy a domain name and use it for the store you see suddenly a lot of errors in Webmasters Tools which state that Google didn't found your product or you see your products listed in index with the old URL's. 
-
+<br />
 This is not an incredibly big issue, but still it's a waste of time because you need to wait until the new links are crawled and then showed in Google. And this takes time. 
-
+<br />
 In order to start well you need to go to Tools - Edit Robots.txt and cut the lines form there in a text file. You will need them after you go live. 
-
+<br />
 Then, in the empty Robots.txt file simply put these lines of code:<br />
 User-agent: * <br/>
 Disallow: /   <br />
-
+<br />
 This way, while on trial and using links which start with mystore.mybigcommerce.com, your store will not be indexed.
-
+<br />
 It is easier to have the pages indexed right from the first time, than to go and clean up the old links. 
-
+<br />
 <h2>Choose a variant of WWW/No WWW Redirect and stick with it</h2>
 
 Decide form the start if you want your links to have WWW in front or not and stick with it. Although redirection works when you change it if you suddenly changed your mind, but decide form the start what variant you want to use. 
-
+<br />
 After you have chose the redirection type simply give people that link to your store. If you like to use www.store.com, then don't hand over store.com. 
-
+<br />
 If you change it after the links have been indexed in Google, then the sitemap will change to the new link type and it will take a while until new links are indexed in Google. 
-
+<br />
 <h2>Conclusions regarding preparing your store for SEO </h2>
-
+<br />
 These simple steps require a lot of initial attention but it is well worth it. Starting your online store the way you should will help you devote more time on marketing and creating a relationship with your customers. 
-
+<br />
 Much better than just working overtime to path things up. How dis these pieces of advice help you? Do not forget to come back for the next post in BigCommerce SEO Bible series. 
-
+<br />
