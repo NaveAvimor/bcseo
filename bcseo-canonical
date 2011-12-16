@@ -1,13 +1,13 @@
 After preparing your BigCommerce store to enter the world of SEO you will be ready to work hard on different modifications to the templates in order to get as much as possible from them. 
 
-Some of the modifications are simple, other are not modifications, but are fields that need to be filled in without questions. Today we'll discuss a bit about the importance of canonical links and the proper usage of meta tags for description and keywords. This SEO guide will be followed by others in order to help you improve in rankings.
+Some of the modifications are simple, other are not modifications, but are fields that need to be filled in without questions. Today we'll discuss a bit about the importance of canonical links and the proper usage of meta tags for description and keywords. This SEO guide will be followed by others in order to help improve your rankings.
 
 
-<h2>Use clever canonical link</h2>
+<h2>Use clever canonical links</h2>
 
 Canonical links are simply put, the original versions of the links, the link that you create for the page or product in your store. They are defined in the head of the page and are used as a fallback method for search engines to know which links they should crawl and give more importance to. 
 
-In BigCommerce there are canonical links setup for products, categories and brands, but none for the home page. That is a flaw that hopefully will be corrected in soem future versions of the template. 
+In BigCommerce there are canonical links setup for products, categories and brands, but none for the home page. That is a flaw that hopefully will be corrected in some future versions of the template. 
 
 We have tested and creating a custom template in order to insert the canonical link for the home page didn't work because that meant to delete some lines of code from HTMLhead.html that would otherwise been useful for the entire site. 
 
@@ -17,7 +17,7 @@ A canonical link looks like this:
 
 After href, in the definition above comes the link that you define for products, categories and brands so make use of it the best you can. That means that you will have to use links the way I have described in the <a href="http://bigcommerce.springmerchant.com/content/bigcommerce-seo-bible-links-URL-structure-sitemaps/" target="_blank">previous tutorial about SEO links and sitemaps</a>.
 
-<h2>Meta tags help boots your store's SEO</h2>
+<h2>Meta tags help boost your store's ranking</h2>
 
 The use of title, meta description and meta keywords is important in the first place because it tells the different types of crawlers what the page is about. 
 
@@ -34,7 +34,7 @@ There you have the ability to input:
 
 The are many cases in which the BigCommerce store owners do not fill in these details and therefore all the products will have the same meta keywords and meta description defined in Settings- Store Settings- Website tab, under section Search Engine Optimization. A big FAIL. 
 
-Google likes freshness and diversity. If you have the same keywords, description and even content on every possible page in your Bigcommerce store then you should know why there aren't coming many visits from search. 
+Google likes freshness and diversity. If you have the same keywords, description and even content on every possible page in your Bigcommerce store then do not expect to rank higher than ecommerce sites that have fresher, unique content. 
 
 A thing to keep in mind: Google does not see an ecommerce site any different than any other website in the world and therefore it will hit hard in the stores that have the same description/page content for their products.
 
