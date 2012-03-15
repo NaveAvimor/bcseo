@@ -1,5 +1,3 @@
-BigCommerce SEO: piggyback on big brands to promote your store
-
 Regarding SEO, BigCommerce allows you to piggyback on eBay, Google, Facebook, and Yahoo. It does that by enabling you to publish on these platforms using the options from the Marketing tab. 
 
 Nobody says it is easy, but it is easiER to use BigCommerce and publish on those platforms. 
