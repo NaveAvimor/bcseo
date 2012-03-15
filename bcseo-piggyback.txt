@@ -1,0 +1,58 @@
+BigCommerce SEO: piggyback on big brands to promote your store
+
+Regarding SEO BigCommerce applies piggybacking on eBay, Google, Facebook, and Yahoo. It does that by enabling you to publish on these platforms using the options from Marketing tab. 
+
+Nobody says it is easy, but it is easiER to use BigCommerce and publish on those platforms. 
+
+<h2>Use BIG brands to promote your business</h2>
+
+I often get to see BigCommerce stores that do not use the option to have a Facebook store or have their products listed in Google Product Search. These won't help your product page be ranked higher, but you will have the chance to:
+<ul>
+<li>promote your business using these platforms;</li>
+<li>results from big brands show higher in the SERPs, thus you can see your product in a Google Product Search listing way above your product page.</li>
+</ul> 
+
+If you have a BigCommerce store and haven't already done this then at least do one of these three things:
+<ul>
+<li><a href="https://support.bigcommerce.com/questions/1414/How+do+I+enable+my+products+to+be+listed+on+Google+Product+Search%3F" target="_blank">publish your products in Google Product Search</a> - It is easy after you learn the steps. After you enable your products to be listed in Google then you can go and <a href="https://support.bigcommerce.com/questions/1419/How+do+I+submit+my+product+feed+to+Google+Product+Search%3F" target="_blank">submit the feed</a>. </li>
+<li><a href="https://support.bigcommerce.com/questions/1167/Selling+on+eBay+" target="_blank">list the products on eBay</a> - The setup is fairly easy, but you need to be careful at the instructions.</li>
+<li><a href="https://support.bigcommerce.com/questions/1127/How+can+I+setup+SocialShop+2+to+sell+on+Facebook%3F" target="_blank">setup your Facebook store</a> - This is version 2 of the Social Shop. It needs a BigCommerce v7+ store and the integration is easy: create a Facebook page, make sure it is linked to your profile, add the app and enjoy selling directly in Facebook.</li>
+</ul>
+
+Reading through the lengthy post from <a href="http://www.seobook.com/brand-and-the-cycle" target="_blank">Aaron Wall about Branding and The Cycle</a> I was reminded that we need to use every available opportunity to promote our business. Piggybacking on big brands that offer free services in a good way to be clever about putting your business in the front lines. 
+
+The main idea from that post is that brands are seen more relevant in the search results page and that they might get away with some actions that a small site might be penalized for. So, hop on in and use them the best you can. Also, did you thought of using YouTube to present your business? 
+
+Google offers many tools, and among them Analytics. Another way to help with your search engine optimization is to setup funnels and goals to understand better what your customers are doing in your BigCommerce store. 
+
+BigCommerce has a tutorial on how to setup <a href="https://support.bigcommerce.com/questions/1195/How+do+I+setup+Google+Analytics+e-commerce+tracking%3F" target="_blank">ecommerce tracking</a> which is good to ready yourself. Once you have setup your first goal and seen how it works you can tweak things here and there and setup goals for pages/visit, URL they got to or time spent on site. 
+
+If you want to learn more then check out this great article from <a href="http://sixrevisions.com/tools/google-analytics-in-depth-goals-and-funnels/" target="_blank">Six Revisions about goals and funnels</a>. It was never easier to understand goals and funnels in Google Analytics. Did I mention how much I like the way Google Analytics, although it is free, offers you quite handy tools like custom dashboards, setting up goals and creating custom reports? I guess I did. 
+
+Getting back to the piggyback ideas Search Engine journal presents <a href="http://www.searchenginejournal.com/17-more-unconventional-link-building-strategies/41210/" target="_blank">17 More Unconventional Link Building Strategies</a> which mentions a few times that you need to use existing platforms to promote your products and business. Do it in a creative way and you will get more exposure. Check out the other pieces of advice that might help you: creating microsites, build free tools, create infographics and videos easy to share and many more useful tips. 
+
+<h2>My top 3 SEO tips of the week</h2>
+
+As I said in other posts, BigCommerce has minor SEO issues that can be solved with some care, but most importantly is what you actually do optimize beyond the template changes. 
+
+Here are the links:
+<ul>
+<li><a href="http://www.searchenginejournal.com/are-you-using-the-right-keywords-on-your-site-a-simple-three-rule-test/40971/" target="_blank">Are You Using the Right Keywords On Your Site?</a> - Choosing the right keywords to optimize your site for is not an easy task. It all boils down to: your main characteristics that define your products and what users actually type to get to your products.</li>
+<li><a href="http://www.seomoz.org/blog/understand-and-rock-the-google-venice-update" target="_blank">Understand and Rock the Google Venice Update</a> - The Venice update is a <a href="http://www.seomoz.org/blog/understand-and-rock-the-google-venice-update" target="_blank">update regarding local searches</a>, meaning that Google will determine better if the queries and documents are local to the user. The post shows how you can rule the local rankings by: creating localized page content, markup addresses in schema or hcard or geomapping you site. All useful and simple tricks to gain more free exposure from Google. </li>
+<li><a href="http://www.seomoz.org/blog/achieving-an-seo-friendly-domain-migration-the-infographic" target="_blank">Achieving an SEO-Friendly Domain Migration</a> - Moving from one domain to another one is not an easy task and you need to pay attention to the various dangers that lurk around the corner when doing things without prior documentation. The usual danger is loss in ranking and, thus, loss of revenue, so be careful if you really need to move to another domain. </li>
+</ul>
+
+<h2>Video of the week: SEOMoz about Visualizing the Marketing Funnel </h2>
+
+Too bad that Rand Fishkin has disabled the embed option for the videos he does on <a href="http://www.seomoz.org/blog/category/33" target="_blank">Whiteboard Friday</a>. Still you can see the videos on site. 
+
+<a href="http://www.seomoz.org/blog/why-the-inbound-marketing-funnel-is-essential-whiteboard-friday" target="_blank">Visualizing the Marketing Funnel</a> is an easy to understand video about the different traffic sources that convert your visitors into customers. 
+
+Most people would invest more in Facebook if they would see it listed among the sources that are shown in the last step before conversion. One thing to remember is that even though a given source does not show up in that step it may be very well among the sources lead to conversions. 
+
+Example, if visitors from RSS readers convert it is possible that those visitors came from Facebook, liked the site and then subscribed via RSS. So, you need to pay close attention where you put your money in. The above mentioned video is plentiful in information so check it out without hesitation. 
+
+Piggybacking on big brands is almost simple and it really helps. What methods and brands do you use to promote your business? 
+
+
+<a href="" target="_blank"></a> - 
