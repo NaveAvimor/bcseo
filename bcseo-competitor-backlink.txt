@@ -1,12 +1,12 @@
-<p>From a SEO perspective an open web, one in which you can see the source code of pages and who links where, means that you should look at your competitor as your friend. </p>
+<p>From an SEO perspective the open web, one in which you can see the source code of pages and see who links where, means that you should look at competitors as friends. </p>
 
-<p>You heard me right: see why your competitor is doing better than you in rankings and learn from them. For free, or at least, you need to put in some effort and time, but it is something that you can do. </p>
+<p>This might sound counterintuitive, but it actually makes sense: see why your competitor is doing better than you in rankings and learn from them. For free, or at least, with some effort and time, but it is something that you can do. </p>
 
 <p>Of course, doing SEO requires a lot of work and it isn't quite as many would expect. Usually the steps follow this path <a href="http://www.searchenginejournal.com/what-the-sef-is-your-seo-doing/38413/" target="_blank">SEF</a> (search engine friendly - create a site that offers great UX and technically ready for SEO), then <a href="http://bigcommerce.springmerchant.com/content/categories/bigcommerce-seo/" target="_blank">SEO</a> (search engine optimization - this is where the wonder happens), and then <a href="http://searchengineland.com/guide/what-is-sem" target="_blank">SEM</a> (search engine marketing - seo plus paid search). And in between social media activity at it's best. Being new in a niche the first thing you should do is to check your competitor, your newly acquired friend. </p>
 
-<h2>Bribe Google with your time and get some details about your competitor</h2>
+<h2>Bribe Google with your time and get some details about your competition</h2>
 
-<p>You cannot bribe Google in the classical sense. All you can do is to spend enough time on it to learn as much as you can from your competitor. </p>
+<p>You cannot bribe Google in the classical sense, well not unless you have a lot of money. All you can do is to spend enough time studying  it to learn as much as you can from your competition. </p>
 
 <p>One of the first things you can do is to use Search Suggest and see if the competitor has gained some suggestions. Simply go to Google.com (that depends on your location) and type in, "bigcommerce", for example. You will see something like this:</p>
 <img src="https://s3.amazonaws.com/bc-posts-images/bc+seo+images/bigcommerce-seo-search-suggest.png" title="BigCommerce SEO search suggest" alt="bigcommerce seo search suggest - bigcommerce.springmerchant.com"/>
