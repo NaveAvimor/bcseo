@@ -1,0 +1,77 @@
+<p>From a SEO perspective a open web, one in which you can see the source code of pages and who links where, means that you should look at your competitor as your friend. </p>
+
+<p>You heard me right: see why your competitor is doing better than you in rankings and learn from him. For free, or at least, you need to put in some effort and time, but it is something that you can do. </p>
+
+<p>Of course, doing SEO requires a lot of work and it isn't quite as many would expect. Usually the steps follow this path <a href="http://www.searchenginejournal.com/what-the-sef-is-your-seo-doing/38413/" target="_blank">SEF</a> (search engine friendly - create a site that offers great UX and technically ready for SEO), then <a href="http://bigcommerce.springmerchant.com/content/categories/bigcommerce-seo/" target="_blank">SEO</a> (search engine optimization - this is where the wonder happens), and then <a href="http://searchengineland.com/guide/what-is-sem" target="_blank">SEM</a> (search engine marketing - seo plus paid search). And in between social media activity at it's best. Being new in a niche the first thing you should do is to check your competitor, your newly acquired friend. </p>
+
+<h2>Bribe Google with your time and get some initial details about your competitor</h2>
+
+<p>You cannot bribe Google in the classical sense. All you can do is to spend enough time on it to learn as much as you can from your competitor. </p>
+
+<p>One of the first things you can do is to use Search Suggest and see if the competitor has gained some suggestions in the box below search. Simply go to Google.com (that depends on your location) and type in, "bigcommerce", for example. You will see something like this:</p>
+<img src="https://s3.amazonaws.com/bc-posts-images/bc+seo+images/bigcommerce-seo-search-suggest.png" title="BigCommerce SEO search suggest" alt="bigcommerce seo search suggest - www.springmerchant.com"/>
+<p>Disclaimer: Bigcommerce is in no way a competitor of ours. Since we do BigCommerce Templates and Development we see BigCommerce as a way to have clients. </p>
+
+<p>Mainly search volume and keywords used all over the web lead to the suggestions. Following those suggestions you can learn a lot from your competitor. If some words like "complaint", "scam" or others show up there you know you need to check as much as possible. </p>
+
+<p>Rand Fishkin <a href="" target="_blank">started an experiment</a> to see how many searches for a particular keyword would lead to show a suggestion under the search box. The results of that experiment might help you have a nice suggestion shown in Google. </p>
+
+<p>Bribing Google with our time gets us to another thing in our list: sitelinks. <a href="http://www.seomoz.org/blog/how-sitelinks-are-quietly-costing-you-conversions" target="_blank">Phil Sharp</a> did an interesting discovery showing that sitelinks may be used sometimes in the place of the main link in search engine results page. </p>
+
+<p>Look for any indication that your competitor has a site link instead of the main link. Also, looking at the sitelinks you will be able to see where your competitor focuses his attention. Being int he same niche as he is you will know that some sitelinks need to be there. Again, your competitor showed you, even without asking any money, what he focuses on. </p>
+<p>Here are the sitelinks from Bigcommerce:
+<img src="https://s3.amazonaws.com/bc-posts-images/bc+seo+images/bigcommerce-seo-sitelinks.png"  title="bigcommerce seo sitelinks" alt="bigcomemrce seo sitelinks - www.springmerchant.com" /></p>
+
+<p>We see from the image above that the main topics aren't really what they should have been: Login and Social Shop 2 could be replaced with the Apps and Integration pages. As you can see, minimal efforts lead to interesting pieces of information. Do you still see it as a competitor? He's your friend and he's ready to teach you how it's done.</p> 
+
+<h2>Study you competitor website in and out</h2>
+
+<p>And the best free way to do this is with the <a href="http://www.screamingfrog.co.uk/seo-spider/" target="_blank">Screaming Frog Crawler</a>. Screaming Frog is a SEO spider, a desktop app that searches a website for any type of issues and shows it's findings in neat CSV tables that can be exported and then worked upon. Since learning about SEO I got very fond of CSV files. you never know when you need them.</p> 
+
+<p>It can crawl up to 500 URLs of the target site and outputs info about: title tags, redirects, headings, duplicate content (if any, see hash column), images, canonical and URLs.</p>
+
+<object width="640" height="480"><param name="movie" value="http://www.youtube.com/v/rR33TwwgWh4?version=3&amp;hl=ro_RO"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/rR33TwwgWh4?version=3&amp;hl=ro_RO" type="application/x-shockwave-flash" width="640" height="480" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+
+<p>If your competitor is doing something right, then you will see it in the table reports from Screaming Frog.</p>
+
+<p>Once you have pulled out all the elements of the target website, do not forget to look at: content, type of writing, US, design, site architecture, presentations and all the neat stuff that could make me and you stay on that site. It's nor easy, but the fun you can have discovering what you do wrong and knowing where to improve will keep you on track.</p>
+
+<h2>Backlink and rank analysis easier than ever</h2>
+
+<p>Don't want to spend a fortune on backlink analysis tools? Okay, is you can afford it $150 a month or maybe $300 a month is not a big deal and can speed a things a LOT. Way more than free tools, but hey, free tools live up to their names and you can get great insights if you assign enough time to research. </p>
+
+<p>Once you have studied your competitor's site you can move on to see what other thinks has he done to outrank everyone else. Like, link building, for example. They have lots of great links and there fore they rank well. Good for them. and for us too, since we can see who links to them. </p>
+
+<p>Knowing who linked to them we can approach those sites and get a backlink from there. </p>
+
+<p>How can you get a backlink profile from your competitor? First, you need to create an account with <a href="http://www.opensiteexplorer.org/" target="_blank">Open Site Explorer</a>. </p>
+
+<p>After you account has been validated and you have logged in, simply type the URL of your competitor in the search box and hit enter. In a short while you will have lots of data coming in. The stagering amount of backlinks could not be found any easier.
+<img src="https://s3.amazonaws.com/bc-posts-images/bc+seo+images/bigcommerce-seo-open-site-explorer-backlinks.png"  title="Bigcommerce SEO backlink analysis from OSE" alt="bigcomemrce seo backlinks analisys - www.springmerchant.com" /></p>
+
+<p>Next step is to download the CSV file (for Bigcommerce it has only 1005 links because I used the free version of OSE) an, fi you want, you can study it. Best is to let some other useful program do the work. Back up this file and then be ready to import it to <a href="" target="_blank">Link Detective</a>.</p>
+
+<p>Link Detective is a website where you can upload the CSV I mentioned earlier and then let the app create the backlink profile. From an SEO and time perspective: it is awesome. Having such a powerful and free tool at the tips of your fingers is a big win. And all thanks to <a href="http://www.eppie.net/ " target="_blank">Eppie</a>, a developer who loves to help.   </p>
+
+Here is a presentation of this amazing tool:
+<object width="640" height="390"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=38550567&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=1&amp;color=00adef&amp;fullscreen=1&amp;autoplay=0&amp;loop=0" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=38550567&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=1&amp;color=00adef&amp;fullscreen=1&amp;autoplay=0&amp;loop=0" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="640" height="390"></embed></object><p><a href="http://vimeo.com/38550567">Link Detective Overview</a> from <a href="http://vimeo.com/user5901611">Eppie Vojt</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+
+<p>Wanna know how Bigcommerce's backlink profile looks like? Below you can see that almost all of the links are followed and most of them are Unknown, meaning that the Link Detective could not decide where they were placed in a page. Most of the Unknown links are located usually in the content of the pages.
+<img src="https://s3.amazonaws.com/bc-posts-images/bc+seo+images/bigcommerce-seo-backlink-analysis.png"  title="BigCommerce SEO backlink profile" alt="bigcommerce seo backlink profile - www.springmerchant.com" /> </p>
+
+<p>I can guess that by now you are really excited about how easy it is to get valuable info about your competitor. And you have all the reasons to be happy about these tools. </p>
+
+<p>Once you get to have their link profile you can see how they rank for some of the keywords you are interested in. There are two options: you could use the <a href="http://tools.seobook.com/seo-toolbar/" target="_blank">SEO Toolbar from Aaron Wall</a> or use <a href="http://www.rankerizer.com/" target="_blank">Rankelizer</a>, a desktop app that seeks out the rankings of a website. </p>
+
+<p>Each of these two will require you to enter the website and the keywords to match to. After a very short period of time you get the ranks in SERP and can look which pages are ranking well. Going forward and looking at those pages you can see what makes them so special. </p>
+
+<p>Of course, you can use the same tool to see how you rank. All in all, these free SEO tools will make your life way easier. SEO is much more than this, and BigCommerce SEO is the same as other ecommerce optimization activity you need to do. You simply need to be on top of it and be ready for many  changes. </p>
+
+<h2>Search Suggest, the video</h2>
+
+<p>Rand Fishkin gives awesome SEO advice in the <a href="http://www.seomoz.org/blog/how-googles-search-suggest-instant-works-whiteboard-friday" target="_blank">Whiteboard Friday</a> series. In the video from below he explains how Google's Search Suggest works and proposes an experiment: <a href="http://mz.cm/wbfridaytest" target="_blank">Does anyone Watch whiteboard Friday</a>. I'd be interested to see how many searches for that particular phrase will determine a suggestion in Google. </p>
+
+<p>Enjoy watching and learning form the video:
+<iframe class="wistia_embed" name="wistia_embed" src="http://fast.wistia.com/embed/iframe/780842f2a4?videoWidth=600&videoHeight=338&controlsVisibleOnLoad=true&plugin%5Bsocialbar%5D%5Bversion%5D=v1&plugin%5Bsocialbar%5D%5Bbuttons%5D=embed-videoStats&canonicalUrl=http%3A%2F%2Fwww.seomoz.org%2Fblog%2Fhow-googles-search-suggest-instant-works-whiteboard-friday&canonicalTitle=2012-3-16%20Whiteboard%20Friday%20-%20How%20Googles%20Search%20Suggest%20Instant%20Works.mov" allowtransparency="true" frameborder="0" scrolling="no" width="600" height="363"></iframe></p>
+
+<p>Do you know other free tools that could help people create a backlink profile or find out the rankings? Just drop here a comment.</p>
