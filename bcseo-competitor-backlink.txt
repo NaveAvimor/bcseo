@@ -12,7 +12,7 @@
 <img src="https://s3.amazonaws.com/bc-posts-images/bc+seo+images/bigcommerce-seo-search-suggest.png" title="BigCommerce SEO search suggest" alt="bigcommerce seo search suggest - bigcommerce.springmerchant.com"/>
 <div class="alert alert-warning"><p>Disclaimer: Bigcommerce is in no way a competitor of ours. Since we do BigCommerce Templates and Development we see BigCommerce as a way to have clients. </p></div>
 
-<p>Mainly search volume and keywords used all over the web lead to the suggestions. Following those suggestions you can learn a lot about your competition. For example if words like "scam", "complaints" show up in the drop down then you know that a weak point of your competition is customer service. Use that to your advantage and play up your superior customer service! </p>
+<p>Search volume and keywords used all over the web lead to suggestions. Following those suggestions you can learn a lot about your competition. For example if words like "scam", "complaints" show up in the drop down then you know that a weak point is customer service. Use that to your advantage and play up your superior customer service to gain more customers! </p>
 
 <p>Rand Fishkin <a href="" target="_blank">started an experiment</a> to see how many searches for a particular keyword would lead to show a suggestion under the search box. The results of that experiment might help you in getting your suggestions to show up in Google. </p>
 
