@@ -1,0 +1,63 @@
+
+<p>Using Pinterest for your BigCommerce SEO is fairly pointless if you have failed to engage properly in other social media networks like Facebook or Twitter. Pinterest is nothing more than a social network, but it has it's own identity and workflow. </p>
+
+<p>Personally I still think that Pinterest is more suited for women, since they are more likely to get the best from an pinboard full of images. Simply put, they you can expect to see there boards full of products they'd like to have and share (see image below).
+<img src="https://s3.amazonaws.com/bc-posts-images/bc+seo+images/bigcommerce-seo-pinterest-traffic-source.png" alt="bigcommerce seo and pinterest - www.springmerchant.com"></p>
+
+<p>But Pinterest has grown more than just a simple image sharing network and, leaving the personal feelings aside, I see the opportunity in jumping on this boat. The links that come form this network are nofollowed and won't do much help with SEO, but you could use it to drive traffic to your store.  And yes, it is the new kid (gal) on the block and it's rocking. </p>
+<h2>Should You Be On Pinterest?</h2>
+
+<p>Well, it depends. Ideally you should have a social media team always ready to jump on new networks and rule the world. That is simply not possible without putting some serious cash on the table.</p>
+
+<p>Why is that hard? Not really hard, but you'd need at least one person to do just this: live on Facebook, Twitter, Google+, Foursquare, Tumblr (or other blogging platforms), and now Pinterest. </p>
+
+<p>Only you can decide if it is worth to be on Pinterest. Having a pin button on your site is the easy part, but actually engaging with the friends you can do there is a completely other story. From am SEO standpoint, you need to optimize the content you're showing there (images) to make them come to you. In comparison with Google, where you need to use keyword targeting to get traffic, on Pinterest you need to have well thought images to get visits. </p>
+
+<p>See the infographic below  and make sure you understand the implications of being active in social media.
+<a href="http://blog.intuit.com/trends/should-your-business-be-on-pinterest-find-out-infographic/" target="_blank"><img src="http://blog.intuit.com/wp-content/blogs.dir/1/uploads/12.03.13_pinterest-flowchart_FINALcopy-590x1736.png" width="700" alt="Should Your Business Be on Pinterest? Find Out [INFOGRAPHIC]" border="0" /></a><br />via: <a href="http://blog.intuit.com/trends/should-your-business-be-on-pinterest-find-out-infographic/">Should Your Business Be on Pinterest? Find Out [INFOGRAPHIC]</a></p>
+
+<p>I would argue that if you didn't had a successful presence in Facebook or Twitter you should start taking all these seriously. If you failed there you'll fail here too.</p>
+
+<p>Should you be on Pinterest? Two times YES. I have an account and one of the things that I really like there are the infographic boards. Loads of infographics boards, my heaven. </p>
+
+<p>Pinterest is visual at it's core. Being a mix of features found in Facebook (like), Twitter (repin, follow), Tumblr (the comments that come with the repins) and having those boards it follows a simple rule: make it easy to like and share what you love. Pin it, like it, repin it, comment it. </p>
+ 
+<h2>Going Viral On Pinterest</h2>
+
+<p>I've read a very nice piece on <a href="http://www.seomoz.org/blog/going-viral-on-pinterest-driving-big-traffic-and-making-pinterest-a-real-marketing-solution" target="_blank">SEO Moz about Pinterest and going viral</a> and it recalls two facts:
+<ul>
+<li>it is a social network tailored to the fast pace of today's web</li>
+<li>going viral on Pinterest follows the same pattern that you can see in Facebook, Reddit, Twitter</li>
+</ul></p>
+
+<p>Why would you like to go viral? Because it brings traffic. more traffic means more leads, but not always more conversions. If they liked a piece  you published on Pinterest and then came to your site, you need to have something ready for them. A free resource (pdf, images, tools) or a well though action button to subscribe to your site are always welcome. </p>
+
+<p>Aspects of virality are as follows:
+<ul>
+<li>content - usually images or videos that will be viral have a core signaling this (amazing things, humorous events, and so on)</li>
+<li>user base - or at least a few users that have big following and likely to share your content</li>
+<li>timing - probably one of the most important aspects</li>
+<li>network - different networks have different mechanisms that lead to high rate of sharing a piece of content </li>
+</ul></p>
+
+<p>Pinterest likes creative ideas and pieces of advice. That is the content you'd like to put up there. In the above mentioned article from SEO Moz Colby Almond argues that the front page of Pinterest will get you 100k visits. I remember when I got 37,000 visits in one day for one of my blogs from Stumbleupon alone a few months back and it felt good. </p>
+
+<p>One if the things that can get enough attention on Pinterest are the instructographics (mentioned first by Colby almond), which are graphics that show how to do a certain activity. Useful, engaging and simple to understand. </p>
+
+<p>Most importantly, when you have your shareable content ready for Pinterest, you need to pay close attention to timing. Usually, best times to share on this platform is in the morning between 5-7AM and in the evening between 5-7PM EST.</p>
+
+<p>Short advice: try not to submit every product in your store or every image you encounter. Try to build one instructographic, or an interesting image, even use memes and then pin it to Pinterest (between 5-7 am and 5-7 pm EST). No one can guarantee the success if you don't work enough on tweaking the content you share there and the time you do this. Read many more details about virality on <a href="http://www.seomoz.org/blog/going-viral-on-pinterest-driving-big-traffic-and-making-pinterest-a-real-marketing-solution" target="_blank">Pinterest on SEO Moz</a>.</p>
+
+<h2>Finally, track you website's content on Pinterest</h2>
+
+<p>One of the easiest way to see how many pin are form your website is by using the code from below, where YourStore.com is your BigCommerce store: </p><br />
+<code>http://pinterest.com/source/YourStore.com/</code>
+<br />
+
+<p>In order to track what items from you store are pinned you need to read the interesting article from <a href="http://mashable.com/2012/03/14/pinterest-track-content/" target="_blank">Mashable about tracking your site on Pinterest</a>. </p>
+
+<p>Mainly it is about knowing which page will show the pins from a store (see the red link from above) and then transforming it to a RSS format which can then be embedded in a Wordpress blog, for example. Make sure to read it through and use <a href="http://feed43.com/" target="_blank">Feed43 tool</a> for this. </p>
+
+<p>BigCommerce store owners can simply enable the Pin button in Settings - Store - Share tab. Having that button there might prove helpful if you know how to engage with your followers on Pinterest.</p>
+
+<p>Have you started exploring this new network yet? Right now I have Google+, Twitter, Facebook and Pinterest all day long open. It is crazy, but you get used to it and even grow to like observing how these networks work. </p>
