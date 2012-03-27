@@ -1,0 +1,69 @@
+
+
+<p>Link building is the next step from on-site optimization a BigCommerce store owner needs to do in order to benefit from SEO. Organic traffic is the lifeblood of many BigCommerce stores and the forum is full of requests to make link exchanges hoping that this action will ramp them up in ranking. Like that helps.</p>
+
+<p>I won't go into detail <a href="http://pointblankseo.com/link-building-strategies" target="_blank">about link building strategies</a> in this post, however I will outline the warnings many white hat SEOs and Google have been waving around: get links only from trusted sources. </p>
+
+<p>In the link mentioned above John Cooper has an extensive list of link building strategies that you can apply. One common strategy is to get links from directories or article sites. While black hat SEO still has it's way, you need to make sure you're getting the links in a natural way and from websites with authority.</p>
+
+<h2>Google slammed blog networks</h2>
+
+<p>This week started big at SEO Moz where Carson Ward posted that <a href="http://www.seomoz.org/blog/unnatural-link-warnings-blog-networks-advice" target="_blank">Google sent blog network BMR into oblivion</a>. BMR, or <a href="http://www.buildmyrank.com/news/its-been-a-great-run" target="_blank">Build My Rank</a>, has been effectively deleted from Google's index last week. </p>
+
+<p>Blog networks are networks of sites created specifically to write about everything only to have a site up and then insert unrelated content and links into the posts. Unrelated to the main theme of the blog, that is. Some SEOs used it's services because it would create blog posts with targeted links to the paying customers. It was respected because it had higher quality that other blog networks. Then BMR got outed. </p>
+
+<p>That sends a strong message to BigCommerce store owners: do no engage in practices where you buy dozens or hundreds of links for a mere $10 or $50. You will be hit by Google the minute you say you're safe in rankings. </p>
+
+<p>If someone promises these links, or even better, an automated way to get links run from those guys. Yes, you may get some lift in rankings, only to find out that "something happened and you got dropped" and then cry out that BigCommerce is a bad platform. </p>
+
+<p>Yes, BigCommerce could do better, but it can't prevent you from doing "smart" things that get you to the bottom of Google's index. </p>
+
+<h2>Recognize bad backlinks and beware of negative SEO</h2>
+
+<p>Buying links from sites to get some ranking is an age old tactic that still works. It is not endorsed by white hat SEOs, but it is used by grey hat SEOs. Yep, the more you read and learn about search engine optimization the more you get stuck in the entanglement of classes, branches, groups, and waves of what this field of work is. Fascinating, I might add. </p>
+
+<p>Going back to grey hat, they do not employ black hat tactics like cloaking, door-pages or spamming, but they do pay for links to get better rankings. Google is against that. It is a tactic used with <a href="http://seobullshit.com/grey-hat-white-hat-disaster/" target="_blank">success by some</a> and endorsed by a fraction of SEOs.</p>
+
+<p>So, buy links, but be careful from where. It is widely known and accepted to pay $300 a year for a listing in Yahoo Directory or to be listed in some niche organization's sites. </p>
+
+<p>Google doesn't see your link in Yahoo Directory as payed link, although you put the money on the table. Why is that? Because of the authority and the content curation of that particular site. So, buy links from big sites is  win, buy from obscure site, is a fail. Kinda grey all over the place, isn't it?
+<object width="640" height="360"><param name="movie" value="http://www.youtube.com/v/1Pu1YWcIh04?version=3&amp;hl=ro_RO"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/1Pu1YWcIh04?version=3&amp;hl=ro_RO" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+
+<p>So, how do you recognize links from blog networks to you? It is well explained <a href="" target="_blank">here</a>, but I'll outline some points:
+<ul>
+<li>use <a href="http://www.opensiteexplorer.org/" target="_blank">Open Site Explorer</a> to see the links to your site</li>
+<li>then check the links for some of the following signs:
+<ul>
+<li>default template - no care for site design</li>
+<li>posts are unrelated to the main topic of the site</li>
+<li>no means to know who owns the site or how to contact them</li>
+<li>exact anchor text links to a wide array of sites</li>
+<li>posts with 400-500 words in them and several links to the same site</li>
+</ul>
+</li>
+</ul>
+</p>
+<p>If you have links from those sites it is possible that your SEO company was a bit lazy and used this shortcut. Ask them to get those backlinks removed.</p>
+
+<p>One interesting fact that arises from having lots of backlinks from bad sources is that Google can drop you in rankins big time. But that isn't a big point either. </p>
+
+<p>If a competitor doesn't like you having great ranking then he could employ <a href="http://pointblankseo.com/deindexing-negative-seo" target="_blank">negative SEO</a>, buy links from those blog networks and then point all of them to your site. Google will jump on you like it's Christmas party. And you won't have fun at all, for sure. </p>
+
+<p>Right now not much can be done if this happens to you, but at least Google will notify you in the Webmasters Tools that they have seen unnatural links to your site. </p>
+
+<p>It is said that Google simply doesn't take into account those links, but there are still spammers who have a good life and there have been sites that got their index page dropped from Google because a competitor bought loads of foul links from obscure sites and pointed them to the competition. </p>
+
+<p>It is best to stay white, or a bit gray (if we think about buying links in link directories like Yahoo Directory), and hope that Google steps up it's game and doesn't take into account those bad links if you see yourself in such situation. But, until then make sure you get the best backlinks possible. See in the next section what is it about. </p>
+
+<h2>SEO Tip: got for broad match anchor text while building links</h2>
+
+<p>SEO Moz has always nice pieces of advice that could benefit everyone, and Bigcommerce stores also, since they test a lot and have their own ranking algorithm and <a href="http://www.seomoz.org/blog/february-linkscape-update-66-billion-urls" target="_blank">URL database</a>. </p>
+
+<p>This time Cyrus Shepard suggests that it is better to go for <a href="http://www.seomoz.org/blog/beyond-exact-match-anchor-text-to-next-generation-link-signals-whiteboard-friday" target="_blank">broad match anchor text</a> when we request backlinks form other. </p>
+
+<p>For example, let's say you sell cars, and "cheap cars" would be the keyword you want to rank for. Google sees as suspicious behavior if all the links back to you use the anchor text "cheap cars", but if you use other keywords like "cars", "nice cars", "get cheap cars", or others the like you may have a chance of being able to make use of all those links and rank a bit higher as apposed to the situation where you used exact match anchor text. </p>
+
+<p>Watch and learn from the best:
+<div id='wistia_484871_social_3225'><object width="600" height="337" id="wistia_484871" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"><param name="movie" value="http://seomoz-cdn.wistia.com/flash/embed_player_v1.1.swf"/><param name="allowfullscreen" value="true"/><param name="allowscriptaccess" value="always"/><param name="wmode" value="opaque"/><param name="flashvars" value="videoUrl=http://seomoz-cdn.wistia.com/deliveries/8aaf1ad9adec7c0534b67241e6c9ab2352a1c280.bin&stillUrl=http://seomoz-cdn.wistia.com/deliveries/ed17e9c9130be032e4ede09d929a8951cf6bc47d.bin&unbufferedSeek=true&controlsVisibleOnLoad=false&autoPlay=false&endVideoBehavior=default&playButtonVisible=true&embedServiceURL=http://distillery.wistia.com/x&accountKey=wistia-production_3161&mediaID=wistia-production_484871&mediaDuration=433.4&hdUrl=http://seomoz-cdn.wistia.com/deliveries/136ec06098c82846feb44e10ba06d01ab690e33d.bin"/><embed src="http://seomoz-cdn.wistia.com/flash/embed_player_v1.1.swf" width="600" height="337" name="wistia_484871" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" wmode="opaque" flashvars="videoUrl=http://seomoz-cdn.wistia.com/deliveries/8aaf1ad9adec7c0534b67241e6c9ab2352a1c280.bin&stillUrl=http://seomoz-cdn.wistia.com/deliveries/ed17e9c9130be032e4ede09d929a8951cf6bc47d.bin&unbufferedSeek=true&controlsVisibleOnLoad=false&autoPlay=false&endVideoBehavior=default&playButtonVisible=true&embedServiceURL=http://distillery.wistia.com/x&accountKey=wistia-production_3161&mediaID=wistia-production_484871&mediaDuration=433.4&hdUrl=http://seomoz-cdn.wistia.com/deliveries/136ec06098c82846feb44e10ba06d01ab690e33d.bin"></embed></object><script src="http://seomoz-cdn.wistia.com/embeds/v.js" charset="ISO-8859-1"></script><script>if(!navigator.mimeTypes['application/x-shockwave-flash'] || navigator.userAgent.match(/Android/i)!==null)Wistia.VideoEmbed('wistia_484871',600,337,{videoUrl:'http://seomoz-cdn.wistia.com/deliveries/60d46b8bf1a61aa225ab89a82d81482c102142b9.bin',stillUrl:'http://seomoz-cdn.wistia.com/deliveries/ed17e9c9130be032e4ede09d929a8951cf6bc47d.bin',distilleryUrl:'http://distillery.wistia.com/x',accountKey:'wistia-production_3161',mediaId:'wistia-production_484871',mediaDuration:433.4})</script></div><div id="wistia_484871_social_3225_bar" class="socialbar" style="margin:5px 0;padding:0;position:relative;line-height:20px;text-align:left;"><a href="http://wistia.com" title="video hosting"><img src="http://static.wistia.com/images/badges/wistia_100x96_black.png" width="100" height="16" alt="Wistia"/></a></div><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js"></script><script type="text/javascript">var socialJQuery = jQuery.noConflict(true);</script><script type="text/javascript" src="http://static.wistia.com/socialbar/socialbar.js"></script><script type="text/javascript">new SocialBar("wistia_484871_social_3225", {buttons:["embed","stats","wistia"],url:"http://www.seomoz.org/blog/beyond-exact-match-anchor-text-to-next-generation-link-signals-whiteboard-friday",title:"Beyond Exact Match Anchor Text To Next Generation Link Signals - Whiteboard Friday | SEOmoz",badgeUrl:"http://wistia.com",embedCode:"%3Cobject%20width%3D%22600%22%20height%3D%22337%22%20id%3D%22wistia_484871%22%20classid%3D%22clsid%3AD27CDB6E-AE6D-11cf-96B8-444553540000%22%3E%3Cparam%20name%3D%22movie%22%20value%3D%22http%3A//seomoz-cdn.wistia.com/flash/embed_player_v1.1.swf%22/%3E%3Cparam%20name%3D%22allowfullscreen%22%20value%3D%22true%22/%3E%3Cparam%20name%3D%22allowscriptaccess%22%20value%3D%22always%22/%3E%3Cparam%20name%3D%22wmode%22%20value%3D%22opaque%22/%3E%3Cparam%20name%3D%22flashvars%22%20value%3D%22videoUrl%3Dhttp%3A//seomoz-cdn.wistia.com/deliveries/8aaf1ad9adec7c0534b67241e6c9ab2352a1c280.bin%26stillUrl%3Dhttp%3A//seomoz-cdn.wistia.com/deliveries/ed17e9c9130be032e4ede09d929a8951cf6bc47d.bin%26unbufferedSeek%3Dtrue%26controlsVisibleOnLoad%3Dfalse%26autoPlay%3Dfalse%26endVideoBehavior%3Ddefault%26playButtonVisible%3Dtrue%26embedServiceURL%3Dhttp%3A//distillery.wistia.com/x%26accountKey%3Dwistia-production_3161%26mediaID%3Dwistia-production_484871%26mediaDuration%3D433.4%26hdUrl%3Dhttp%3A//seomoz-cdn.wistia.com/deliveries/136ec06098c82846feb44e10ba06d01ab690e33d.bin%22/%3E%3Cembed%20src%3D%22http%3A//seomoz-cdn.wistia.com/flash/embed_player_v1.1.swf%22%20width%3D%22600%22%20height%3D%22337%22%20name%3D%22wistia_484871%22%20type%3D%22application/x-shockwave-flash%22%20allowfullscreen%3D%22true%22%20allowscriptaccess%3D%22always%22%20wmode%3D%22opaque%22%20flashvars%3D%22videoUrl%3Dhttp%3A//seomoz-cdn.wistia.com/deliveries/8aaf1ad9adec7c0534b67241e6c9ab2352a1c280.bin%26stillUrl%3Dhttp%3A//seomoz-cdn.wistia.com/deliveries/ed17e9c9130be032e4ede09d929a8951cf6bc47d.bin%26unbufferedSeek%3Dtrue%26controlsVisibleOnLoad%3Dfalse%26autoPlay%3Dfalse%26endVideoBehavior%3Ddefault%26playButtonVisible%3Dtrue%26embedServiceURL%3Dhttp%3A//distillery.wistia.com/x%26accountKey%3Dwistia-production_3161%26mediaID%3Dwistia-production_484871%26mediaDuration%3D433.4%26hdUrl%3Dhttp%3A//seomoz-cdn.wistia.com/deliveries/136ec06098c82846feb44e10ba06d01ab690e33d.bin%22%3E%3C/embed%3E%3C/object%3E%3Cscript%20src%3D%22http%3A//seomoz-cdn.wistia.com/embeds/v.js%22%20charset%3D%22ISO-8859-1%22%3E%3C/script%3E%3Cscript%3Eif%28%21navigator.mimeTypes%5B%27application/x-shockwave-flash%27%5D%20%7C%7C%20navigator.userAgent.match%28/Android/i%29%21%3D%3Dnull%29Wistia.VideoEmbed%28%27wistia_484871%27%2C600%2C337%2C%7BvideoUrl%3A%27http%3A//seomoz-cdn.wistia.com/deliveries/60d46b8bf1a61aa225ab89a82d81482c102142b9.bin%27%2CstillUrl%3A%27http%3A//seomoz-cdn.wistia.com/deliveries/ed17e9c9130be032e4ede09d929a8951cf6bc47d.bin%27%2CdistilleryUrl%3A%27http%3A//distillery.wistia.com/x%27%2CaccountKey%3A%27wistia-production_3161%27%2CmediaId%3A%27wistia-production_484871%27%2CmediaDuration%3A433.4%7D%29%3C/script%3E"})</script>
+<p>
+<p>Have you bought links and seen some improvements or was it all just money thrown on the window? </p>
