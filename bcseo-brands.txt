@@ -1,0 +1,75 @@
+<p>Before even thinking of SEO building a brand for your BigCommerce store is a crucial thing. This is why people spent countless hours to figure out their business name, the first step in branding. </p>
+
+<p>I see a lot of BigCommerce stores with name like <em>myfavoritecheapdeals.com</em> or others the like. Sometimes I cannot help but wonder why do people need to be so spammy. Yep, I said it. If I see such names the first thing I think about is that the store owner has another dozen stores with variations of that name. </p>
+
+<p>Really? Is this all you can do? Maybe for a short term business with no vision for the future this would help. In fact, it will help since building microsites to get as much traffic (and ca$$) as possible is a known (and accepted) way in SEO. But if you can do it that doesn't mean you should. </p>
+
+<h2>The Idea of Brand and SEO</h2>
+
+<p>Aaron Wall speaks a lot about <a href="http://www.seobook.com/brand-and-the-cycle" target="_blank">Google's bias regarding brands</a>, and frankly, why would I click on a link from an unknown business when I can choose Amazon or eBay, well established world wide brands? </p>
+
+<p>Wouldn't you like to be there? Using wise SEO tactics in your Bigcommerce store will take you far. All big brands started small, but with vision. </p>
+
+<p>From an SEO perspective big brands get a niece piece of the pie because of two key attributes: authority and age. Having a somewhat spammy domain name won't bring you much trust because many others are doing the same as you: choose the simple way and do not spend enough time to build your own identity. </p>
+
+<p>Google is able to tell about the main topics of your site or ecommerce store and will show you in the SERPs, not because of the domain name, but because you talk about a certain topic. </p>
+
+<p>Let's see some made up examples where I used an <a href="http://www.seomofo.com/snippet-optimizer.html" target="_blank">awesome SERP simulation tool</> done by <a href="http://www.seomofo.com/" target="_blank">seomofo.com</a>. </p>
+
+We have on one side <em>www.buycheapcars.com</em> and on the other side <em>lorellcars.com</em>:</p>
+<img src="https://s3.amazonaws.com/bc-posts-images/bc+seo+images/seo-needs-brands-serp-test.png" width="700" alt="bicommerce seo and building brands | www.springmerchant.com " />
+
+<p>and</p>
+
+<img src="https://s3.amazonaws.com/bc-posts-images/bc+seo+images/seo-needs-brands-serp-tool.png" width="700" alt="bicommerce seo and building better brands | www.springmerchant.com " />
+<p><em>(Please note: these domains do not exist, I have chosen them as an example!)</em></p>
+
+I would rather choose the second one because:
+<ul>
+<li>the owner took the time to be a little different</li>
+<li>Lorellcars might be a family business and you bet they care about their image</li>
+<li>Lorellcars is way more brandable than generic keywords domains</li>
+<li>it is easier to trust it</li>
+<li>easier to memorize</li>
+<li>it is more personal</li>
+</ul>
+
+<p>Regarding the last bullet point Google loves personal. In fact, Google loves so much the personal things that it <a href="http://bigcommerce.springmerchant.com/content/bigcommerce-death-meta-keywords-search-plus-your-world/" target="_blank">pushed it's products into SERPs spearheaded by nothing else than Google+</a>. So, you bet a brandable business is seen as more personal than generic keyword domains. </p>
+
+<p>Okay, so I wrote about why I like brands and brandability. So, please don't use some crappy domain name thinking that it will improve your Bigcommerce SEO. I know you'd like to know how to choose you best domain name, so read on. </p>
+
+<p>It is hard enough, but here is a common approach SEOs tend to take: use a custom name and add a keyword too. In the example above we have <em>LorellCars.com</em>. We have your custom name <em>Lorell</em> and then the keyword we'd like to include <em>Cars</em>. </p>
+
+<p>While going straight for a brand name without keywords in it (amazon, Google, eBay) is the way I'd like more, the hybrid brands name is good to use too. Why? Because Google still offers some weight to keywords in the domain name and thus, spammy domain names have the tendency to rank a bit higher (still) than brand domains. </p>
+
+<p>Want to read more about choosing the right domain name? Head over to <a href="http://www.seobook.com/how-choose-great-domain-names" target="_blank">SEO Book's -How to choose a domain</a> post. A nice read and it has a lot to offer. </p>
+
+<p>You have your brand name. Now what? Read on. </p>
+
+<h2>Build Your Brand Using Relationships and Content Creation</h2>
+
+<p>In Google's eyes you are a recognized brand if you get a ton of links, social engagement and create content. </p>
+
+<p>Nowadays link building takes a new form: relationships. Getting a lot of cheap links is easy, but getting links from trusted sites takes effort. And more than that, it needs to have an underlying relationship going on for some time. </p>
+
+<p>A brand takes time to build. A year, two or more, but it is worth it. </p>
+
+<p>Relationships put people in the center and are bound to get you more links than expected. A shot video about link building based on relationships is a good start point:</p>
+
+<object width="640" height="360"><param name="movie" value="http://www.youtube.com/v/4ZoGAXhuosc?version=3&amp;hl=ro_RO&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/4ZoGAXhuosc?version=3&amp;hl=ro_RO&amp;rel=0" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+
+<p>But building relationships is hard enough and many do not know where to start. Today you're in luck because SEO Moz's post about <a href="http://www.seomoz.org/blog/building-awesome-relationships-for-links-likes-and-love" target="_blank">awesome relationships for link building</a> is going to feed you some nice info about why you need to have relationships and how to build ones. (Warning: loooong post, but it is worth it). </p>
+
+<p>Relationships are good, but they need something on your part: your content. If you do not have a base content that is useful in some way, those relationships won't help much. You need to be trusted and trust is build upon what you own: your content. </p>
+
+<p>So, what type of content are we talking about? Well, almost any types of content you can create. From blog posts, infographics, surveys, ebooks to podcasts and newsletters. How? Read about <a href="http://searchengineland.com/10-more-content-ideas-to-improve-organic-visibility-115819" target="_blank">10 content ideas</a> and use the ones you'd like.</p> 
+
+<h2>Brand yourself as an expert and do some advanced on-page optimization</h2>
+
+<p>On page optimization has changed over time. Nowadays you need to show the signs of trust and authority on the site. The most visible places in the site need to house the badges, testimonials and awards. Build your brand and don't be shy in showing that you're an expert in your field. </p>
+
+<p>Joanna Lord, form SEO Moz, explains in the video from below how to do advanced on-page optimization and why we need to keep up the pace. You can read the transcript in the post about <a href="http://www.seomoz.org/blog/the-new-onpage-optimization-whiteboard-friday" target="_blank">The New On-Page Optimization</a> and leave a comment there. </p>
+
+<iframe class="wistia_embed" name="wistia_embed" src="http://fast.wistia.com/embed/iframe/f921e8db9a?videoWidth=600&videoHeight=338&controlsVisibleOnLoad=true&plugin%5Bsocialbar%5D%5Bversion%5D=v1&plugin%5Bsocialbar%5D%5Bbuttons%5D=embed-videoStats&playerColor=&canonicalUrl=http%3A%2F%2Fwww.seomoz.org%2Fblog%2Fthe-new-onpage-optimization-whiteboard-friday&canonicalTitle=The%20New%20On-Page%20Optimization%20-%20Whiteboard%20Friday" allowtransparency="true" frameborder="0" scrolling="no" width="600" height="363"></iframe>
+
+<p>Do you like the idea of brandability? How much did it took to choose your brand name? Side note: it took me a couple of months to decide for a catchy brand name for one of my blogs. It might take even longer for an ecommerce store. </p>
