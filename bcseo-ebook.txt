@@ -1,8 +1,8 @@
-<p>Since I started writing the BigCommerce SEO Bible post series I knew that we would need to have all the tips and tricks in one place. Today we officially launch our free ebook (30 pages) for everyone to keep at home. </p>
+<p>Since I started writing the BigCommerce SEO Bible series I knew that we would need to have all the tips and tricks in one place. Today we officially launch our free ebook (30 pages) for everyone to keep at home. </p>
 
-<p>This ebook outlines the baby steps you need to take in order to get your BigCommerce store "out there". Out there is the  wild wild world of the internet and, most importantly, of search engines. </p>
+<p>This ebook outlines the starting steps you need to take in order to get your BigCommerce store "out there". Out there is the wild wild world of the internet and, most importantly, of search engines. </p>
 
-<p>Most pieces of advice from this guide are tailored for Google and their goal is to transform your ecommerce store in a valuable asset of the SERPs. Adding value to the web, focusing on your customers and always tweaking are among the core activities regarding search engine optimization. </p>
+<p>Most pieces of advice from this guide are tailored for Google and their goal is to transform your ecommerce store in a valuable asset. Adding value to the web, focusing on your customers and always tweaking are among the core activities regarding search engine optimization. </p>
 
 <p>BigCommerce SEO Bible is an introductory guide to SEO and it isn't meant to offer in depth studies for SEO professionals. It has a lot of references to well established sources like <a href="http://www.seomoz.org/blog" target="_blank">SEO Moz</a>, <a href="http://www.searchenginejournal.com/" target="_blank">Search Engine Journal</a>, <a href="http://www.seobook.com/blog" target="_blank">SEO Book</a> and <a href="http://searchengineland.com/" target="_blank">Search Engine Land</a>, my top picks. </p>
 <div class="span10">
