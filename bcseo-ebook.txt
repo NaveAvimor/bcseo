@@ -1,0 +1,30 @@
+<p>Since I started writing the BigCommerce SEO Bible post series I knew that we would need to have all the tips and tricks in one place. Today we officially launch our free ebook (30 pages) for everyone to keep at home. </p>
+
+<p>This ebook outlines the baby steps you need to take in order to get your BigCommerce store "out there". Out there is the  wild wild world of the internet and, most importantly, of search engines. </p>
+
+<p>Most pieces of advice from this guide are tailored for Google and their goal is to transform your ecommerce store in a valuable asset of the SERPs. Adding value to the web, focusing on your customers and always tweaking are among the core activities regarding search engine optimization. </p>
+
+<p>BigCommerce SEO Bible is an introductory guide to SEO and it isn't meant to offer in depth studies for SEO professionals. It has a lot of references to well established sources like <a href="http://www.seomoz.org/blog" target="_blank">SEO Moz</a>, <a href="http://www.searchenginejournal.com/" target="_blank">Search Engine Journal</a>, <a href="http://www.seobook.com/blog" target="_blank">SEO Book</a> and <a href="http://searchengineland.com/" target="_blank">Search Engine Land</a>, my top picks. </p>
+<div class="span10">
+
+<div class="span5">
+In this ebook you will learn about:
+<ul>
+<li>the misconceptions regarding SEO</li>
+<li>some technical flaws in BigCommerce and how to overcome them</li>
+<li>basic steps to get your site online the right way</li>
+<li>how to do basic on-page optimization</li>
+<li>SEO sources you should check</li>
+<li>tools to better understand this activity</li>
+<li>how to choose the right domain name, URL structure or link formatting</li>
+<li>and many more</li>
+</ul>
+
+<p>To get this free ebook you need to go to the <a href="http://bigcommerce.springmerchant.com/bigcommerce-seo-bible-download/" target="_blank">BigCommerce SEO Bible page</a> and then sign up for our newsletter. Nothing easier than that. </p>
+</div>
+<div class="span4">
+<a href="http://bigcommerce.springmerchant.com/bigcommerce-seo-bible-download/" target="_blank"><img src="https://s3.amazonaws.com/ecommerce-downloads/bigcommerce-seo-bible-2012-free-ebook-download-spring-merchant.png" width="200" alt="Bigcommerce SEO Bible 2012 - free ebook from Springmerchant.com" /></a>
+</div>
+
+</div>
+<p>Subscribing to our newsletter will ensure that you receive a weekly digest of our SEO posts and some handy tips regarding customization of your <a href="http://bigcommerce.springmerchant.com/content/categories/bigcommerce-modifications/" target="_blank">BigCommerce Templates</a>. Happy Bigcommercing!</p>
