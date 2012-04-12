@@ -1,26 +1,26 @@
-<p>When I write about Bigcommerce SEO the posts are meant for the store owners to enable them to check from if the company they've hired does its job. One particular part that raises interest are the ranks in the SERPs.  </p>
+<p>When I write about Bigcommerce SEO the posts are meant for the store owners to enable them to check if the company they've hired is doing their job. One particular part that raises interest are the ranks in the SERPs.  </p>
 
 <p>A few things about ranking:</p>
 <ul>
-<li>if you rank #1 for a particular term and no traffic is coming in you need to rethink your targeting</li>
+<li>if you rank #1 for a particular term and no traffic is coming in you need to rethink your keyword targeting</li>
 <li>if you rank #1 but only some traffic is coming in then you may need to work on your copy (title, description) and snippets usage</li>
 <li>being on the first page and on the first three positions is still one goal among others while doing SEO</li>
-<li>if you want to rank #1 from the first week then Utopia might be your second name</li>
+<li>if you want to rank #1 from the first week then Utopia might be your last name</li>
 <li>if someone promises #1 from the first week or so, go home and drink a beer: you'll be a happier man</li>
-<li>if your ranks remain the same (ex, pos 14) for a long period of time you may want to work on some tweaks</li>
+<li>if your ranks remain the same (ex, pos 14) for a long period of time you may want to tweak</li>
 <li>if a given page jumps up and down in rankings then you may need to tweak that too</li>
-<li>a free fall in rankings are a sign of your site having over optimization or using some shady tactics</li>
+<li>a free fall in rankings is a sign of your site having over optimization or using some shady tactics</li>
 </ul>
 
-<p>As fascinating as it is SEO needs a lot of work and tweaking. One of the best things about search engine optimization is that there are a number of free tool to help you in determining many characteristics that would help you direct efforts in the right way. And here enter the free SEO tools.</p>
+<p>As fascinating as it is SEO needs a lot of work and tweaking. One of the best things about search engine optimization is that there are a number of free tool to help you in determining many characteristics that would help you direct efforts in the right way. And here are the free SEO tools.</p>
 
 <h2>Free rank checking tools</h2>
 
-<p>The SEO tools are many, but in this post I'll out line one a few that help you determine the ranks for your main keywords. Ideally is to have a lot of traffic for many different keywords. It is a known fact that brand keywords drive only a maximum of 10% of traffic, but that is a good sign.</p> 
+<p>SEO tools are many, but in this post I'll out line a few that help you determine the ranks for your main keywords. Ideally you want to have a lot of traffic for many different keywords. It is a known fact that brand keywords drive only a maximum of 10% of traffic, but that is a good sign.</p> 
 
 <p>Of course, brand keywords like <strong>Amazon Books</strong> are a different thing than your main keywords which could be <strong>history books</strong> or <strong>cooking books</strong>. Those main keywords need your attention.</p> 
 
-<p>So, let's see what tools can we use to enlighten the ranks our great BigCommerce store have. </p>
+<p>So, let's see what tools can we use to enlighten the ranks of our BigCommerce store. </p>
 
 <h3>SERP Trends</h3>
 
@@ -37,7 +37,7 @@
 
 <h3>Rank checker from SEO Book</h3>
 
-<p>I use <a href="http://tools.seobook.com/" target="_blank">Rank Checker</a> regularly as it helps me get pretty accurate SERP indications. It is a bit different than the other add-on because it let you insert several keywords and then it shows you the ranks for each one in one simple table. </p>
+<p>I use <a href="http://tools.seobook.com/" target="_blank">Rank Checker</a> regularly as it helps me get pretty accurate SERP indications. It is a bit different than the other add-on because it lets you insert several keywords and then it shows you the ranks for each one in one simple table. </p>
 
 <p>Using this often and creating graphs from those tables enabled us to see what keywords were performing and also rethink our keyword targeting. Hint: if you rank #1 for a term for a while and if Google Analytics + Google Webmasters Tools show almost no traffic for that keyword then it's time for change. </p>
 
@@ -53,14 +53,14 @@
 
 <p>Google Analytics is a real treasure. Using custom reports, filters, dashboards with your own widgets and so on you can get the juice out of all that flood of data. At first glance it can be overwhelming, but after a while it you can see the fun in it. </p>
 
-<p>Bryan Casson has posted on SEO Moz an very well documented post about <a href="http://www.seomoz.org/blog/show-keyword-position-using-filters-and-advanced-segments" target="_blank">using filters and advanced segments</a> to see the amount of traffic driven by a keyword from a given keyword position. Well, that is nice. </p>
+<p>Bryan Casson has posted on SEO Moz a very well documented post about <a href="http://www.seomoz.org/blog/show-keyword-position-using-filters-and-advanced-segments" target="_blank">using filters and advanced segments</a> to see the amount of traffic driven by a keyword from a given keyword position. Well, that is nice. </p>
 
 <p>Just see how such report and graphic would show in your Google Analytics account (I used one of my blogs for this test):</p>
 <img src="https://s3.amazonaws.com/bc-posts-images/bc+seo+images/google-analytics-positions-amount-of-traffic-filters-myblog.png" width="Keyword position and traffic that it drives" title="" alt="Use filters and advanced segments in Google Analytics - springmerchant" />
 
 <p>You can see in the image above that keywords found in Top 5 positions got me 142 visits on 5th April. Top 1 brought me 95 visits. I know which keyword was that. </p>
 
-<p>Do you want to have this level of accuracy? Then you will need to do <a href="http://www.seomoz.org/blog/show-keyword-position-using-filters-and-advanced-segments" target="_blank">follow this tutorial</a> in order to setup advanced filters and segments.</p>
+<p>Do you want to have this level of accuracy? Then you will need to <a href="http://www.seomoz.org/blog/show-keyword-position-using-filters-and-advanced-segments" target="_blank">follow this tutorial</a> in order to setup advanced filters and segments.</p>
 
 <p>Basically, you need to :</p>
 <ul>
@@ -72,7 +72,7 @@
 
 <p>After about two days you will be able to see the wonder. This setting is for advanced users, but frankly if you know how to follow directions you can't fail. And you don't even need any super-skills. </p>
 
-<p>If you go to  <strong>Standard Reporting -> Traffic sources -> Sources -> Search -> Overview</strong> you will see the image from below:</p>
+<p>If you go to  <strong>Standard Reporting -> Traffic sources -> Sources -> Search -> Overview</strong> you will see the image below:</p>
 
 <img src="https://s3.amazonaws.com/bc-posts-images/bc+seo+images/google-analytics-advanced-filters-segments-top-1-position-traffic-springmerchant.png" title="google analytics filters and segments show position and traffic" alt="google analytice filters and segments show position and traffic" />
 
@@ -80,7 +80,7 @@
 
 <h2>Free is awesome</h2>
 
-<p>But free is not the ultimate goal. Free SEO tools help a lot, but they can do only so much. For more advanced studies you need to cough up serious cash. SEO professionals use advanced tools that cost quite a bunch, but increase productivity very much. </p>
+<p>But free is not the ultimate goal. Free SEO tools help a lot, but they can do only so much. For more advanced studies you need to cough up some serious cash. SEO professionals use advanced tools that cost quite a bunch, but they also increase productivity. </p>
 
 <p>If you get to know how to use these tools you will be more close to understand the link between ranks and traffic. As you already read at the beginning of the post: higher ranks do not mean that you'll get more traffic if you target the wrong keywords. </p>
 
