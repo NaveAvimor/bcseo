@@ -1,0 +1,52 @@
+ <p>Product pages are the life blood of every BigCommerce store. Managing expired content and making sure fresh content is added regularly need to follow some simple SEO tips.</p>
+
+<p>Getting found via search engines is a daunting task and, if you do the same things others do, you won't get much credit at all. BigCommerce has a few basic SEO options like adding your own title tag or meta description, but the most important part is what type of content you push in each page. Copy and paste from manufacturers site won't help.</p>
+
+<p><h2>What is expired content?</h2></p>
+
+<p>Bluntly put, expired content are pages you do not need anymore. It is okay to simply delete them, but here's the catch: you might rank well for a product you do not sell anymore in your store? What should you do in this situation?</p>
+
+<p>You are selling a new line of products and don't want to send false information to your customers by keeping the old product's pages up. </p>
+
+<p>According to the post on <a href="http://www.seomoz.org/blog/how-should-you-handle-expired-content" target="_blank">SEO Moz about expired content</a> you could use several approaches:<br /><ul><br /><li>setup 404 pages</li><br /><li>leave the pages in place</li><br /><li>setup 301 redirects</li><br /></ul></p>
+
+<p>If you have a site with 30k products and about 2k product pages need to be deleted using 404 pages is not a good idea. Too many 404s lead to high bounce rate and to unpleasant experience. You want to avoid that. </p>
+
+<p>Since you have already ranked well for some of these pages you could either leave them in place or use 301 redirects. </p>
+
+<p>Best is to make a table of which products rank better and leave those in place, while modifying their content to inform the customer that you have a new set of products and link to your main categories from those pages. </p>
+
+<p>The rest of the pages could be deleted and then setup 301 redirects. Choose to redirect to category or brand page as those types of pages are more likely to remain for a long while in your site. </p>
+
+<p>As in many cases hybrid approaches are a safe passage. Keep the most important product pages, but modify them and setup 301 redirects for the ones less important. </p>
+
+<p><h2>Fresh and original content</h2><br /><a href="" target="_blank">    </a></p>
+
+<p>This is one of the hardest points in ecommerce content creation. If you have 30k products the effort to get in original content for each product page could add up to thousands of dollars spend on new product descriptions alone. Or having the need to hire new staff members that write over and over again new product descriptions. </p>
+
+<p>One thing is certain: you need quality content and fresh content. </p>
+
+<p>Search Engine Journal has a niece post about <a href="http://www.searchenginejournal.com/googles-fresh-video-seo-tips-for-website-product-pages/42465/" target="_blank">Google’s “Fresh” Video SEO Tips for Website Product Pages</a> where it explains why we need original content in our sites. </p>
+
+<p>Google sees an ecommerce site in the same way as it sees every other website in the world. No shortcuts allowed only because you think that you shouldn't have to rewrite manufacturers description. </p>
+
+<p>A few things to consider while creating original content for your product pages:<br /><ul><br /><li>use  videos - even YouTube videos, but use the old Flash embed code and not the one that uses iframes </li><br /><li>insert images in the product description</li><br /><li>add more text to the manufacturers descriptions (200+ words)</li><br /><li>encourage customers to leave reviews</li><br /></ul></p>
+
+<p>A bonus tip: use memes. If you get to use memes tailored to what you sell, you might have the chance to drive in a lot of traffic. Reading about the <a href="http://www.seomoz.org/blog/a-small-success-story-inspired-by-seomoz-and-its-contributors" target="_blank">small success of a company that sells Coat Hangers</a> is at least motivational. </p>
+
+<p>They used the "Keep Calm and Hang On" meme to promote their business and it worked. They got an increase of 5% in traffic at the expense of 30 minutes of work. Now, that's ROI by the book. Not everyone will succeed, but better take  a leap of faith and just try it. </p>
+
+<p><h2>Revive your content strategy</h2></p>
+
+<p>Having an ecommerce store and trying to get in a ton of traffic is way harder than having a blog. A blogger can publish easier content that is fresh and that is engaging, but that doesn't mean you can't. </p>
+
+<p>Usually you can get traffic by creating you own special "resource" pages which can be easily shared with your followers. Small ebooks, infographics and videos can get you lots of traffic with one catch: have the right people share your content. </p>
+
+<p><a href="http://www.seomoz.org/blog/overcoming-your-winter-of-discontent-whiteboard-friday" target="_blank">Rand Fishkin explains</a> in detail what you need to do in order to get the most possible shares for you content. Enjoy de video and happy ranking.</p>
+
+<p><iframe class="wistia_embed" name="wistia_embed" src="http://fast.wistia.com/embed/iframe/640d8ea178?videoWidth=600&videoHeight=338&controlsVisibleOnLoad=true&canonicalUrl=http%3A%2F%2Fwww.seomoz.org%2Fblog%2Fovercoming-your-winter-of-discontent-whiteboard-friday&canonicalTitle=Overcoming%20Your%20Winter%20of%20Dis-Content%20-%20Whiteboard%20Friday%20%7C%20SEOmoz&plugin%5Bsocialbar%5D%5Bversion%5D=v1&plugin%5Bsocialbar%5D%5Bbuttons%5D=embed-videoStats&plugin%5Bsocialbar%5D%5Blogo%5D=true&plugin%5Bsocialbar%5D%5BbadgeUrl%5D=http%3A%2F%2Fwistia.com&plugin%5Bsocialbar%5D%5BbadgeImage%5D=http%3A%2F%2Fstatic.wistia.com%2Fimages%2Fbadges%2Fwistia_100x96_black.png" allowtransparency="true" frameborder="0" scrolling="no" width="600" height="363"></iframe></p>
+
+<p><hr /><div class="span8 well-small">Did you read our BigCommerce SEO Bible free ebook? It is waiting for you only a few clicks away.<br /><a href="http://bigcommerce.springmerchant.com/bigcommerce-seo-bible-download/" target="_blank">Click here to subscribe and download the BigCommerce SEO Bible ebook</a>.</div><br /><br /></p>
+  </div>
+</div>
+<br />
