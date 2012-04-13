@@ -1,14 +1,12 @@
-A big HELLO from Spring Merchant team. 
+A big HELLO from the Spring Merchant team. 
 
-A new week has passed by and we are happy to send over our weekly digest. We are hoping you are having an Happy Easter time because we do. 
-
-Our newest SEO posts are right here. Prepare your coffee and start reading. 
+A new week has passed by and we are happy to send over our weekly digest. Our newest SEO posts are right here. Prepare your coffee and start reading. 
 
 <a href="http://bigcommerce.springmerchant.com/content/seo-for-bigcommerce-is-fun-if-you-use-free-rank-checking-tools/" target="_blank">SEO for BigCommerce is fun if you use free rank checking tools</a> is a post where you learn about why ranking #1 for a keyword is not always good and how to use free tools to check your rankings in the search engines. 
 
 Do you have issues with expired content? Some products need to be deleted and you want to do it the right way? Enter <a href="http://bigcommerce.springmerchant.com/content/seo-tips-regarding-expired-or-fresh-content-in-bigcommerce-stores/" target="_blank">SEO tips regarding expired or fresh content in BigCommerce stores</a>. 
 
-In this post you will learn that using 301 redirects is better that 404s and that Google sees your ecommerce site in the same way as it sees any other website in the world. And it demand quality and freshness. 
+In this post you will learn that using 301 redirects is better that 404s and that Google sees your ecommerce site in the same way as it sees any other website in the world. And it demands quality and freshness. 
 
 Our Top 2 Bigcommerce design and functionality posts 
 
@@ -18,5 +16,6 @@ Another great post that will surely help is <a href="http://bigcommerce.springme
 
 It is a well known fact that the asynchronous code doesn't work well in BigCommerce thus you need to use the traditional one. Our javascript app allows you to insert your Analytics identifier, the code that looks like this UA-XXXXXXXX-X, and will output the traditional script. That new code is ready to be inserted in Settings- Analytics - Google . 
 We hope you had a great week and that you will enjoy our posts.
+
 Until next time. 
 The Spring Merchant Team
