@@ -1,0 +1,57 @@
+  <p>There is a difference between the keyword used in search and customer's intent. You can obtain better rankings once you understand this fact and start doing a better research. Of course, the results won't reveal them selves in a day or two, but time is your best friend when it comes to SEO.</p>
+
+<p>Usually you would look at Google Webmasters Tools to see which keywords drive you most of the traffic and even through Google Insights you may see some trends, but that is not all. </p>
+
+<p>I mentioned about Search Suggest as a useful tool in my post <a href="http://bigcommerce.springmerchant.com/content/spice-up-your-bigcommerce-seo-competition-is-your-best-friend/" target="_blank">About The Importance of Studying Your Competition While Doing SEO</a> and now we'll take a closer look at other tools that are only one click away. </p>
+
+<p><h2>Semantic Keyword Research</h2></p>
+
+<p>SEO Moz is a blog for professionals, but I consider it a must read for everyone. Yes, even for you, a BigCommerce store owner. Just yesterday Neil Patel, the co-founder of <a href="http://www.kissmetrics.com/" target="_blank">Kiss Metrics</a>, wrote an awesome post <a href="http://www.seomoz.org/blog/how-to-improve-your-rankings-with-semantic-keyword-research" target="_blank">about semantic search and doing a better research based on it</a>.  </p>
+
+<p>No SEO tip is good enough if it doesn't take into account semantic search, which is nothing else than Google trying to understand the meaning behind the the keywords used in the search query. Right now Google serves pages in the SERPs based on keywords and on its mathematical algorithm which does a good job, most of the times. There is an issue with this: customer intent may be other than the keywords taken at face value.</p>
+
+<p>Here comes the semantic keyword research, which takes you into a journey to understand the links between the keywords and how different clues would help shape the intent behind a customer's action. That is search engine optimization at its finest level. So, feel free to experiment your self based on the ideas from below. </p>
+
+<p>Neil Patel presents his example with "laptop discount codes". I will use another : "car repair". Looking at the examples you will get a better picture about these keywords and be ready to offer content that covers the broad aspect of them. </p>
+
+<p>Normally, if you enter "car repair" in Google search you will get something like this:<br /><img src="https://s3.amazonaws.com/bc-posts-images/bc+seo+images/bigcommerce-semantic-keyword-research-car-repair-spring-merchant.png" width="600" title="Search result for Car Repair as we see them daily" alt="semantic keyword research done by bigcommerce store owners can lead to interesting information - www.springmerchant.com"></p>
+
+<p>Now, if we got on the left side of the result page, click on More Search Tools - > Related Search we will see the following image:</p>
+
+<p><img src="https://s3.amazonaws.com/bc-posts-images/bc+seo+images/semantic-keyword-research-related-searches-car-repair-springmerchant.png" width="600" title="Search result for Car Repair as we see them in related search" alt="semantic keyword research aided by related search - www.springmerchant.com"></p>
+
+<p>We have now a better view on the subject: "car repair". It seems that we need to take into account car service, car maintenance, car repair costs, car repair shops and so on. Getting closer to the truth? You bet. </p>
+
+<p>Seeing these related searches bring into our attention the needs of the customers. For example, looking at the related searches you know that you will need to do some research and provide information about prices, shops and if some repair steps can be done at home. </p>
+
+<p>Looking at the Search Suggest tool you will see suggestions that are very close to our related terms. <br /><img src="https://s3.amazonaws.com/bc-posts-images/bc+seo+images/semantic-keyword-research-car-repari-in-search-suggest-springmerchant.png" width="600" title="Search result for Car Repair as we see them in Search suggest" alt="semantic keyword research aided by search suggest - www.springmerchant.com"></p>
+
+<p>And, if you check a bit <a href="http://www.google.com/insights/search/" target="_blank">Google Insights</a> you will see this:<br /><img src="https://s3.amazonaws.com/bc-posts-images/bc+seo+images/semantic-keyword-research-car-repair-google-insights-spring-merchant.png" width="600" title="Search result for Car Repair as we see them in Google Insights" alt="semantic keyword research aided by google insights - www.springmerchant.com"></p>
+
+<p>Seeing all these you can target your content to feed your customer the necessary information. </p>
+
+<p>There are many different tools that can be used to see the searcher intent like: <a href="http://www.delicious.com/" target="_blank">Delicious</a>, <a href="http://www.socialmention.com/" target="_blank">Social Mention</a>, <a href="https://twitter.com/#!/search-home" target="_blank">Twitter Search</a>, <a href="http://youropenbook.org/" target="_blank">Openbook</a>, <a href="http://www.google.com/trends/" target="_blank">Google Trends</a> and many others.  </p>
+
+<p>I like Social Mention because it gives you the sentiment, an overview of the opinion about you and top keywords for a given site. </p>
+
+<p>Make sure to read <a href="http://www.seomoz.org/blog/how-to-improve-your-rankings-with-semantic-keyword-research" target="_blank">Neil Patel's entire post about semantic keyword research</a> and you will see how fascinating is to fight your way through the obvious and find the essential from all this flow of data. Because that's what is SEO all about: make order in a flood of data and get a precise direction. </p>
+
+<p><h2>Understand Keywords in Searcher Context</h2></p>
+
+<p>Now things are getting really interesting. One thing is to understand the intent based on the related searches and suggestions you get in Google, but another thing is to take into account their context. </p>
+
+<p>What Shari Thurow explains in this awesome post <a href="http://searchengineland.com/how-to-understand-keywords-in-searcher-context-118188" target="_blank">about Understanding Keywords In Searcher Context</a> revolves around the fact that knowing the medium a searches is in can shape our image about him/her and can get us closer to understanding the intent behind the keywords used. </p>
+
+<p>The study her firm conducted revealed that the user does not insert the context for a given keyword. Tests consisted of having a number of subject which were told to think of a context for a given word. </p>
+
+<p>Gas, for example, led to different contexts like : gasoline, Oxygen, fire and so on. But when told to put that word in a medical context the subjects thought of: Oxygen, GAS - a bacteria, or sleeping gas. </p>
+
+<p>The takeaway from this is that we need to learn the following thing: the searcher does not insert the context in the search box, but instead sees him or herself as part of a group and then searches by a main topic of that given group. </p>
+
+<p>That being said we might need to look further than the keyword volume and understand that the searcher might use less known keyword combinations to get to the desired webpage. </p>
+
+<p>Shari Thurow invites us to look for other sources of information when trying to understand users context: Field studies<br />User interviews, Usability testing, Observing users/searchers in their “natural” search environment and Diary studies. </p>
+
+<p>Kinda hard to swallow this information, right? Semantic keyword research and searchers context are interesting concepts that every BigCommerce store owner needs to take into account. Understand their intent by finding the meaning of their searches and putting all this in their context. This way you will be able to focus on delivering what they need. </p>
+
+<p>Ah, and I forgot one thing: understanding their intent will help you rank better by streamlining your content. How could I forget to put that in the post? </p>
