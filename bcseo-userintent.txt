@@ -1,8 +1,8 @@
-  <p>There is a difference between the keyword used in search and customer's intent. You can obtain better rankings once you understand this fact and start doing a better research. Of course, the results won't reveal them selves in a day or two, but time is your best friend when it comes to SEO.</p>
+  <p>There is a difference between the keyword used in search and a customer's original intent. You can obtain better rankings once you understand this fact and start doing better research. Of course, the results won't reveal themselves in a day or two, but time is your best friend when it comes to SEO.</p>
 
 <p>Usually you would look at Google Webmasters Tools to see which keywords drive you most of the traffic and even through Google Insights you may see some trends, but that is not all. </p>
 
-<p>I mentioned about Search Suggest as a useful tool in my post <a href="http://bigcommerce.springmerchant.com/content/spice-up-your-bigcommerce-seo-competition-is-your-best-friend/" target="_blank">About The Importance of Studying Your Competition While Doing SEO</a> and now we'll take a closer look at other tools that are only one click away. </p>
+<p>I mentioned Search Suggest as a useful tool in my post <a href="http://bigcommerce.springmerchant.com/content/spice-up-your-bigcommerce-seo-competition-is-your-best-friend/" target="_blank">About The Importance of Studying Your Competition While Doing SEO</a> and now we'll take a closer look at other tools that are only one click away. </p>
 
 <p><h2>Semantic Keyword Research</h2></p>
 
@@ -34,13 +34,13 @@
 
 <p>I like Social Mention because it gives you the sentiment, an overview of the opinion about you and top keywords for a given site. </p>
 
-<p>Make sure to read <a href="http://www.seomoz.org/blog/how-to-improve-your-rankings-with-semantic-keyword-research" target="_blank">Neil Patel's entire post about semantic keyword research</a> and you will see how fascinating is to fight your way through the obvious and find the essential from all this flow of data. Because that's what is SEO all about: make order in a flood of data and get a precise direction. </p>
+<p>Make sure to read <a href="http://www.seomoz.org/blog/how-to-improve-your-rankings-with-semantic-keyword-research" target="_blank">Neil Patel's entire post about semantic keyword research</a> and you will see how fascinating it is to fight your way through the obvious and find the essential from all this flow of data. Because that's what is SEO all about: make order in a flood of data and get a precise direction. </p>
 
 <p><h2>Understand Keywords in Searcher Context</h2></p>
 
 <p>Now things are getting really interesting. One thing is to understand the intent based on the related searches and suggestions you get in Google, but another thing is to take into account their context. </p>
 
-<p>What Shari Thurow explains in this awesome post <a href="http://searchengineland.com/how-to-understand-keywords-in-searcher-context-118188" target="_blank">about Understanding Keywords In Searcher Context</a> revolves around the fact that knowing the medium a searches is in can shape our image about him/her and can get us closer to understanding the intent behind the keywords used. </p>
+<p>What Shari Thurow explains in this awesome post <a href="http://searchengineland.com/how-to-understand-keywords-in-searcher-context-118188" target="_blank">about Understanding Keywords In Searcher Context</a> revolves around the fact that knowing the medium a searche is in can shape our image about him/her and can get us closer to understanding the intent behind the keywords used. </p>
 
 <p>The study her firm conducted revealed that the user does not insert the context for a given keyword. Tests consisted of having a number of subject which were told to think of a context for a given word. </p>
 
@@ -50,7 +50,7 @@
 
 <p>That being said we might need to look further than the keyword volume and understand that the searcher might use less known keyword combinations to get to the desired webpage. </p>
 
-<p>Shari Thurow invites us to look for other sources of information when trying to understand users context: Field studies<br />User interviews, Usability testing, Observing users/searchers in their “natural” search environment and Diary studies. </p>
+<p>Shari Thurow invites us to look for other sources of information when trying to understand users context: Field studies<br />User interviews, Usability testing, Observing users/searchers in their "natural" search environment and Diary studies. </p>
 
 <p>Kinda hard to swallow this information, right? Semantic keyword research and searchers context are interesting concepts that every BigCommerce store owner needs to take into account. Understand their intent by finding the meaning of their searches and putting all this in their context. This way you will be able to focus on delivering what they need. </p>
 
