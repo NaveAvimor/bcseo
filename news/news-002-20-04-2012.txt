@@ -1,0 +1,21 @@
+Howdy Spring Merchant fans. 
+
+Another week has passed by and we are ready to send you links to another awesome posts regarding SEO and our top customization tips for BigCommerce. 
+
+Friday is the best day to relax and draw the line. We hope you had a wonderful week like we did.
+
+SEO headlines of the week
+
+In the post about <a href="http://bigcommerce.springmerchant.com/content/bigcommerce-seo-tips-understand-searcher-intent/" target="_blank">Understanding searcher intent</a> we dive into the exotic world of semantic keyword research and searcher context. Nowadays we need to move past the simple approach of creating content targeted at keywords and move to creating content targeted at the meaning behind the keyword. Now things sound quite interesting, isn't it?
+
+<a href="http://bigcommerce.springmerchant.com/content/pro-tip-for-bigcommerce-stores-avoid-negative-seo-and-over-optimization/" target="_blank">Pro Tip For BigCommerce Stores: avoid negative SEO and over-optimization</a> explains what negative SEO is and outlines basic steps to avoid a Google penalty because of over-optimization. Negative SEO - buying links from spam blog networks and pointing them to the competition - is been around for a while, but it got a lot of attention because Google takes such links into account when it classifies a site as a scammer. Recommended read. 
+
+BigCommerce template customizations only one click away
+
+If you want to highlight the active category you're in then using <a href="http://bigcommerce.springmerchant.com/content/bigcommerce-templates-how-to-highlight-the-active-category/" target="_blank">these javascript code examples</a> will help you accomplish just that. Is as easy as doing a simple copy&paste and you're done. If you want to choose another color to highlight the active category use this online tool: <a href="http://www.colorschemer.com/online.html" target="_blank">Color Schemer</a>.
+
+There are a lot of store owners who like to tweak the message from the Thank You page after a customer has made a purchase. Changing the wording is not easy and will require you to edit the templates, but we've got you covered. <a href="http://bigcommerce.springmerchant.com/content/change-wording-finishorder-bigcommerce/" target="_blank">Read here</a> how to do this without the risk of deleting some important code. Also, if all else fails, please use the Revert button from top right of the editor. It works like a charm since it revers the template to its default state. 
+
+Until next time. 
+
+<a href="" target="_blank">
