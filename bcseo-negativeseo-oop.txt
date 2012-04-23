@@ -16,7 +16,7 @@
 
 <p>A recent example that you can nuke competitors sites using negative SEO is the situation where <a href="http://www.seofaststart.com/" target="_blank">Dan Thies (seo guru at seofaststart.com)</a> <a href="https://groups.google.com/a/googleproductforums.com/forum/#!category-topic/webmasters/chit-chat/Azfly-iRtLs" target="_blank">got a ton of bad backlinks</a> resulting in warnings in his Webmasters Tools account. </p>
 
-<p>Aaron Wall argues that if this practice becomes a wide scale activity the only one who can win form this is Google, because the incertainty of ranking will be all over the place. </p>
+<p>Aaron Wall argues that if this practice becomes a wide scale activity the only one who can win from this is Google, because the incertainty of ranking will be all over the place. </p>
 
 <p>Should you sink your competitor's site down to page 10 using this tactic? NO. However you feel about that fact that is not "right" for the other ones to rank higher than you, do not employ this tactic. If you start doing this then you will be next victim and the game starts again. Time and opportunity to create great content and sales will be wasted with this. </p>
 
@@ -26,7 +26,7 @@
 
 <p>If you want a quick rundown on what over optimization is then head on to the <a href="http://www.webmasterworld.com/google/4442234.htm" target="_blank">Webmasters World Forum</a> and read all the details and answers from there. Now answer a question: did you do this in your site? Cross your heart? </p>
 
-<p>I had the chance to talk to someone about one of the most common types of over optimization - keyword stuffing - and  she had her main keyword 10 times in a page where it wasn't needed more than two times. After a long talk I realized that, if you are in the middle of all this, it is hard to see that you went over board with the optimization thing. She wouldn't admit that there was an issue with that page what ever reasons I would bring forth.</p>
+<p>I had the chance to talk to someone about one of the most common types of over optimization - keyword stuffing - and  she had her main keyword 10 times in a page where it wasn't needed more than two times. After a long talk I realized that, if you are in the middle of all this, it is hard to see that you went over board with the optimization thing. She wouldn't admit that there was an issue with that page no matter what reasons I would bring forth.</p>
 
 <p>So, over optimization has these characteristics:<br /><ul><br /><li>keywords used too many times in page - reading gets slow because of this, seems artificial</li><br /><li>too many domain redirects to your main domain</li><br /><li>same anchor text for too many backlinks - use variations, sometimes use even "here", "click here", or whatever, to get more variety</li><br /><li>doorway pages - pages made specifically for affiliate activities</li><br /><li>link schemes - getting many (automated) backlinks in cheap packages</li><br /><li>too many keywords in the title tag </li><br /><li>manipulative internal links </li><br /><li>too many unrelated links in footer</li><br /><li>content blocks made specifically for planting keywords in the pages</li><br /><li>backlinks from untrusted sites</li><br /><li>many pages targeting keyword variations</li><br /><li>makes you blind</li><br /></ul></p>
 
@@ -36,13 +36,13 @@
 
 <p>One of the best ways to avoid a penalty (of any sort from Google) is to take preemptive actions and dive into the <a href="http://blog.hubspot.com/blog/tabid/6307/bid/32479/32-White-Hat-Ways-to-Build-Inbound-Links.aspx" target="_blank">32 white hat ways to build quality content and user experience</a> and, in the same time, to get high quality backlinks. When should you start doing this? Tomorrow? In a week? Hmm, how does yesterday sound like? You already need to be in the middle of this and if not start NOW. </p>
 
-<p>Rand Fishkin, helpful as always, has created another great video in which he explains some of the steps that you need to take care of in order to ride a safe way in the SERPs. </p>
+<p>Rand Fishkin, helpful as always, has created another great video in which he explains some of the steps that you need to take care of in order to ride safe in the SERPs. </p>
 
 <p>The <a href="http://www.seomoz.org/blog/6-changes-every-seo-should-make-before-the-over-optimization-penalty-hits-whiteboard-friday" target="_blank">6 changes needed to avoid a penalty</a> will make your Friday way more informative. </p>
 
 <p><iframe class="wistia_embed" name="wistia_embed" src="http://fast.wistia.com/embed/iframe/827a20e34e?videoWidth=600&videoHeight=338&controlsVisibleOnLoad=true&canonicalUrl=http%3A%2F%2Fwww.seomoz.org%2Fblog%2F6-changes-every-seo-should-make-before-the-over-optimization-penalty-hits-whiteboard-friday%3Futm_source%3Dfeedburner%26utm_medium%3Dfeed%26utm_campaign%3DFeed%253A%2Bseomoz%2B%2528SEOmoz%2BDaily%2BBlog%2529&canonicalTitle=6%20Changes%20Every%20SEO%20Should%20Make%20BEFORE%20the%20Over-Optimization%20Penalty%20Hits%20-%20Whiteboard%20Friday%20%7C%20SEOmoz&plugin%5Bsocialbar%5D%5Bversion%5D=v1&plugin%5Bsocialbar%5D%5Bbuttons%5D=embed-videoStats" allowtransparency="true" frameborder="0" scrolling="no" width="600" height="363"></iframe></p>
 
-<p>Have you looked at you BigCommerce store? Are all things okay or do you need to work more to "de-optimize" it? Remember: if you will have to change the titles and URLs of the products make sure to have 301s in place to redirect to the new URL. Stay safe and rank well!</p>
+<p>Have you looked at your BigCommerce store? Are all things okay or do you need to work more to "de-optimize" it? Remember: if you have to change the titles and URLs of the products make sure to have 301s in place to redirect to the new URL. Stay safe and rank well!</p>
 
 <p><div class="span8 well-small">Did you read our BigCommerce SEO Bible free ebook? It is waiting for you only a few clicks away.<br><a href="http://bigcommerce.springmerchant.com/bigcommerce-seo-bible-download/" target="_blank">Click here to subscribe and download the BigCommerce SEO Bible ebook</a>.</div>
 <br />
