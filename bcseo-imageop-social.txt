@@ -1,4 +1,4 @@
- <p>They do, but not enough. Many BigCommerce store owners care enough about SEO only to insert original titles and to submit the sitemap to Google, but they often forget about image optimization or REAL social media presence. Negative SEO is not a subject to worry about too much, albeit last weeks many blogs have cried foul. </p>
+<p>They do, but not enough. Many BigCommerce store owners care enough about SEO only to insert original titles and to submit the sitemap to Google, but they often forget about image optimization or REAL social media presence. Negative SEO is not a subject to worry about too much, albeit last weeks many blogs have cried foul. </p>
 
 <p>If you are a big fan of SEO news and so on your may have heard of the <a href="http://seobullshit.com/google-presents-titanic-coming-serps/" target="_blank">Penguin update</a>, which affected 3% of the sites (big move) and that the fuss around the <a href="http://www.business2community.com/seo/what-googles-over-optimization-penalty-really-means-0169802" target="_blank">over-optimization penalty was a hype</a>. Or that SEO Moz ranks number one for, well, <a href="https://plus.google.com/u/0/111294201325870406922/posts/UCUNUNMtFWk" target="_blank">"snuggie dog bed"</a>(<a href="http://grindstoneseo.com/yeah-i-am-that-guy.html" target="_blank">explanation here too</a>).</p>
 
@@ -6,17 +6,17 @@
 
 <p>Beyond the wars between webmasters and Google or those between white hat SEOs and black, grey or pink ones, is the big mass of people who what really wants is to get the ecommerce site out there and make some bucks. </p>
 
-<p>Here come the useful SEO tips foe everyone, not only for BigCommerce stores. So, in case you didn't gave it enough thought then you need to know that Google Image Search can bring you traffic if you know how to optimize your images. </p>
+<p>Here come the useful SEO tips for everyone, not only for BigCommerce stores. So, in case you didn't gave it enough thought then you need to know that Google Image Search can bring you traffic if you know how to optimize your images. </p>
 
 <p>It is nothing that you can't do (except the image sitemap which isn't easy to create in BigCommerce) so why not check <a href="http://blog.hubspot.com/blog/tabid/6307/bid/32567/A-Marketer-s-Guide-to-Optimizing-Images-for-Google-Search.aspx" target="_blank">HubSpot's article about image optimization</a>? What your actions will do is to ease Google's work on identifying what the images are about and if they are relevant in the context you have put them. </p>
 
-<p>So, what you need to do? Here I will list the main actions presented in HubSpot's article to get a better image optimization:<br /><ul><br /><li>use formats accepted by Google:  BMP, GIF, JPEG, PNG, WebP, and SVG</li><br /><li>the image file names need to be descriptive, not img001.jpeg. use, for example, pink-puddle.jpeg</li><br /><li>use the ALT  attribute for the images : edit any product, go to Images tab, type in a description of the image and there it is, your alt attribute. Do not stuff in there all your keywords, A nice short phrase would do. </li><br /><li>offer some context for the images : mention in the product description the phrase mentioned in the alt attribute</li><br /><li>submit an image sitemap: currently BigCommerce does not provide such a sitemap, so you'll have to create one</li><br /><li>use relevant anchor text when you link directly a image</li><br /></ul></p>
+<p>So, what do you need to do? Here I will list the main actions presented in HubSpot's article to get a better image optimization:<br /><ul><br /><li>use formats accepted by Google:  BMP, GIF, JPEG, PNG, WebP, and SVG</li><br /><li>the image file names need to be descriptive, not img001.jpeg. use, for example, pink-puddle.jpeg</li><br /><li>use the ALT  attribute for the images : edit any product, go to Images tab, type in a description of the image and there it is, your alt attribute. Do not stuff in there all your keywords, a nice short phrase would do. </li><br /><li>offer some context for the images : mention in the product description the phrase mentioned in the alt attribute</li><br /><li>submit an image sitemap: currently BigCommerce does not provide such a sitemap, so you'll have to create one</li><br /><li>use relevant anchor text when you link directly a image</li><br /></ul></p>
 
 <p>There are some more pieces of advice in the above mentioned article, but these are the most important. Also, I think it it just the right time to read something about the culture of SEO this <a href="http://www.seobook.com/learn-seo/infographics/goldilocks.php" target="_blank">Infographic</a>. </p>
 
 <p>Are you too hot, cold or just right? We need to stay safe and be just right in order to be profitable in the future. </p>
 
-<p>As you can see image optimization is easy and requires small amounts of effort. TIP: do not copy images form other sites and then use them for your products. Google can find out which images are duplicates and it may still show the original image in the first row. </p>
+<p>As you can see image optimization is easy and requires small amounts of effort. TIP: do not copy images from other sites and then use them for your products. Google can find out which images are duplicates and it may still show the original image in the first row. </p>
 
 <p>Another tip: if you use images from events, take the time into account. Write descriptive image file names or alt attributes like: racing-course-new-york-2012. That will be descriptive enough to localize an event in a given space-time reference. </p>
 
@@ -26,17 +26,17 @@
 
 <p>Wow, refreshing? Why? Well, because you can see very actionable things that you can do in order to get in the front line. I is amazing to see sites like something.com rank number one for "something" and they only have only one word  - "something" - in the page. Nothing else, nada. </p>
 
-<p>But, beyond the fact that it has age (the domain exists since 1995!), lots of backlinks the above article points out that they have 6999 shares on Facebook. Now, don't tell me those don't count. They do count. Not as much as a high quality link, but social media presence is known to reward you with authority and brandability in front of Google's and customer's eyes.</p>
+<p>But, beyond the fact that it has age (the domain was registered in 1995!), lots of backlinks the above article points out that they have 6999 shares on Facebook. Now, don't tell me those don't count. They do count. Not as much as a high quality link, but social media presence is known to reward you with authority and brandability in front of Google's and customer's eyes.</p>
 
 <p>Social media is not optional. As <a href="http://blog.hubspot.com/blog/tabid/6307/bid/32532/Why-You-Need-Social-Media-Even-if-Your-Customers-Don-t.aspx" target="_blank">HubSpot's article points out</a>, social media requires a lot or work, but it has many rewards waiting for you. </p>
 
-<p>Let me list here too why you should be on social media:<br /><ul><br /><li>you get better rankings, albeit the exact percentage is not known</li><br /><li>you build your online image, not anyone else</li><br /><li>UGC - user generated content is a goldmine these days (get people to write reviews for your products)</li><br /><li>you get a piece of the pie because many are already there and are waiting to see you shouting in the online word </li><br /><li>other companies customers are already on social networks (go get them)</li><br /><li>you expand your reach</li><br /><li>getting customers through social media costs less</li><br /><li>social media is a great add-on to your marketing efforts</li><br /></ul></p>
+<p>Here's why you should be on social media:<br /><ul><br /><li>you get better rankings, albeit the exact percentage is not known</li><br /><li>you build your online image, not anyone else</li><br /><li>UGC - user generated content is a goldmine these days (get people to write reviews for your products)</li><br /><li>you get a piece of the pie because many are already there and are waiting to see you shouting in the online word </li><br /><li>other companies customers are already on social networks (go get them)</li><br /><li>you expand your reach</li><br /><li>getting customers through social media costs less</li><br /><li>social media is a great add-on to your marketing efforts</li><br /></ul></p>
 
 <p>We could speak/write unending stories about the need of social media, but I did not see many BigCommerce stores being "social". Yes, many do have the social shop installed and that's about it. Tweet, update the Facebook status, engage in your Facebook and you will get a stronger connection with your customers. </p>
 
 <p>So, move them from the point where they hit Like and then forget about you. And you can do this by actually being there, by having a REAL social media presence. </p>
 
-<p>Is it hard? You bet it is, but you didn't though everything on the internet was free, weren't you? Oh, you did? Let me be the bad person to tell you : nothing is free. What you don't pay with $$ you will eventually pay with your time and work.  So, start working on your audience, get as many as possible out there and then interact. </p>
+<p>Is it hard? You bet it is, but you didn't think everything on the internet was free, did you? Oh, you did? Let me be the bad person to tell you : nothing is free. What you don't pay with $$ you will eventually pay with your time and work.  So, start working on your audience, get as many as possible out there and then interact. </p>
 
 <p><h2>Again: what was negative SEO about?</h2></p>
 
@@ -48,4 +48,4 @@
 
 <p><iframe class="wistia_embed" name="wistia_embed" src="http://fast.wistia.com/embed/iframe/4b9d0bf7b3?videoWidth=600&videoHeight=338&controlsVisibleOnLoad=true&canonicalUrl=http%3A%2F%2Fwww.seomoz.org%2Fblog%2Fnegative-seo-myths-realities-and-precautions-whiteboard-friday&canonicalTitle=Negative%20SEO%3A%20Myths%2C%20Realities%2C%20and%20Precautions%20-%20Whiteboard%20Friday%20%7C%20SEOmoz&plugin%5Bsocialbar%5D%5Bversion%5D=v1&plugin%5Bsocialbar%5D%5Bbuttons%5D=embed-videoStats" allowtransparency="true" frameborder="0" scrolling="no" width="600" height="363"></iframe></p>
 
-<p>What I could say regarding all these? Optimize just to be right, be on social media and be a nice guy, like really nice. Be safe and rank well. </p>
+<p>What could I say regarding all these? Optimize just to be right, be on social media and be a nice guy, like really nice. Be safe and rank well. </p>
