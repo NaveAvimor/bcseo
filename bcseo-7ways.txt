@@ -1,20 +1,20 @@
- <p>I get in contact with many BigCommerce stores and some of them have obvious SEO errors that won't help with traffic or rankings. It is easy to lose the opportunity offered by following some basic rules and I don't see many people caring about this. What a waste. </p>
+ <p>I am in contact with many BigCommerce stores and some of them have obvious SEO errors that won't help with traffic or rankings. It is easy to lose the opportunity offered by following some basic rules and I don't see many people caring about this. What a waste. </p>
 
-<p>One good way to kill your SEO is to think that you know how the platform works and to try to do changes in the stores without even learning the ins and outs of it. I saw enough store owners skipping the documentation and then complaining that a given options works different than they believed it was. Classic. </p>
+<p>One good way to kill your SEO is to think that you know how the platform works and to try to do changes in the stores without even learning the ins and outs of it. I saw enough store owners skipping the documentation and then complaining that a given options works different than they believed it was. Not so. </p>
 
-<p>But, let's see 7 of the most certain things that can hurt your optimization and throw you into the garbage of Google's index. <br /><h2>1. Believing that no SEO is good SEO</h2></p>
+<p>But, let's see 7 of the most common errors that can hurt your optimization and throw you into the garbage of Google's index. <br /><h2>1. Believing that no SEO is good SEO</h2></p>
 
-<p>Creating good content for your product descriptions is okay, but not caring at all for optimization will result in lesser results than expected. And <a href="http://bigcommerce.springmerchant.com/content/bigcommerce-seo-bible-common-terms-misconceptions-tools/" target="_blank">don't blame BigCommerce</a> that it didn't pushed you on number 1 in the search engine results page, because that won't happen no matter the platform you use. </p>
+<p>Creating good content for your product descriptions is okay, but not caring at all for optimization will result in worse results than expected. And <a href="http://bigcommerce.springmerchant.com/content/bigcommerce-seo-bible-common-terms-misconceptions-tools/" target="_blank">don't blame BigCommerce</a> that it didn't pushed you on number 1 in the search engine results page, because that won't happen no matter what platform you use. </p>
 
 <p>You won't see results without work. It is the same with SEO. If you ignore it, then the love of the search engines will pass on to someone else. </p>
 
-<p>Basic optimization is not that hard to come by and there are <a href="http://bigcommerce.springmerchant.com/bigcommerce-seo-bible-download/" target="_blank">a ton of guides out there</a>. Basically you need to follow specific rules to format your URL, target your keywords, have a relevant content, use targeted titles and <a href="http://www.seomoz.org/blog/perfecting-onpage-optimization-for-ecommerce-websites" target="_blank">some more things</a>.</p>
+<p>Basic optimization is not that hard to come by and there are <a href="http://bigcommerce.springmerchant.com/bigcommerce-seo-bible-download/" target="_blank">a ton of guides out there</a>. Basically you need to follow specific rules to format your URL, target your keywords, have relevant content, use targeted titles and <a href="http://www.seomoz.org/blog/perfecting-onpage-optimization-for-ecommerce-websites" target="_blank">some more optimization techniques</a>.</p>
 
 <p><h2>2. You block crawlers from accessing your site</h2></p>
 
 <p>You would think that this is a no-brainer. Guess what: people still do it. Disallowing all web bots from crawling your store will help you see... how it is in the back of the truck. Being nowhere in the index is no fun, be sure of that. </p>
 
-<p>How would such heinous deed occur? Well, in fact, it is good to disallow all search bots while you are setting up your store. It is recommended to block them because they might otherwise index products like "super test product", "my awesome test page" or the like. </p>
+<p>How would such a heinous deed occur? Well, in fact, it is good to disallow all search bots while you are setting up your store. It is recommended to block them because they might otherwise index products like "super test product", "my awesome test page" or the like. </p>
 
 <p>Here is how you can block all the robots:<br /><script src="https://gist.github.com/2660833.js?file=robotsno"></script></p>
 
@@ -26,13 +26,13 @@
 
 <p>What does hardcoding mean? In few words: you edit the HTMLhead.html template file (located in Design - Template files - Panels - HTMLhead.html) and then delete the default variables in order to write down your well thought and well written title and description.</p>
 
-<p>Well done. You just duplicated the title and description across ALL your pages. Google sees this and doesn't want to show you in your rightful place. Your SEO dies, in  fact, pretty easy this way. </p>
+<p>Well done. You just duplicated the title and description across ALL your pages. Google sees this and doesn't react too kindly to it. Your SEO dies, in  fact, pretty easy this way. </p>
 
 <p>The default code for your HTMLhead.html regarding the title and meta description tags should look like this:<br /><script src="https://gist.github.com/2660904.js?file=bcheadok"></script></p>
 
-<p>Below is a hardcoded title and meta descriptio, Do NOT ever do things like the one below because you will duplicate the title and meta description across all pages. Sees this happen quite often:<br /><script src="https://gist.github.com/2660932.js?file=bcheadno"></script></p>
+<p>Below is a hardcoded title and meta descriptio, Do NOT ever do things like the one below because you will duplicate the title and meta description across all pages. This happens quite often:<br /><script src="https://gist.github.com/2660932.js?file=bcheadno"></script></p>
 
-<p>Along these lines: <br /><ul><br /><li>titles - make sure they are a little more descriptive than: pink blouse, red card. Good title: Buy now the newest HP Laptop accessories | Yourstorename </li><br /><li>description: don't just throw here some keywords and forget about this. Write descriptions like: We provide a wide variety of HP Laptop accessories. Find us in New York and Philadelphia | Yourstorename. </li><br /></ul></p>
+<p>Along these lines: <br /><ul><br /><li>titles - make sure they are a little more descriptive than: pink blouse, red card. Good title: Buy now the newest HP Laptop accessories | Yourstorename </li><br /><li>description: don't just throw some keywords and forget about it. Write descriptions like so: We provide a wide variety of HP Laptop accessories. Find us in New York and Philadelphia | Yourstorename. </li><br /></ul></p>
 
 <p>Those two would be good to use for home page title and descriptions. For products you will need to be more creative, but make sure to have the product title in there. <br /><h2>4. Using meta keywords</h2></p>
 
@@ -42,9 +42,9 @@
 
 <p><h2>5. Shallow product descriptions</h2></p>
 
-<p>If your product description is only one line long you are not bringing value to the web. In fact you are one of the many who simply won't rank well or will not rank well in the future. The fact that you post there the manufacturer description does not make you original in any way and Google will see that you have duplicate content all over the place. </p>
+<p>If your product description is only one line long you are not bringing value to the web. In fact you are one of the many who will not rank well in the future. The fact that you post the manufacturer description does not make you original in any way and Google will see that you have duplicate content all over the place. </p>
 
-<p>Panda is waiting for those like you. It eats the rankings of those who do not care enough about SEO to insert at least 200-500 words descriptions for their products. For 30k products this is a daunting task, but you think that having many products will make Google more friendly toward you? No. Google sees ecommerce sites and it sees any other site, so extra care needs to be put in content creation. </p>
+<p>Panda is waiting for those like you. It eats the rankings of those who do not care enough about SEO to insert at least 200-500 words descriptions for their products. For 30k products this is a daunting task, but you think that having many products will make Google more friendly toward you? No. Google sees ecommerce sites like it sees any other site, so extra care needs to be put in content creation. </p>
 
 <p>One service that provides posts/articles/product descriptions is <a href="http://www.textbroker.com/" target="_blank">TextBroker</a>, but you need to read this <a href="http://www.seomoz.org/blog/an-open-letter-from-a-frustrated-outsourced-link-building-author" target="_blank">BEFORE you do any move into outsourcing your content creation</a>. </p>
 
@@ -54,16 +54,16 @@
 
 <p>This one is my favorite because the store owner does not sees what we did wrong, but an outside gets poked in the eye from the first second. When you say that he is stuffing his keywords all over the place he swears he didn't do anything like that. Hard to get these people back in line. </p>
 
-<p>If you go to Google's Webmaster Forum you see enough of these cases and only after enough back and forth replies you see that they finally get the ides. Keyword stuffing is done when you load your titles, meta descriptions and page's content with lots of irrelevant keywords. </p>
+<p>If you go to Google's Webmaster Forum you see enough of these cases and only after enough back and forth replies you see that they finally get the idea. Keyword stuffing is done when you load your titles, meta descriptions and page content with lots of irrelevant keywords. </p>
 
-<p>A classic example can be read on <a href="http://www.mattcutts.com/blog/avoid-keyword-stuffing/" target="_blank">Matt Cutts blog</a>. If you sell HP Laptops then write only about them and don't include keywords like "car shop", "smart pillows" or other the like. </p>
+<p>A classic example can be read on <a href="http://www.mattcutts.com/blog/avoid-keyword-stuffing/" target="_blank">Matt Cutts blog</a>. If you sell HP Laptops then write only about them and don't include keywords like "car shop", "smart pillows" or other keywords like that. </p>
 
-<p>Also, use the keywords wisely. Using the same keyword seven times in a five line phrase is spammy, to say the least. Be a nice store owner and write them so that people can read all nicely without asking them selves why you keep repeating the same thing like a mantra. Mantras are good, but not in SEO. </p>
+<p>Use keywords wisely. Using the same keyword seven times in a five line phrase is spammy. Be a store owner that adds value and write them so that people can read the description without asking themselves why you keep repeating the same thing over and over again. </p>
 
 <p><h2>7. Images are not optimized at all</h2></p>
 
 <p>SEO for images is easy to do and does not require a PhD in search engine awesomeness. Optimizing images will ensure that they get indexed in Google Image Search and that some customer might come from there. </p>
 
-<p>You need to follow these simple steps to have your images optimized:<br /><ul><br /><li>use your own images - if you sue images that are already used all over the web then in Image Search you might be found... on page three. Not good at all since Google has a way to determine copies of the same image across the internet.</li><br /><li>use proper formats- best is to use .jpg, .png or .gif for your images</li><br /><li>give them a name - img0001.jpg or dsc001.png does not tell me anything about the image. Use instead: arabian-red-carped-2x4-feets.jpg or hp-xdth-laptop-case-black.png</li><br /><li>use the alt attribute - in BigCommerce store the image description is the alt attribute of the images. Simply go to any product, eidt it, then go to Images tab, and there you can insert a description to each product image. Sweet! </li><br /></ul></p>
+<p>You need to follow these simple steps to have your images optimized:<br /><ul><br /><li>use your own images - if you use images that are already used all over the web then in Image Search you might be found... on page three. Not good at all since Google has a way to determine copies of the same image across the internet.</li><br /><li>use proper formats- best is to use .jpg, .png or .gif for your images</li><br /><li>give them a name - img0001.jpg or dsc001.png does not tell me anything about the image. Use instead: arabian-red-carped-2x4-feets.jpg or hp-xdth-laptop-case-black.png</li><br /><li>use the alt attribute - in BigCommerce store the image description is the alt attribute of the images. Simply go to any product, eidt it, then go to Images tab, and there you can insert a description to each product image. Sweet! </li><br /></ul></p>
 
 <p>As you can see these 7 sure fire ways to kill your BigCommerce can be easily overcome if you give it a thought. Don't leave things to chance and start learning a bit about SEO or contact someone who can help with this. No SEO is bad management.<br /></p>
