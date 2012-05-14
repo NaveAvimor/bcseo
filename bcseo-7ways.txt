@@ -1,6 +1,6 @@
  <p>I am in contact with many BigCommerce stores and some of them have obvious SEO errors that won't help with traffic or rankings. It is easy to lose the opportunity offered by following some basic rules and I don't see many people caring about this. What a waste. </p>
 
-<p>One good way to kill your SEO is to think that you know how the platform works and to try to do changes in the stores without even learning the ins and outs of it. I saw enough store owners skipping the documentation and then complaining that a given options works different than they believed it was. Not so. </p>
+<p>One good way to kill your SEO is to think that you know how the platform works and to try to do changes in the stores without even learning the ins and outs of it. I saw enough store owners skipping the documentation and then complaining that a given option does not work properly. Not so. </p>
 
 <p>But, let's see 7 of the most common errors that can hurt your optimization and throw you into the garbage of Google's index. <br /><h2>1. Believing that no SEO is good SEO</h2></p>
 
