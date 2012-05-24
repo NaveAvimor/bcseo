@@ -1,4 +1,4 @@
-<p>At account creation each BigCommerce client receives an email with an URL like this: <strong>store-XXXXX.mybigcommerce.com</strong>. That is the <strong>temp URL</strong>. SEO issue or not?</p>
+<p>At account creation each BigCommerce client receives an email with an URL like this: <strong>store-XXXXX.mybigcommerce.com</strong>. That is the <strong>temp URL</strong>. Is it an SEO issue or not?</p>
 
 <p>Once you have that temp URL you know you can reach your site using different URLs. Now the basic question is this: since I have products and already submitted my sitemap to Google won't the temp URL show as a website with duplicate content? </p>
 
@@ -12,7 +12,7 @@
 
 <p>Having an ecommerce store isn't as easy as you'd think. Technically, there are many modules that need to be developed. And security is one of them. </p>
 
-<p>The only way you will be able to NOT use the temp URL is when you install an invalid/expired SSL certificate. That will need the help of the tech support team since no one will be able to get into BigCommerce store's admin. </p>
+<p>The only way you will be able to NOT use the temp URL is when you install an invalid/expired SSL certificate. That will need the help of the tech support team since no one will be able to get into BigCommerce store's admin panel. </p>
 
 <p>Still, where is the explanation about the duplicate content issue and stores found at temp URL?<br /><h2>Why is robots.txt so important</h2></p>
 
