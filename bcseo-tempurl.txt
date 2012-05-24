@@ -1,0 +1,27 @@
+<p>At account creation each BigCommerce client receives an email with an URL like this: <strong>store-XXXXX.mybigcommerce.com</strong>. That is the <strong>temp URL</strong>. SEO issue or not?</p>
+
+<p>Once you have that temp URL you know you can reach your site using different URLs. Now the basic question is this: since I have products and already submitted my sitemap to Google won't the temp URL show as a website with duplicate content? </p>
+
+<p>Or worse, will my actual store, found at either [yoursubdomain].mybigcommerce.com or [yourstore].com, be seen as having duplicate content FROM the temp URL? Things like these can scare you, but the answer is: NO. </p>
+
+<p>No, Google won't see one as a copy of the other. The only thing you need to do is to block crawlers until you finish setting up your store and then put back the default lines from Tools - Edit Robots.txt. </p>
+
+<p><h2>Multiple versions of your store are helpful</h2></p>
+
+<p>At least in BigCommerce's setup, that is. There are two main reasons why the temp URL is a well thought endeavor:<br /><ul><br /><li>it is a good fallback method - if you do a Move to domain action and something goes wrong along the way you can still access your store using the temp URL</li><br /><li>you get to use BigCommerce's shared SSL for the secure pages - every ecommerce store needs to have secure pages for login, account check, checkout and payment detail insertion. And these need a valid SSL certificate. Using the temp URL on secure pages you can have the security you need without no other costs.</li><br /></ul></p>
+
+<p>Having an ecommerce store isn't as easy as you'd think. Technically, there are many modules that need to be developed. And security is one of them. </p>
+
+<p>The only way you will be able to NOT use the temp URL is when you install an invalid/expired SSL certificate. That will need the help of the tech support team since no one will be able to get into BigCommerce store's admin. </p>
+
+<p>Still, where is the explanation about the duplicate content issue and stores found at temp URL?<br /><h2>Why is robots.txt so important</h2></p>
+
+<p>Yes, one simple file can do amazing things. The Robots.txt file will allow or disallow crawling your site by the search engines that will obey it. Some "rogue" crawlers might crawl your site even is they are not allowed. That doesn't happen with Yahoo, Bing or Google. </p>
+
+<p>Basically, the robots.txt ensures that only the PUBLIC part of you website is crawled and all the other parts are disallowed. Here is how you can test this:<br /><ul><br /><li>http://store-XXXXX.mybigcommerce.com/robots.txt - all is disallowed</li><br /><li>httpS://store-XXXXX.mybigcommerce/robots.txt -  all is disallowed</li><br /><li>httpS://yourstore.com/robots.txt - secure part of your store, all disallowed</li><br /><li>http://yourstore.com/robots.txt - usually the default file which allows your site to be crawled</li><br /></ul></p>
+
+<p>How does one disallow all crawlers in Robots.txt? Below is the code:<br /><script src="https://gist.github.com/2660833.js?file=robotsno"></script></p>
+
+<p>It is a good practice to block all while you setup your store, but do not forget to put back the default code which is the one from below: <br /><script src="https://gist.github.com/2660849.js?file=robotsyes"></script></p>
+
+<p>There you have it. The temp URL does not generate duplicate content issues because Google is not allowed to crawl it. Happy BigCommercing.</p>
