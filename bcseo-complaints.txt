@@ -1,0 +1,55 @@
+ <p>BigCommerce has done a lot of good SEO changes over time and we look forward to more. Although I would qualify the platform as good, it still has to overcome some hurdles to become great SEO wise. </p>
+
+<p>Some of the things I really like is that it is W3C compliant, table-less design, lets you have customized URLs, put your own meta description, title tags and uses canonical links for product pages. </p>
+
+<p>However, when you dig deep into the platform you find yourself asking is they could do more. And yes, there is room for improvement since you find yourself in the situation to change the templates in order to have <a href="http://www.shoppingcartstrategies.com/seo/bigcommerce-h1-tag-issue/" target="_blank">h1 headings for product names and not h2</a> as it is used now. </p>
+
+<p>The SEO <a href="https://support.bigcommerce.com/categories/Search+Engine+Optimization/" target="_blank">tutorials from BigCommerce</a> help at a basic level and do not address some other complaints clients have had over the time. </p>
+
+<p><h2>SEO certification: get some REAL SEO experts to certify the platform</h2></p>
+
+<p>And by real SEO expert I mean guys like Aaron Wall, Rand Fishkin and/or other experts that can review the platform from top to bottom and that could offer some insights as to what needs to be changed. Having a big SEO expert lend his name and offer a certification would be a good market decision, but also would help stores be as search engine friendly as it gets. </p>
+
+<p>Soon after I started digging into BigCommerce SEO I landed on <a href="http://www.seobook.com/big-commerce" target="_blank">this post from Aaron Wall</a>. Marketing wise, using his name after only a chat discussion with no real SEO audit behind is a clever way to get new customers. Until we discover that Aaron Wall never certified BigCommerce. </p>
+
+<p>BigCommerce did pull out the reference to Aaron Wall from <a href="http://www.bigcommerce.com/feature-list.php" target="_blank">the page (SEO section)</a>, but you can still see it in the marketing video pitch:<br /><object width="640" height="480"><param name="movie" value="http://www.youtube.com/v/MjDT67xDcyM?version=3&amp;hl=ro_RO"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/MjDT67xDcyM?version=3&amp;hl=ro_RO" type="application/x-shockwave-flash" width="640" height="480" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+
+<p>If they would've hired a real SEO expert to certify the platform they would've found out that the meta keywords tag is obsolete. <a href="http://www.mattcutts.com/blog/keywords-meta-tag-in-web-search/" target="_blank">Since 2009</a>. Ooops. </p>
+
+<p>And what about the missing home page canonical link? Yep. View the source code and find out that there is no canonical link on home page. Or canonical link for pages created in Website content - View webpages.  </p>
+
+<p>And what about the fact that the Add to cart links in home page or category page should be either images with alt text or a form POST request? Tony McCreath, from <a href="http://seo-website-designer.com/" target="_blank">seo-website-designer.com</a>, made a good point when he started <a href="http://forum.bigcommerce.com/f10/add-to-cart-action-should-not-be-a-link-5557/" target="_blank">this forum thread</a>. </p>
+
+<p>Some of the changes would help improving SEO, albeit not by much, but every bit counts. For example, because the Add to cart is a link, you get to have dozens of extra links in the home page or category pages. </p>
+
+<p><h2>No easy way to have a blog</h2></p>
+
+<p>Yes, we can see the news items ready to be created. They are limited. We need more flexibility in handling content creation other than product descriptions. </p>
+
+<p>Blogs. Customers are asking for this since last year. No, having a blog at a subdomain blog.store.com won't do you any good. What you need is to have the blog in a folder of your store like this: store.com/blog/</p>
+
+<p>Why a folder and not a subdomain? Well, Google sees the subdomains as separate domains altogether. All the links that you will try to gather and all the authority that will be build for that subdomain <a href="http://www.webseoanalytics.com/blog/multiple-domains-vs-subdomains-vs-folders-in-seo/" target="_blank">will not pass on to the domain</a>, which is what you really want. </p>
+
+<p>Subdomains are used to have a completely different part of your shop/business. Or if you try to geolocate your business. We use <a href="http://bigcommerce.springmerchant.com/" target="_blank">bigcommerce.springmerchant.com</a> to define a completely different part of our main business, which can be found at <a href="http://www.springmerchant.com/" target="_blank">www.springmerchant.com</a> because we need to keep the activities segmented and be ready to take on other fields of activities. </p>
+
+<p>Why would you think that leading SEO blogs like <a href="http://www.seomoz.org/blog" target="_blank">SEO Moz</a>. have their blog part at /blog/? It is not because it is fancy. It is because it ultimately helps build up the domain authority and, guess what, it helps with rankings too. </p>
+
+<p>Any links that point to the blog will be seen as links to the main domain. A big win. </p>
+
+<p>What blogging platform should one use? My personal suggestion would be WordPress. Easy to install, easy to use and even easier to get on the internet. Integrating a blog with an ecommerce store would be a big development challenge, but I guess that would also show that BigCommerce cares about their clients. </p>
+
+<p>A partnership with WordPress would be also a good marketing opportunity. BigCommerce, with its more than 25,000 stores would use WordPress as preferred blogging platform and WordPress would be glad to empower one of the fastest growing ecommerce companies out there. So, what are you waiting for? </p>
+
+<p><h2>It doesn't bring you more traffic, nor will it rank you #1 in Google</h2></p>
+
+<p>Ok, that is a false complaint. Requesting to have more traffic and better ranking just because you use a given platform  with NO work on your side is like trying to book a hotel room from a butcher shop. </p>
+
+<p>BigCommerce SEO is good and it will be better, but that doesn't compensate for the lack of efforts on store owner's side. You get the platform, the framework to build upon, and then you need to do your best to get those product descriptions in there, create great content and all the other things you need to do. </p>
+
+<p>The title tags, meta descriptions, content from the pages, copy of your text and all of that won't be doing by itself. I see it unreasonable to ask to have a high volume traffic or rank #1 in Google without work on your part. </p>
+
+<p>If the first two complaints are real and need to be addressed by BigCommerce, the later one depends on each store owner. Do not just assume that, because you are on the web and you sell something, you are entitled to $X of revenue/day or Y amount of traffic just like that. </p>
+
+<p>Remember: an ecommerce store is seen just like an ordinary website. This is why the work needed on these types of sites is considerably greater than the amount of work needed for presentation sites, event sites or the like. </p>
+
+<p>Until BigCommerce fixes some of the issues you need to do you best to <a href="http://bigcommerce.springmerchant.com/bigcommerce-seo-bible-download/" target="_blank">follow the basic SEO rules</a>. Happy BigCommercing. </p>
