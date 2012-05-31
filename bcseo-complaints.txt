@@ -1,8 +1,8 @@
- <p>BigCommerce has done a lot of good SEO changes over time and we look forward to more. Although I would qualify the platform as good, it still has to overcome some hurdles to become great SEO wise. </p>
+ <p>BigCommerce has done a lot of good SEO changes over time and we look forward to more. Although I would qualify the platform as good, it still has to overcome some hurdles to become great from an SEO perspective. </p>
 
 <p>Some of the things I really like is that it is W3C compliant, table-less design, lets you have customized URLs, put your own meta description, title tags and uses canonical links for product pages. </p>
 
-<p>However, when you dig deep into the platform you find yourself asking is they could do more. And yes, there is room for improvement since you find yourself in the situation to change the templates in order to have <a href="http://www.shoppingcartstrategies.com/seo/bigcommerce-h1-tag-issue/" target="_blank">h1 headings for product names and not h2</a> as it is used now. </p>
+<p>However, when you dig deep into the platform you find yourself asking if they could do more. And yes, there is room for improvement since you find yourself in the situation to change the templates in order to have <a href="http://www.shoppingcartstrategies.com/seo/bigcommerce-h1-tag-issue/" target="_blank">h1 headings for product names and not h2</a> as it is used now. </p>
 
 <p>The SEO <a href="https://support.bigcommerce.com/categories/Search+Engine+Optimization/" target="_blank">tutorials from BigCommerce</a> help at a basic level and do not address some other complaints clients have had over the time. </p>
 
@@ -12,11 +12,11 @@
 
 <p>Soon after I started digging into BigCommerce SEO I landed on <a href="http://www.seobook.com/big-commerce" target="_blank">this post from Aaron Wall</a>. Marketing wise, using his name after only a chat discussion with no real SEO audit behind is a clever way to get new customers. Until we discover that Aaron Wall never certified BigCommerce. </p>
 
-<p>BigCommerce did pull out the reference to Aaron Wall from <a href="http://www.bigcommerce.com/feature-list.php" target="_blank">the page (SEO section)</a>, but you can still see it in the marketing video pitch:<br /><object width="640" height="480"><param name="movie" value="http://www.youtube.com/v/MjDT67xDcyM?version=3&amp;hl=ro_RO"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/MjDT67xDcyM?version=3&amp;hl=ro_RO" type="application/x-shockwave-flash" width="640" height="480" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+<p>BigCommerce did pull out the reference to Aaron Wall from <a href="http://www.bigcommerce.com/feature-list.php" target="_blank">the page (SEO section)</a>, but you can still see it in the marketing video pitch:<br /><object width="640" height="480"><param name="movie" value="http://www.youtube.com/v/MjDT67xDcyM?version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/MjDT67xDcyM?version=3" type="application/x-shockwave-flash" width="640" height="480" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
 
 <p>If they would've hired a real SEO expert to certify the platform they would've found out that the meta keywords tag is obsolete. <a href="http://www.mattcutts.com/blog/keywords-meta-tag-in-web-search/" target="_blank">Since 2009</a>. Ooops. </p>
 
-<p>And what about the missing home page canonical link? Yep. View the source code and find out that there is no canonical link on home page. Or canonical link for pages created in Website content - View webpages.  </p>
+<p>And what about the missing home page canonical link? Yep. View the source code and find out that there is no canonical link for the home page. Or a canonical link for pages created in Website content - View webpages.  </p>
 
 <p>And what about the fact that the Add to cart links in home page or category page should be either images with alt text or a form POST request? Tony McCreath, from <a href="http://seo-website-designer.com/" target="_blank">seo-website-designer.com</a>, made a good point when he started <a href="http://forum.bigcommerce.com/f10/add-to-cart-action-should-not-be-a-link-5557/" target="_blank">this forum thread</a>. </p>
 
@@ -42,7 +42,7 @@
 
 <p><h2>It doesn't bring you more traffic, nor will it rank you #1 in Google</h2></p>
 
-<p>Ok, that is a false complaint. Requesting to have more traffic and better ranking just because you use a given platform  with NO work on your side is like trying to book a hotel room from a butcher shop. </p>
+<p>Ok, that is a false complaint. Requesting to have more traffic and better ranking just because you use a given platform  with NO work on your side is like trying to book a hotel room at a butcher shop. </p>
 
 <p>BigCommerce SEO is good and it will be better, but that doesn't compensate for the lack of efforts on store owner's side. You get the platform, the framework to build upon, and then you need to do your best to get those product descriptions in there, create great content and all the other things you need to do. </p>
 
