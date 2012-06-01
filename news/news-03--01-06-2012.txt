@@ -1,0 +1,17 @@
+Hello, 
+
+There are many things going on in our office. We released a couple of weeks ago the <a href="http://bigcommerce.springmerchant.com/bigcommerce-template-variables/" target="_blank">BigCommerce Template Variables Search Tool</a> and we are preparing for some other cool stuff. In this weekly newsletter you will learn something new about SEO in BigCommerce and see our recommendation for customizing your templates.
+
+<a href="http://bigcommerce.springmerchant.com/content/top-three-complaints-about-bigcommerce-seo/" target="_blank"> Top Three BigCommerce complaints</a>
+
+In this article we discuss the three most common complaints with BigCommerce. We love BigCommerce, but in the same time, we like to see it getting improved. You will learn about SEO certification, why we see the need of a blog and why using BigCommerce won't rank your site #1 in Google. 
+
+<a href="http://bigcommerce.springmerchant.com/content/change-qty-selector-bigcommerce/" target="_blank"> Change the quantity selector based on inventory</a>
+
+If you have inventory tracking enabled and you show inventory in your store, then this tutorial and code snippet is for you. If your current stock is 4, but the quantity selector shows up to 30, then people might get angry that they cannot purchase more than 6. To help with this the quantity selector will change to 4 and the customers won't be able to choose more than that from the drop-down box.
+
+<a href="http://forum.bigcommerce.com/f26/release-notes-bigcommerce-version-7-3-30-8580/" target="_blank"> BigCommerce version 7.3.30 has rolled out</a>
+
+In this maintenance version a couple of bugs have been fixed and a new and interesting feature has been included: sharing buttons on the Thanks You page. Using this feature customers can share not the product they like, but the product they already bought which is a big difference. Check more details in the link above. 
+
+We hope you enjoy our tools and tutorials and we will bring in fresh news next week. Happy BigCommercing. 
