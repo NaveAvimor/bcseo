@@ -1,0 +1,59 @@
+<p>Google changes things all the time. Google Places has moved to Google+ Local, Google Shopping (Product Search) will move to paid listing in US and Google Website Optimizer will die on 1st August 2012. </p>
+
+<p>The first two changes are good from a users perspective, but not from a BigCommerce store owner's perspective because will force them to:<br /><ul><br /><li>create a Google+ account and/or page to learn how to interact in Google+</li><br /><li>pay in order to have their products listed in the Shopping listing</li><br /></ul></p>
+
+<p>Why do I say that the user will like the first two changes? Because I, as a user, get to see local listing in my left sidebar, right under the pages or where I want them to be. I don't need to go to Google Search and try to locate a certain place. </p>
+
+<p>Also, forcing store owners to pay for a listing will ensure that I will see only the products deemed worthy by the store owner to be shown out there. honestly, There are far too many stores that list their products there and they do not offer much value except maybe $1 off form the competition or something like this.</p>
+
+<p><h2>Google Places has moved to Google+ Local</h2></p>
+
+<p>This is hardly a news by now, but I wanted to make sure I list it in here because there may be some BigCommerce store owners that have their business listed in Local Search. </p>
+
+<p>Yes, on May 30th 2012 <a href="http://searchengineland.com/google-places-is-over-company-makes-google-the-center-of-gravity-for-local-search-122770" target="_blank">Google Places has been integrated in Google+</a> and can be located in a tab named Local in each Google+ account. And you know what? I like it. As I mentioned above this is a change users like and it was expected since almost a year, when Google Pages rolled out.</p>
+
+<p><img src="https://s3.amazonaws.com/bc-posts-images/bc+seo+images/google-plus-local-business-listing-pizza-iolo-brasov-romania.png" width="700" title="Google Places is now Goole plus Local" alt="Google Places has become integrated in Google plus and it is named Google Plus Local - springmerchant.com" /></p>
+
+<p>Integrating Google Places into Google+ has been done with the aim to easier connect the business owners with the customers. Once you have located the page in Google+ you can +1 it, share it, upload a public photo, write a review.</p>
+
+<p>If you are a BigCommerce store owner and have a page in Google Places then <a href="http://googleandyourbusiness.blogspot.ro/2012/05/helping-people-discover-and-share-local.html" target="_blank">you need to read this</a>:<br /><blockquote><em>If you are a business owner, you should continue to manage your information in Google Places for Business. You’ll still be able to verify your basic listing data, make updates, and respond to reviews.</em></blockquote> </p>
+
+<p>So, things will go on almost as usual, but store owners will have to move towards Google+. As I mentioned in an earlier post when I said that <a href="http://bigcommerce.springmerchant.com/content/bigcommerce-death-meta-keywords-search-plus-your-world/" target="_blank">Search plus Your World (SPY World) is pushy at best</a>, those who embrace Google+ will have more to win than to lose. Also, lets not forget that Google+ Local pages will be indexed. SEO win for the business owners. </p>
+
+<p>So, you should head to your Google Places page and update the pictures and the info to make a full use of the Google+ integration. See in the video from below what Google wants to achieve with this move:<br /><iframe width="640" height="360" src="http://www.youtube.com/embed/NgDdwl67qNY?rel=0" frameborder="0" allowfullscreen></iframe></p>
+
+<p><h2>Google Shopping, former Product Search, will move in US to a commercial model based on Product Listing Ads</h2></p>
+
+<p>That might come as no surprise. Every free service that receives some traction will eventually incorporate a paid module or move to a fully paid solution. </p>
+
+<p><a href="http://googlecommerce.blogspot.co.uk/2012/05/building-better-shopping-experience.html" target="_blank">The post from Google</a>, published on 31st May 2012, says that the folks at Google <cite><em>[...]believe that having a commercial relationship with merchants will encourage them[store owners] to keep their product information fresh and up to date.</em></cite></p>
+
+<p>The move to Google Shopping will be finished by fall and Store owners, from BigCommerce or otherwise, will receive incentives to create Product Listing Ads by 15th August 2012 like a monthly credit for 10% of their total Product Listing Ad and existing Google Product Search merchants can receive $100 AdWords credit toward Product Listing Ads if they fill out a form before August 15, 2012. More details <a href="http://www.google.com/ads/shopping/" target="_blank">here</a>.</p>
+
+<p>Ranking in Google Shopping will be based on a combination of relevance and the bid-price. That means, after 15th August 2012 BigCommerce store owners will have to pay to have their product listed in Google Shopping and also, if they want to rank higher, they will have to make bigger bids. </p>
+
+<p>I mentioned in previous articles that you need to make sure you piggy-back on these big companies as much as you can. Those who have used Google Product Search for free and got some revenue off of it deserve to get a high five. Now, we'll have to see how many would like to pay for their products to be listed in Google Shopping. </p>
+
+<p>But, if you are ok with paying Google to list your products you could make use of their <a href="http://www.google.com/trustedstores/" target="_blank">Google Trusted Stores</a> program. A badge won't hurt, that is sure. </p>
+
+<p>These changes have been already met with skepticism and <a href="http://www.webmasterworld.com/goog/4459963.htm" target="_blank">some webmasters are not happy at all with these changes</a>. Most of the reasons point to the fact that the small businessman will suffer from this and I think that this is a fair point. Keeping only big companies in Google Shopping or only those who are willing to pay will clear the shopping results from small businesses, meaning less variety. </p>
+
+<p>One interesting point they usually bring up in these discussions is that Google, without the sites that accept to be indexed, would not have what to show in the SERPs. Webmasters tend to forget that the user is at center here and that Google will hurt in one way or another some of them. </p>
+
+<p>From a user's stand point I could care less if a site is thrown into oblivion as long as I get the information I need in the SERPs. That is something we need to be reminded of pretty often.</p>
+
+<p>Regarding payed services from Google one of the forum posters got a nice clue about Google Website optimizer being integrated into Analytics or that it will charge. We was not very far off.</p>
+
+<p><h2>Google Website Optimizer closing doors on 1st August 2012</h2></p>
+
+<p>Google announced on 1st June 2012 that <a href="http://websiteoptimizer.blogspot.ro/2012/06/helping-to-create-better-websites.html" target="_blank">they will shut down Google Website Optimizer</a> and will let us use instead the Content Experiments, from Analytics. Big shift, albeit given the power of the Analytics tool, it should come as no surprise. </p>
+
+<p>Some things to remember about Content Experiments: <br /><ul><br /><li>it can create only A/B testing (no multivariate for now)</li><br /><li>it uses different URLs for the variations</li><br /><li>not sure if they will create the multivariate option from Google Website Optimizer into Analytics until 1st August</li><br /><li>you need to have goals first defined to work with Experiments</li><br /><li>the goals need to be of only two types: destination URL or event</li><br /><li>the variation pages can have these elements changed: Headlines and headers, Images and icons, Text, Calls to action, Page layout</li><br /><li>you cannot have a sitewide experiment</li><br /><li>experiments need to be run for at least 2 weeks</li><br /></ul></p>
+
+<p>More details about what it can do and what not can be read <a href="http://www.cardinalpath.com/ab-testing-with-google-analytics-content-experiments/" target="_blank">here</a>. </p>
+
+<p>See below the presentation of Content Experiments:<br /><iframe width="640" height="360" src="http://www.youtube.com/embed/TGrujIh2H0I?rel=0" frameborder="0" allowfullscreen></iframe></p>
+
+<p>How will this affect BigCommerce stores? After August 1st you won't be able to use the Optimizer utility in Marketing- Google Website Optimizer. After that date BigCommerce should take out all the GWO tabs and settings since it will be obsolete. </p>
+
+<p>With the abundance of App in <a href="http://apps.bigcommerce.com/" target="_blank">BigCommerce Integration Directory</a> maybe we will find some better tools to run these A/B or multivariate tests. But for now, it is good to know that these three changes are here need we need to keep up the pace. </p>
