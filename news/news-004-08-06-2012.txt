@@ -1,0 +1,23 @@
+Hello BigCommerce fans, 
+
+This week comes with news from Google front and from the newest release of BigCommerce: 7.3.31. Like never before Google has made a lost of changes this year and it is only the beginning. BigCommerce maintenance releases 7.X.XX are meant to solve bug and, from time to time, to add new features. 
+
+<a href="http://bigcommerce.springmerchant.com/content/three-google-changes-that-affect-bigcommerce-stores/" target="_blank">Three Google Changes That Will Affect Your BigCommerce Store</a>
+
+The big three changes from Google are these: Google Places has become Google+ Local, Google Product Search will become Google Shopping and will be a paid service in the US and Google Website Optimizer will be shut down on august 1st 2012. 
+
+Some of these changes will leave some people angry, at least the ones with Google Shopping and Google Website Optimizer. Google offers an alternative with the Content Experiments from its Analytics tool. Read more in the link above to learn about these changes. 
+
+BigCommerce Updates under Zoom
+
+We need to outline some of the features that have been introduced in the store in the latest versions. We start with <a href="http://forum.bigcommerce.com/f26/release-notes-bigcommerce-version-7-3-29-8417/" target="_blank">Abandoned Cart Saver (BC 7.3.29)</a> which lets you send automatically an email if the customer abandoned cart for whatever reason. 
+
+One thing to remember: abandoned cart is not the same as abandoned order. These are two separate things. An CART is considered abandoned only when you have a guest customer in store which adds items to cart, proceeds to the checkout page, fill in the details for billing and then leaves the site. 
+
+If the same customer continues the checkout process (fill in billing, shipping details and so on), clicks the Proceed to Payment button and simply leaves the site then that abandoned cart will be seen as abandoned order. In fact, any situation where a customer click the Payment button but does not complete payment (or pays, but does not return to site) it is considered an abandoned ORDER.
+ 
+BigCommerce version 7.3.30 has introduced a new feature: <a href="http://forum.bigcommerce.com/f26/release-notes-bigcommerce-version-7-3-30-8580/">share your purchase with your friends</a> directly from the Thank You page. This is a handy tool and we expect everyone to use it. 
+
+The newest feature that BigCommerce has released is the option to show a <a href="http://forum.bigcommerce.com/f26/release-notes-bigcommerce-version-7-3-31-8672/" target="_blank">message to accept cookies according to the EU laws</a>. If you sell in the EU then you can enable this feature in Settings- Store - Misc tab, the option form the bottom of the page.
+
+Stay tuned for our next newsletter. Google has already announced other 39 changes for May and we will be looking closely to see what their effect would be. Until next time. 
