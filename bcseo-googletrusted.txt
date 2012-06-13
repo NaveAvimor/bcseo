@@ -1,14 +1,14 @@
   <p>If you are a BigCommerce store owner and care about SEO (as you should) then you might want to keep an eye on Google algorithm changes and news. Ah, those news: Google Trusted Stores.</p>
 
-<p>One thing I keep reminding myself is that in the eyes of Google all sites are created equal (except the big ones with well established brands) and it has its own rules and mistakes. Which means that :<br /><ul><br /><li>Google sees your BigCommerce store as any regular website and demands nothing less than quality</li><br /><li>it does not care if your site is sinking in the SERPs because it wants the web user to find the most relevant results</li><br /><li>Google does mistakes from time to time, but you need to keep on doing good work</li><br /></ul></p>
+<p>One thing I keep reminding myself is that in the eyes of Google all sites are created equal (except the big ones with well established brands) and it has its own rules and quirks. Which means that :<br /><ul><br /><li>Google sees your BigCommerce store as any regular website and demands nothing less than quality</li><br /><li>it does not care if your site is sinking in the SERPs because it wants the searcher to find the most relevant results</li><br /><li>Google makes mistakes from time to time, but you need to keep on doing good work</li><br /></ul></p>
 
 <p>And since Google is such an important part in our work we need to know one thing or two about what it happens, but let's not overdo it.</p>
 
 <p><h2>Google algorithm changes: stop chasing the cheetah</h2></p>
 
-<p>Do you have a BigCommerce store with a sinking traffic? Sure you want to be on top of things and read about all the possible changes Google is doing. Like <a href="http://www.seomoz.org/blog/the-bigfoot-update-aka-dr-pete-goes-crazy" target="_blank">this guy here</a>. </p>
+<p>Do you have a BigCommerce store with sinking traffic? Sure you want to be on top of things and read about all the possible changes Google is doing. Like <a href="http://www.seomoz.org/blog/the-bigfoot-update-aka-dr-pete-goes-crazy" target="_blank">this guy here</a>. </p>
 
-<p>Dr. Pete, from SEO Moz, follows very closely the changes in order to detect ever the most smallest hint that Google is changing anything. Recent activity in a niche he was following revealed that some changes occurred and named this possible update from Google: Bigfoot. </p>
+<p>Dr. Pete, from SEO Moz, very closely follows the changes in order to detect even the smallest hint that Google is changing anything. Recent activity in a niche he was following revealed that some changes occurred and named this possible update from Google: Bigfoot. </p>
 
 <p>I am sure you would like to be able to be such a great SERP wizard. I have the absolute solution: spend each and every second of your life hunting the Google update and you'll get to rank #1 in Google. NOT. If all you want to do in regards to BigCommerce SEO is to chase algorithm changes then you need to stop before you throw your business into oblivion. </p>
 
@@ -18,7 +18,7 @@
 
 <p>This being said it has been confirmed that <a href="http://searchengineland.com/official-google-panda-update-version-3-7-on-june-8th-124281" target="_blank">Panda 3.7 rolled out</a> on June 8th 2012. A list of Google algorithm changes can be <a href="http://www.seomoz.org/google-algorithm-change" target="_blank">read here</a>.</p>
 
-<p>Before I finish this little rant: stop chasing the algo because only some really dedicated SEOs can be on top for things. BigCommerce store owners need to make sure to have relevant content in each page and that they work on building good relationships (that lead to backlinks). These are the things you want to chase. </p>
+<p>Before I finish this little rant: stop chasing the algorithm because only some really dedicated SEOs can be on top of every single change. BigCommerce store owners need to make sure to have relevant content in each page and that they work on building good relationships (that lead to backlinks). These are the things you want to chase. </p>
 
 <p><h2>Google Trusted Stores: do we need another badge?</h2></p>
 
@@ -30,7 +30,7 @@
 
 <p><a href="" target="_blank">Search Engine Roundtable</a> mentions that the webmasters, SEOs and merchants might be both happy and upset by this change. Most webmasters posting on <a href="http://www.webmasterworld.com/goog/4462538.htm" target="_blank">Webmasters World</a> are not happy with this move because, as they mention there, this way Google might have access to even more data about the merchants and customers and it may change this free service to a paid one, like <a href="http://bigcommerce.springmerchant.com/content/three-google-changes-that-affect-bigcommerce-stores/" target="_blank">it did ( and will very soon do) with Google Shopping</a>.</p>
 
-<p><a href="http://googleblog.blogspot.ro/2012/06/connecting-shoppers-and-great-stores.html" target="_blank">Google Trusted Stores</a> is a service in which merchants from US only can enter. During a 29 day test period the stores are verified if they offer high quality shipping and customer service. After those 29 days they might receive the Google Trusted Store badge. </p>
+<p><a href="http://googleblog.blogspot.ro/2012/06/connecting-shoppers-and-great-stores.html" target="_blank">Google Trusted Stores</a> is a service in which only merchants from US can enter. During a 29 day test period the stores are verified if they offer high quality shipping and customer service. After those 29 days they might receive the Google Trusted Store badge. </p>
 
 <p>That won't mean that Google endorses any products form those store. It will only mean that the stores offer good services. On the other side, customers can opt in into having becoming a Google Trusted Stores Customer and if they have any complaints regarding any of the trusted stores <a href="http://support.google.com/trustedstores/bin/answer.py?hl=en&answer=1669901&topic=1669614&ctx=topic" target="_blank">Google might step in and solve the issue</a>. </p>
 
