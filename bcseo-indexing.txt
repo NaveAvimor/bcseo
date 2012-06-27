@@ -1,12 +1,12 @@
   <p>BigCommerce offers ecommerce stores which are nothing else than websites which let you sell online. That being said Google sees them as regular websites and showing up on search engines and ranking must follow the <a href="http://bigcommerce.springmerchant.com/bigcommerce-seo-bible-download/" target="_blank"> well known rules</a>. </p>
 
-<p>There is still some confusion among BigCommerce store owners regarding the sitemap, indexing, PageRank, robots.txt and several other SEO "how to" questions. Although it may seem easy to understand the question "How to show up on Google?" is a riddle for many. </p>
+<p>There is still some confusion among BigCommerce store owners regarding the sitemap, indexing, PageRank, robots.txt and several other SEO "how to" questions. Although it may seem easy to understand, the question "How to show up on Google?" is a riddle for many. </p>
 
-<p>Many readers of our BigCommerce SEO series already know a lot of these things, but I felt the need to answer to this basic question too since it pops up pretty frequently.</p>
+<p>Many readers of our BigCommerce SEO series already know a lot of these things, but I felt the need to answer this basic question too since it pops up frequently.</p>
 
 <p><h2>How does Google Search work?</h2></p>
 
-<p>Before we show up our website on Google we need to know how search works. One of the things to remember is that we do not search directly the web using Google. Instead we enter our query in the search field and then the Google's servers search through their entire database (index) for pages that might be related to our query and then ranks those pages based on 200 factors, PageRank being way to small nowadays to be considered important in ranking. </p>
+<p>Before we show up our website on Google we need to know how search works. One of the things to remember is that we do not directly search the web using Google. Instead we enter our query in the search field and then Google's servers search through their entire database (index) for pages that might be related to our query and then ranks those pages based on 200 factors, PageRank being way to small nowadays to be considered important in ranking. </p>
 
 <p>See below the easiest and simplest explanation from <a href="http://www.mattcutts.com/blog/" target="_blank">Matt Cutts</a> about how a Google search works:<br /><object width="640" height="360"><param name="movie" value="http://www.youtube.com/v/BNHR6IQJGZs?version=3&amp;hl=en_US&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/BNHR6IQJGZs?version=3&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
 
@@ -18,9 +18,9 @@
 
 <p><object width="640" height="360"><param name="movie" value="http://www.youtube.com/v/KyCYyoGusqs?version=3&amp;hl=en_US&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/KyCYyoGusqs?version=3&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
 
-<p>As you see in the video above after crawling Google indexes documents (pages) based on the words they contain and then match those documents with the search query. Basically they create a library of webpages from which they analyse the most relevant ones and then shows them in the search results. </p>
+<p>As you see in the video above after crawling Google indexes documents (pages) based on the words they contain and then matches those documents with the search query. Basically they create a library of webpages from which they analyze the most relevant ones and then show them in the search results. </p>
 
-<p>You would think that Google might remain behind if some sites are updated very often, but here comes PageRank and the frequency at which you publish pages into play.</p>
+<p>You would think that Google might remain stale if some sites are updated very often, but PageRank and the frequency at which you publish pages comes into play.</p>
 
 <p>At this point I want us all to remember that <a href="http://techpatio.com/2009/search-engines/google/matt-cutts-google-crawls-pagerank-video-bloggers" target="_blank">higher PageRank helps with faster crawling</a>, NOT better ranking. So, if a SEO guy tells you that a bigger PR ranks better send him home. Checking PageRank is only one of the elements (along with page/domain authority, ranking, a good site, good backlinks and other metrics) that will help you see if a site is reputable or not, but not the main one. </p>
 
@@ -36,7 +36,7 @@
 
 <p>Before I write about these small things I need to speak about time. The time from which a website is created to the time the pages show up in Google. One word is absolute in this endeavor: relativity. </p>
 
-<p>Yes, when we first open up a new site we cannot decide when will it's pages be indexed in Google. The first pages will show up only after a week or even more. So, publishing now your first page and then asking in two hours why your page is not in Google is not a reasonable thing to ask. </p>
+<p>Yes, when we first open up a new site we cannot decide when its pages will be indexed in Google. The first pages will show up only after a week or even more. So, publishing your first page and then asking in two hours why your page is not in Google is not a reasonable thing to ask. </p>
 
 <p>If you publish regularly, let's say once a day, after about a month (personal estimate) you will see your pages indexed in less than 24 hours. On one of my blogs I get my pages indexed sometimes after only 10 minutes, but that is because I blog daily for almost two years now, I share my posts on social media and have received a couple of quality backlinks along the way. </p>
 
