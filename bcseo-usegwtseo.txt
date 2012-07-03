@@ -1,0 +1,49 @@
+  <p>One of the first things you need to do when creating a store on BigCommerce is to sign up with Google Webmasters Tools. It is one of the best free tools that will help with your website's SEO. </p>
+
+<p>Most of the optimization can be done easily by any store owner in the CSV import file used to import/update products. Once the issues discovered it is easier to take action and gain a bit of traction. You will note that I always speak in terms of "should", "would", "gain some rankings" and so on. </p>
+
+<p>Basic SEO, keywords in URL, title tag, h1 heading and content and other things like this, is one thing, but advanced optimization is a bit harder to obtain and usually requires test before even knowing that it worked. </p>
+
+<p>This is why we will say that you should gain better rankings if you do this or that, but only after you do the changes we can be sure that that was the case. </p>
+
+<p>Coming back to SEO issues Google Webmasters Tools is always my first stop when I want to check a issues in a website of any sort. </p>
+
+<p><h2>Traffic information from Google Webmasters Tools </h2></p>
+
+<p>Suddenly people do not knock on your site's door. Analytics shows that your traffic is almost dead. Causes? Many. From an algorithm change, to your store not being available for a long period of time, to blocking crawlers, to penalties and so on. </p>
+
+<p>If you have a graphic like the one from below then you need to determine why this all happened. <br /><img src="https://s3.amazonaws.com/bc-posts-images/bc+seo+images/bigcommerce-seo-traffic-drop-example-google-webmasters-tools-seo-tips.png" title="google webmasters tools graphic traffic drop " alt="google webmasters tools graphic traffic drop "/></p>
+
+<p>Graphics like these are not for the faint hearted. At least it was not a sudden drop to null.</p>
+
+<p>When you see the graph from <strong>Traffic - Search queries</strong> in Google Webmasters Tools behaving like this you need to keep an eye on the news. Was there a Google algorithm or not? Usually SEO blogs write about most of the changes and you can find out what algo change might be the cause. </p>
+
+<p>For example, the image above shows a drop in traffic right after <a href="http://www.seroundtable.com/google-panda-3-8-15350.html" target="_blank">Panda 3.8</a> (a refresh, not an update) was announced publicly. </p>
+
+<p>Since we know it as Panda who played with that traffic we must make sure that all the pages we check have <strong>unique content and offer value</strong>. Usually you would need at least 300 words worth of content in each page of your site. So, locate low quality or duplicated content and get rid of it. </p>
+
+<p><h2>Titles, descriptions and sitemap issues</h2> </p>
+
+<p>If you go to <strong>Optimization- Sitemaps</strong> you can see if the sitemap has issues, how many URLs have been submitted and how mare have been indexed. </p>
+
+<p><img src="https://s3.amazonaws.com/bc-posts-images/bc+seo+images/sitemap-issues-detection-google-webmasters-tools.png" title="Detect issues with the sitemap submitted to Google Webmasters Tools"  alt="Detect issues with the sitemap submitted to Google Webmasters Tools"></p>
+
+<p>From the image above I have checked the newest published pages of that website and there are no issues. We will have to detect some older pages and see why they weren't indexed. Good to know that using GWT I can see how many of my desired pages are in Google's index. </p>
+
+<p>Before adding a sitemap you can even test it using the <strong>"Add/Test sitemap"</strong> from top right of that page. </p>
+
+<p>Moving forward, I was anxious to see what errors I might find out regarding the titles and descriptions. Meta keywords are out of the question (I hope you know that by now) so we'll keep on looking at these other elements. </p>
+
+<p>Looking at <strong>Optimization - HTML improvements</strong> we can see something like this:<br /><img src="https://s3.amazonaws.com/bc-posts-images/bc+seo+images/html-improvements-google_webmasters-tools-titles-descriptions-webpages.png" title="Using Google Webmasters Tools to detect issues with titles and descriptions in your website" alt="Using Google Webmasters Tools to detect issues with titles and descriptions in your website"></p>
+
+<p>Since the site depicted in the images above is not an ecommerce website I could argue that it is easier to maintain uniqueness across the entire platform, but don't just think that if you have an ecommerce site with 15k products you are entitled to use duplicate titles and descriptions as you wish.</p>
+
+<p>Only 23 duplicated titles. Easy cake to discover which are those and how to solve the issue. With only one click on the link that says "Duplicate meta descriptions" I can see what pages have this issue. </p>
+
+<p>In some cases I had the opportunity to see issues shown at almost each subpoint from there. The Non indexable Content area is of utmost importance. Do not avoid it if you see a link in there. </p>
+
+<p><h2>Quick actions to solve SEO issues in your Bigcommerce store</h2></p>
+
+<p>Once you have checked the issues in Google Webmasters Tools you can get to solving them in your BigCommerce store. Here are some quick tips:<br /><ul><br /><li><strong>sitemap submitted, but no page indexed in a long period of time</strong> - you need to check your robots.txt file (Tools - Edit robots.txt) and see that you may have this line in there "Disallow: / ". Remove it and insert back in there the default contents of this file</li><br /><li><strong>duplicate title tags and meta description across the entire website</strong> - and all the same! you might have edited the HTMLhead.html template file and removed %%Page.WindowTitle%% from title tag and %%Page.MetaDescription%% from the meta description tag and inserted your own. Do NOT ever do that. </li><br /><li><strong>duplicate titles and descriptions in only some of the pages</strong> - you were lazy, admit it. Using the same title or description when you create the CSV import file is easier for you now, but it will cost you later. Don't be lazy and create unique titles and descriptions for each page. Make sure the columns Page Title and Meta Description<br /> are properly filled in before the upload. Ignore meta keywords, they're worthless nowadays.</li><br /><li><strong>do not forget to check Health - Crawl Errors in GWT</strong> - if you see there 404 errors download the list of the URLs is referring there and setup 301 redirects. smarter, cleaner, safer. </li><br /><li><strong>use descriptive titles and descriptions</strong> - use one of the forms:  <strong>"title with keyword in it | your company name here" (Get discounts for HP Deskjet Home Printer | GizStore)</strong> OR "keyword first in the title | company name" (HP Deskjet home Printer - get discounts | GizStore). Descriptions need to be also more lively, they need to speak about urgency and immediacy. Bad exmaple: "This is a HP printer". <strong>Good example:</strong> "Don't let our awesome HP Printer slip through your hands. Get a discount now! " or any variation of the sort which is more pleasant. </li><br /></ul></p>
+
+<p>Now go check your Google Webmasters Tools and see what errors show up there and solve them like a pro. <br /></p>
