@@ -1,0 +1,23 @@
+
+Hello Spring Merchant fans,
+
+Another week has passed by and we're glad to present the newest changes and articles. 
+
+<h2>How to get your BigCommerce website to show up on Google</h2>
+
+	Another SEO article where we fel the need to explain the differences between crawling and ranking. 
+The article explains a short words how search works and what are the steps neede to be done to show 
+your webstore in Google ie be indexed. 
+	This post has valuable information regarding how to have your website indexed faster using some 
+simple tricks available to everyone. To see these and more pelase read the article <a href="How to get your BigCommerce website to show up on Google" atrget="_blank">here</a>
+
+<h2>Home page issue in BigCommerce was resolved in version 7.3.35</h2>
+
+	We are glad that Bigcommerce has solve dthe home page issue [ISC-5192] where you could not setup a webpage as home page
+and neither could you edit it. Also, in some cases it has been reported that you cant even create
+webpages in 7.3.34 stores. Also, if you show prices including and excluding tax the Pin It button
+shows an ugly looking link right above the button [ISC-5190]. Read more about the latest bugfixes <a href="http://forum.bigcommerce.com/f26/release-notes-bigcommerce-version-7-3-35-9073/" target="_blank">here</a>
+
+We will have some important changes in the future so stick close to find them our directly from us.
+Happy bigcommercing. 
+
