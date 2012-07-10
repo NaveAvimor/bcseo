@@ -1,0 +1,37 @@
+ <p>Trying to improve your BigCommerce SEO using automated tools that build backlinks is not a good idea. In fact, worse about this is that, if you get caught by Google, it will be very hard to get rid of those (shady) links. </p>
+
+<p>Some BigCommerce store owners are still <a href="http://forum.bigcommerce.com/f10/really-need-help-please--8744/" target="_blank">attracted</a> by the automated tools that promise loads of "high-quality" backlinks for mere $50 or more. Really, don't fall into that trap. </p>
+
+<p>Most of those links will be inserted in splogs (spam blogs, blog networks), blogs updated automatically with spun content that has unrelated sections with links to different venues that are not even closely related. That's not what you want to do. </p>
+
+<p><h2>Use automated tools the right way - backlink discovery</h2></p>
+
+<p>An important step is backlink discovery. Since directory and article submissions might not help that much (I'd be more oriented to payed directories that have higher authority), you need to find some high quality sites that could link back to you. It is a hard job, but not as hard like actually building a relationship with those site owners. </p>
+
+<p><a href="http://www.searchenginejournal.com/15-best-link-building-tools/42129/" target="_blank">Search Engine Journal</a> lists 15 tools that can help you in what you need done. some are free, others are payed, but it is well worth the time to use them if you want to know more about a competitor's site profile. </p>
+
+<p>I use most of the tools from there, but I wanted to mention only two tools that are easy to use and understand: <a href="http://www.opensiteexplorer.org/" target="_blank">Open Site Explorer</a> and <a href="http://www.seomoz.org/seo-toolbar" target="_blank">Mozbar</a>.</p>
+
+<p>Why would you need to use these tools? The rationale is very simple: you want to rank your Bigcommerce store for certain keywords and you see that some other sites are well ahead of you. To know what exactly are the actions that lead them there is a bit tricky, but at least you can have a glimpse of their backlink profile. </p>
+
+<p>Given the fact that our Bigcommerce store owner is eager to plant a SEO bomb in the SERP the best way to start is: study the competition. Looking at their backlinks with OSE (Open Site Explorer) you can see where they got links from and can even find out where were those links located and which of them were followed. </p>
+
+<p>You goal is to get followed backlinks from high authority sites which will put the links high in the content section, not in the sidebar or footer. OSE will help determine who is linking to your competitor and, thus, will offer you a list of those websites. Pretty handy. </p>
+
+<p>The other tool, SEOMoz bar, offers some insights directly from Google Search. Once the extension installed simply go to Google Search, type in your search query and then this tool will output some values for PA (Page Authority), DA (Domain Authority). </p>
+
+<p>You want to look at those that have higher DA (at least 20) if you want to get links from them. If the ones outranking you seems to have lower PA/DA then you should remember that better ranking is a combination of relevance (does it use the keyword often enough and does it explain the issue well enough?), authority (does it have lots of quality backlinks? ), branding (does it has lots of mentions even in social media?), keyword in domain (exact match keyword domains still work, arrgh), domain age (that counts too), design, site architecture and so on. </p>
+
+<p><h2>BigCommerce SEO can be enhanced by these automated tools? Definitely.</h2></p>
+
+<p>I created  a new section in this post because there is a new group of automated tools on the rise: backlink removal companies use them. </p>
+
+<p>Basically, if you buy links from the automated backlinks builders if can be near to impossible to get rid of. And here come the companies <a href="http://www.seroundtable.com/link-removals-15349.html" target="_blank">SEO Round Table Talks</a> about. </p>
+
+<p>So, if you have links you want to get rid of you may want to use <a href="" target="_blank">Remove 'Em</a>, <a href="" target="_blank">LinkDelete</a> or <a href="" target="_blank">Delete Backlinks</a>. </p>
+
+<p>This sounds pretty crazy, but before Penguin we would not think that these kind of services could exist. As strange as it seems Google has led to this situation because it offered enough weight to anchor text and backlinks. </p>
+
+<p>Say what you want, but it is in human nature to want to be higher on the food chain and people will always try to game the algo. In return, Google will slap us to the right and left and some might fall victims even though they didn't had to do with shady activities. </p>
+
+<p>I hope this BigCommerce SEO pro tip will help you in deciding what is best for you. </p>
