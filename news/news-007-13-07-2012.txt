@@ -1,0 +1,21 @@
+Hello Spring Merchant fans, 
+
+We hope you had an uneventful Friday 13th and a joyful Caturday. We have a new SEO article that we think it is very import to learn from and we are thankful that BigCommerce has implemented the Throttler. 
+
+<h2>BigCommerce SEO Tip: avoid automated tools that build backlinks</h2>
+
+Automated tools are great and we know it because we use it. Think of rank checkers, backlink profilers, crawlers and other such useful tools. But there is a category of automated tools that you need to avoid: automatic backlink creators. Those tools create automatically links to you from different sites (usually low quality) and do not bring any real value. You might even get penalized for using such techniques. So stay away from those and read more about this <a href="http://bigcommerce.springmerchant.com/content/bigcommerce-seo-tip-avoid-automated-tools-that-build-backlinks/" target="_blank">here</a>.
+
+<h2>We be Throttling...</h2>
+
+One of the biggest nuicances BigCommerce clients encountered in the last months were those pesky spam reviews. Tons of those. But now BigCommerce has created the Throttler, an option in Settings- Store - Miscellaneous tab, the last section. That will allow you to block automatic submission of reviews and allow only 1 or 2 per hour. Read more about the latest bugfixes and features <a href="http://forum.bigcommerce.com/f26/release-notes-bigcommerce-version-7-3-36-9190/" target="_blank">here</a>.
+
+<h2>Use Greasemonkey to search orders by products sold</h2>
+
+You can do this by <a href="http://bigcommerce.springmerchant.com/content/bigcommerce-modifications-greasemonkey-installation/" target="_blank">installing Greasmonkey</a> in your Firefox browser and then following  <a href="http://bigcommerce.springmerchant.com/content/bigcommerce-modifications-greasemonkey-search-orders-by-products/" target="_blank">these steps</a>. This is one of the features that is missing in BigCommerce and we can use this script to modify the behavior of the store in our browser. 
+
+Until our next newsletter will land in your inbox we will you a week full of sales 
+
+
+
+
