@@ -8,11 +8,11 @@
 
 <p>An important step is backlink discovery. Since directory and article submissions might not help that much (I'd be more oriented to paid directories that have higher authority), you need to find some high quality sites that could link back to you. It is a hard job, but not as hard like actually building a relationship with those site owners. </p>
 
-<p><a href="http://www.searchenginejournal.com/15-best-link-building-tools/42129/" target="_blank">Search Engine Journal</a> lists 15 tools that can help you in what you need done. some are free, others are paid, but it is well worth the time to use them if you want to know more about a competitor's site profile. </p>
+<p><a href="http://www.searchenginejournal.com/15-best-link-building-tools/42129/" target="_blank">Search Engine Journal</a> lists 15 tools that can help you in what you need done. some are free, others are paid, but it is worth the time to use them if you want to know more about a competitor's site profile. </p>
 
-<p>I use most of the tools from there, but I want to mention only two tools that are easy to use and understand: <a href="http://www.opensiteexplorer.org/" target="_blank">Open Site Explorer</a> and <a href="http://www.seomoz.org/seo-toolbar" target="_blank">Mozbar</a>.</p>
+<p>I use most of the tools from there, but I want to mention two tools that are easy to use and understand: <a href="http://www.opensiteexplorer.org/" target="_blank">Open Site Explorer</a> and <a href="http://www.seomoz.org/seo-toolbar" target="_blank">Mozbar</a>.</p>
 
-<p>Why would you need to use these tools? The rationale is very simple: you want to rank your Bigcommerce store for certain keywords and you see that some other sites are well ahead of you. To know what exactly are the actions that lead them there is a bit tricky, but at least you can get a glimpse of their backlink profile. </p>
+<p>Why would you need to use these tools? The rationale is simple: you want to rank your Bigcommerce store for certain keywords and you see that some other sites are well ahead of you. To know what exactly are the actions that lead them there is a bit tricky, but at least you can get a glimpse of their backlink profile. </p>
 
 <p>Given the fact that our Bigcommerce store owner is eager to plant a SEO bomb in the SERP the best way to start is: study the competition. Looking at their backlinks with OSE (Open Site Explorer) you can see where they got links from and can even find out where were those links located and which of them were followed. </p>
 
@@ -26,11 +26,11 @@
 
 <p>I created  a new section in this post because there is a new group of automated tools on the rise: backlink removal companies use them. </p>
 
-<p>Basically, if you buy links from the automated backlinks builders it can be near to impossible to get rid of. And here come the companies <a href="http://www.seroundtable.com/link-removals-15349.html" target="_blank">SEO Round Table Talks</a> about. </p>
+<p>If you buy links from the automated backlinks builders it can be near to impossible to get rid of. And here come the companies <a href="http://www.seroundtable.com/link-removals-15349.html" target="_blank">SEO Round Table Talks</a> about. </p>
 
 <p>So, if you have links you want to get rid of you may want to use <a href="" target="_blank">Remove 'Em</a>, <a href="" target="_blank">LinkDelete</a> or <a href="" target="_blank">Delete Backlinks</a>. </p>
 
-<p>This sounds pretty crazy, but before Penguin we would not think that these kind of services could exist. As strange as it seems Google has led to this situation because it offered enough weight to anchor text and backlinks. </p>
+<p>This sounds crazy, but before Penguin we would not think that these kind of services could exist. As strange as it seems Google has led to this situation because it offered enough weight to anchor text and backlinks. </p>
 
 <p>Say what you want, but it is human nature to want to be higher on the food chain and people will always try to game the search algorithm. In return, Google will slap us to the right and left and some might fall victims even though they didn't have anything to do with shady activities. </p>
 
