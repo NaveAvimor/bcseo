@@ -1,39 +1,35 @@
- <p>BigCommerce offers lots of ways to customize your online store and some of these changes can be done fairly easy. I wrote a while ago about <a href="http://bigcommerce.springmerchant.com/content/how-to-improve-user-experience-in-bigcommerce-stores/" target="_blank">improving your customer's experience</a> and here I'll present you other 3 reasons why they leave your store. </p>
-
-<p>Having receives some complaints about the length of my posts I will shorten and present briefly these 3 reasons in an easy to read and understand format. </p>
+ <p>BigCommerce offers lots of ways to customize your online store and some of these changes can be done fairly easy. I wrote a while ago about <a href="http://bigcommerce.springmerchant.com/content/how-to-improve-user-experience-in-bigcommerce-stores/" target="_blank">improving your customer's experience</a> and here I'll present you 3 other reasons why they leave your store. </p>
 
 <p><h2>Top reason #1: you do not have guest checkout enabled</h2></p>
 
-<p>Seriously, if I want to create an account the "Create account" link is way to easy to detect in the upper menu. Why do I need to sign up for an account if I buy only this once from you?</p>
+<p>Seriously, if I want to create an account the "Create account" link is easy to detect in the upper menu. Why do I need to sign up for an account if I only buy once from you?</p>
 
 <p>Most buyers will come only once to your store so they won't feel compelled to create an account. People already have too many accounts everywhere on the web and might think twice if they want to have a new one. </p>
 
 <p>One particular deceiving way to have customers create an account in store is to enable guest checkout, but automatically create an account with a random password for them. It doesn't matter that you send them the email with the new (automatic and <strong>unwanted</strong>) account, because they will forget about it the next minute they surf another webpage. </p>
 
-<p>If your customers even return to your site they will be greeted with a nice error when choosing quest checkout: "This email is already in use"! Other customers lost.</p>
+<p>If your customers even return to your site they will be greeted with a nice error when choosing guest checkout: "This email is already in use"! Other customers lost.</p>
 
 <p>You could also read about cart abandonment reasons <a href="http://www.pfsweb.com/blog/tactics-to-stop-prevent-cart-abandonment/" target="_blank">here</a>. The need to guest checkout is as real as it gets. Let your customers be free and they'll come to you.</p>
 
 <p><h2>Top reason #2: you use multiple page checkout</h2></p>
 
-<p>It is an already known fact that single-page checkout performs better than double-page checkout with <a href="http://www.getelastic.com/single-vs-two-page-checkout/" target="_blank">21.8%</a>. </p>
+<p>It is an known fact that single-page checkout performs better than double-page checkout by <a href="http://www.getelastic.com/single-vs-two-page-checkout/" target="_blank">21.8%</a>. </p>
 
-<p>There is no real need to multiple pages checkouts, albeit the option exists in BigCommerce. </p>
+<p>There is no real need to multiple pages checkouts, even though the option exists in BigCommerce. </p>
 
-<p>One thing that makes me wonder are BigCommerce store owners that are less than a month online, but use Google Website Optimizer on the checkout process. </p>
+<p>One thing that makes me wonder are BigCommerce store owners that use Google Website Optimizer on the checkout proces to test the single page vs. multiple page checkout process.</p>
 
-<p>Don't do that, except you use different graphics, but most of uses were to compare how single-page vs multi-page checkout would work. </p>
-
-<p>Let me spare you the time and hassle: single-page lets customers enter, see and modify data at a glance. As always, once a customer has located the item they need you want to get them as fast as possible to the "Proceed to payment button". Every page refresh can be a stopper.</p>
+<p>Let me spare you the time and hassle: single-page lets customers enter, see and modify data at a glance. As always, once a customer has located the item they need you want to get them as fast as possible to the "Proceed to payment button". Every page refresh can be a stopper. Stick to a single page checkout. It works.</p>
 
 <p><h2>Top reason #3: you do not use clear calls to action</h2></p>
 
-<p>CTA - call to action is a page element (graphic, text, video) that should be different than the rest of the page and that would indicate the primary focus of that page. That means that you want it to stick out like a spike that pokes customers in the eye and yells at them WHAT to do or WHERE to go. It does not really yell, but you get the point. </p>
+<p>CTA - call to action is a page element (graphic, text, video) that should be different than the rest of the page and that indicates the primary focus of that page. That means that you want it to stick out like a spike that pokes customers in the eye and yells at them WHAT to do or WHERE to go. It does not really yell, but you get the point. </p>
 
 <p>Hubspot has tons of tutorials and "how to's" regarding ecommerce and even CTAs. Make sure sure that you implement one of  <a href="http://blog.hubspot.com/blog/tabid/6307/bid/33387/11-Clever-CTA-Tricks-Real-Brands-Are-Using-to-Grow-Their-Email-List.aspx" target="_blank">11 ideas of CTAs</a> that can help with customer interaction.</p>
 
 <p>Check the image below. With an Add to cart button that stick out by design you get a far better change to show what you need your customers to do:<br /><img src="https://s3.amazonaws.com/bc-posts-images/bc-seo-images-july-2012/cta-call-to-action-3-reasons-why-customers-leave-store.png" title="top 3 reasons why customers leave your store- no clear call to action" alt="use calls to action that stick our by design" width="700" /></p>
 
-<p>And below is my favorite call to action, via Yahoo. I always click on "Cancel".<br /><img src="https://s3.amazonaws.com/bc-posts-images/bc-seo-images-july-2012/cta-effective-call-to-action.png" title="top 3 reasons why customers leave your store- no clear call to action" alt="use calls to action that stick our by design- yahoo example" width="450" /></p>
+<p>And below is my favorite call to action, from Yahoo. I always click on "Cancel".<br /><img src="https://s3.amazonaws.com/bc-posts-images/bc-seo-images-july-2012/cta-effective-call-to-action.png" title="top 3 reasons why customers leave your store- no clear call to action" alt="use calls to action that stick our by design- yahoo example" width="450" /></p>
 
-<p>Let me know how these piece of advice helped you and if you'd like me to write about a specific topic you ant to learn about. </p>
+<p>Let me know how these pieces of advice helped you and if you'd like me to write about a specific topic you want to learn about. </p>
