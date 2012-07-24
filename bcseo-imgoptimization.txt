@@ -1,0 +1,43 @@
+<p><br style="clear: both;" /><br />Trying to understand how Google ranks images in its Image Search I've setup a small case study and  found out some seo tips for image optimization that will help.</p>
+
+<p>Yes, many say that this has already been done before me, but I wanted to put my spare time to good use. And yes, well established SEO image optimization tips are still working and the basics should be always covered in order to get traffic via Google Image Search. </p>
+
+<p>In my small test I searched for : flowers, computers. pc games, dresses, cars, insurance, fast food, bread, books, travel, ice cream, bycicles.</p>
+
+<p>I looked at the usage of the keywords in : domain name, image filename, alt attribute, URL, title tag, heading, content. Before searching for English keywords I started this test with only a couple of Romanian keywords and took the time to search for page and domain authority (via Open Site Explorer) and for citation and trust flow (Majestic SEO), before I got bored to death. But it was still fun</p>
+
+<p>What I found out is that page and domain authority do not count so much when ranking images in Google Image Search, but more important was the use of keywords and type of search query. </p>
+
+<p>See the image below for the search query "computers":<br /><img width="700" src="https://s3.amazonaws.com/bc-posts-images/bc-seo-images-july-2012/seo-image-optimization-case-study-ranking-in-google-image-search-computer-search.png" title="Search for Computers in Google Image Search - images have keyword in the filename" alt="Images seo optimization tips - Search for Computers in Google Image Search - images have keyword in the filename" /></p>
+
+<p>What I observed here and in the other searches was that the keyword in filename matters a LOT. If you ever thought of using filenames like img001.jpg you should start doing some searches on Google Images. And that was just a quick thought.</p>
+
+<p><h2>The theory about SEO image optimization</h2></p>
+
+<p>Image optimization for search means that you need to take care of several things before hitting publish or putting those products out there:<br /><ul><br /><li>use image files accepted by Google: gif, png, jpeg, swg, webp, svg, bmp. Details <a href="http://blog.hubspot.com/blog/tabid/6307/bid/32567/A-Marketer-s-Guide-to-Optimizing-Images-for-Google-Search.aspx" target="_blank">here</a>. </li><br /><li>use keywords in the filenames</li><br /><li>use keywords in alt attribute of the images</li><br /><li>prepare the context: use keywords in page URL, title tag, h1 heading, in the anchor text of links that point to the image, and content</li><br /></ul></p>
+
+<p>Why should you care about optimizing your images and preparing the context? When customers look for products they might look in Google Images to see how your product looks like. If you show up in the first line or first page in there then you receive some very well deserved visits and those customers might buy from you. </p>
+
+<p>In ecommerce anything that can be optimized HAS to be optimized, so extra care is never too much. </p>
+
+<p>Sometimes those images will be shown in the WebSearch like in the case of "dresses":<br /><img src="https://s3.amazonaws.com/bc-posts-images/bc-seo-images-july-2012/seo-image-optimization-tips-search-dresses-google.png" title="Images for dresses showing in Google Web Search" alt="SEO image optimization tips - dresses showing in Google Web Search" /></p>
+
+<p><h2>Some real world observations and a word about type of queries</h2></p>
+
+<p>Shari Thurow speaks about type of queries in her book <a href="http://www.amazon.com/When-Search-Meets-Web-Usability/dp/0321605896" target="_blank">When Search Meets Web Usability</a> and why it is so important to make distinctions in the way people search on the web. </p>
+
+<p>She mentions three types of queries that will output different search results depending on how Google interprets them:<br /><ul><br /><li>navigational - the searcher wants to go to a certain website</li><br /><li>informational - the searcher wants to find out more about a product, event</li><br /><li>transactional - the searcher wants to buy something/ to subscribe to a website/ to fill in a form</li><br /></ul></p>
+
+<p>Why are these important? Because even in Google Image Search you will be presented with slightly different results than you would expect. Searching for "computers" I got a first result from Wikipedia meaning that Google determined that I want to know more about this subject (an informational query). </p>
+
+<p>Searching for "dresses" brought me to an ecommerce website. In this case Google determined that I want to buy a dress (informational + transactional query), which normally would be the case if someone would type in that query. </p>
+
+<p>I wanted to mention these facts because if you obey the basic image optimization rules you would expect certain websites to be in the first row in Google Image Search. If this is not the case then you know why. </p>
+
+<p>What I found out "playing" around with these search queries is this that if you <strong>rule out</strong> the type of search queries, Google's use of synonims/related results (searching for computer Google will show results for pc or notebooks) and the use of keywords in URL, title tag, h1 heading, and content you cam summarize image ranking to these few sentences:<br /><ol><br /><li>exact match keyword domain + keyword in filename + keyword in alt attribute =  ranks best </li><br /><li>exact match keyword domain + keyword in the filename (but no alt) = still ranks best </li><br /><li>keyword in domain + keyword in filename  + keyword in alt attribute  = ranks good </li><br /><li>keyword in domain + alt attribute (but no keyword in filename) = ranks good</li> <br /><li>random domain + keyword in filename + keyword alt attribute = ranks good </li><br /><li>random domain + keyword in filename = somewhat good</li><br /><li>random domain + keyword in alt attribute = somewhat good</li><br /></ol><br />At this point I need to point out that these conclusions are based on a very small batch of searches, but I expect this to be the same for singular vs plural searches and for single work keywords vs multiple words keywords (long tail).</p>
+
+<p><h2>Conclusions regarding image optimization</h2></p>
+
+<p>While there are MANY factors  that will lead to an image to be ranked well in Google Image Search you need to look at these SEO tips:<br /><ul><br /><li>if you sell pictures/images/paintings/drawings make sure you take a domain name with the main keyword in it. Example: Billyspaintings.com</li><br /><li>whatever you sell use images in the pages and make sure to use keywords in filenames and in alt attribute</li><br /><li>do not forget about context: use keywords in title tag, h1 heading and content. Less important in URL, but that would be okay too. Also, use keywords in the meta description. This last one is not for ranking, but to increase CTR- click through rate- makes people click on the link.</li><br /><li>if you somehow forget (or are too lazy) about alt attribute, make sure the image filename is descriptive, not somethimg like DSC0001.jpg</li><br /><li>although Google can find a given keyword in filenames like "blahblah<strong>keyword</strong>.jpg" or "blah_blah_<strong>keyword</strong>.jpg" make its job easier by using hyphens (dashes): blah-blah-keyword.jpg</li><br /></ul></p>
+
+<p>And yes, we haven't talked about image size, quality, type (photo, drawing and so on). Let's keep it simple and make sure we cover the basics from this post. I hope you like my little experiment and that these SEO tips for image optimization have shed some light on how Google ranks images in Image Search.<br /></p>
