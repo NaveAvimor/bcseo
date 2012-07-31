@@ -1,0 +1,35 @@
+  <p><br style="clear: both;"/><br />You have heard often about Google algorithm update or refresh, about exact match domains and even about the fact BigCommerce changes IPs of the stores might hurt with SEO. We will go fast through these questions and we'll understand more about this incredible field named search engine optimization. </p>
+
+<p><h2>What is the difference between a Google algorithm update and a refresh?</h2></p>
+
+<p>As explained <a href="http://www.seroundtable.com/google-panda-3-8-15350.html" target="_blank">here</a> an algorithm refresh is when Google runs the algorithm to check it's entire index in order to penalize (or not). Running the Panda/Penguin during the normal ranking operations seems to be expensive enough that Google will run those only once in a while. </p>
+
+<p>An algorithm update is a change in the algorithm itself, not just a rerun through the entire index. That means that when an update takes place the the functions in the algo will receive different values or even new variables are added in them. </p>
+
+<p>Recently we have encountered <a href="http://www.seroundtable.com/google-panda-39-official-15480.html" target="_blank">Panda 3.9</a>, a refresh done on 24th July 2012. Did you noticed any changes? </p>
+
+<p>Interesting fact: the more refreshes Google will do (as opposed to updates), the better we'll understand how the algo works now.</p>
+
+<p><h2>What are exact match domains? </h2></p>
+
+<p>Exact match domains are domains that match exactly a keyword. Let's say you are searching for "bigcommerce seo". An exact match domain would be bigcommerceseo.com. Exact match domain still work. Read more <a href="http://www.webmasterworld.com/google/4480480.htm" target="_blank">here</a>.</p>
+
+<p>The question would be this: should you use them or not? Short answer: yes, no and probably. Yes, if you do not have plans to continue for a long time with that  domain (Google will finally hit those domains, time will tell). No, if you'd like to establish a brand and build a timeless (and algo free) domain and presence. </p>
+
+<p>Probably, because you could use brand+keyword and have the advantage of both the above: keyword for ranking, brand for awareness. It is up to you what you choose. </p>
+
+<p><h2>The IP's of the Bigcommerce stores change over time. Is that bad for SEO? </h2></p>
+
+<p>No. How often have you heard of websites that are on shared hosting  (most of them) as having this issue? Not too many, and that because any real change in rankings is given by the fact that you change the IP AND change the country in which you host your website. </p>
+
+<p>Again, effects on rankings might be seen if you <a href="http://www.webmasterworld.com/google/4358858.htm" target="_blank">move the website in a hosting in another country</a>. Then local results might be different. </p>
+
+<p>A good read can be found on Matt Cutt's blog about <a href="http://www.mattcutts.com/blog/myth-busting-virtual-hosts-vs-dedicated-ip-addresses/" target="_blank">virtual hosts vs dedicated IPs</a>. Virtual hosts or shared hosting means that there are more websites hosted at the same IP address. SEO wise that is fine.</p>
+
+<p>There is no worry about that. The only thing you need to look at is if the given IP has been involved in any malware/spamming activity. That might hurt. </p>
+
+<p>Back to the fact that BigCommerce changes the IP of the stores often (1-2 times a month): there are no issues with that. The authority, ranking and so on of a website are based on other metrics that the IP (except for local search) and <a href="http://www.webmasterworld.com/google/4275531.htm" target="_blank">changing the IPs over time won't hurt your SEO</a>. </p>
+
+<p>A word of warning: if you plan on hosting you many websites on the same datacenter (or having close C class IPs) AND you plan to interlink them, Google is watching you. Multiple websites that have the <a href="http://forums.searchenginewatch.com/showthread.php?t=9408" target="_blank">same owner and come from the same IP or related IPs</a> (same C class ) will not get counted or might even get penalized. Why? Because it looks like a link network created to manipulate PageRank. </p>
+
+<p>Now your turn: do you have any questions?</p>

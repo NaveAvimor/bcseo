@@ -1,0 +1,23 @@
+Hi SpringMerchant fans,
+
+While we are preparing to create other sections of the site in order to cover several ecommerce platforms and ecommerce SEO domains we like to be up to date with recent events in BigCommerce and beyond. 
+
+<h2>News ahead</h2>
+One of the major events that happened recenlty was the roll out of <a href="http://www.seroundtable.com/google-panda-39-official-15480.html" target="_blank">Panda 3.9</a> and an explanation from Matt Cutts about the <a href="http://www.seroundtable.com/google-new-link-notifications-15499.html" target="_blank">Untrusted Link Notifications</a> some of you might get in Google Webmasters Tools.
+
+Panda 3.9 is a data refresh and not an algorithm update and, while those messages in Google Webmasters Tools, might not indicate a penalization you need to take great care. 
+
+On BigCommerce front <a href="http://www.bigcommerce.com/ecommerce-blog/important-ftp-to-be-discontinued-soon-replaced-with-webdav/" target="_blank">FTP is being shut down</a>. Unofficial date would be the finish of August 2012. FTP will be replaced entirely by WebDAV. 
+Tutorials for WebDAV are as follows:
+-<a href="https://support.bigcommerce.com/questions/1513/How+do+I+connect+to+WebDAV%3F" target="_blank">tutorial on how to enable and connect with WebDAV</a>
+-<a href="https://support.bigcommerce.com/questions/1618/How+do+I+connect+to+WebDAV+using+CyberDuck%3F" target="_blank">tutorial on how to use WebDAV with CyberDuck </a>
+-<a href="http://help.wildapricot.com/display/DOC/Setting+Up+WebDAV+in+Windows+XP" target="_blank">tutorial on how to use WebDAV in Windows XP</a>
+
+<h2>How does Google rank images in Google Image Search</h2>
+
+In this small case study we have found out some of the characteristics of images that were ranked well in Google Image Search. One of the things that showed up often was the usage of the keywords in the filename, in alt attribute for the images. If you combine these with the keyword in page URL, title tag, h1 heading and content you get bigger chances to rank your images well in Image Search. 
+
+Images are an important signal of a content rich webpage and need the same level of attention as any other content in the web stores. Grab a cup of coffee and read about our experiment <a href="http://bigcommerce.springmerchant.com/content/seo-tips-image-optimization-increasing-ranking-google-image-search/" target="_blank">here</a>.
+
+Until next time.
+
