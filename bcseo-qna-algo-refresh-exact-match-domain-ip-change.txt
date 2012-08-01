@@ -1,8 +1,8 @@
-  <p><br style="clear: both;"/><br />You have heard often about Google algorithm update or refresh, about exact match domains and even about the fact BigCommerce changes IPs of the stores might hurt with SEO. We will go fast through these questions and we'll understand more about this incredible field named search engine optimization. </p>
+<p><br style="clear: both;"/><br />You have heard often about Google algorithm update or refresh, about exact match domains and even about the fact BigCommerce changes IPs of the stores might hurt with SEO. We will go fast through these questions and we'll understand more about this incredible field named search engine optimization. </p>
 
 <p><h2>What is the difference between a Google algorithm update and a refresh?</h2></p>
 
-<p>As explained <a href="http://www.seroundtable.com/google-panda-3-8-15350.html" target="_blank">here</a> an algorithm refresh is when Google runs the algorithm to check it's entire index in order to penalize (or not). Running the Panda/Penguin during the normal ranking operations seems to be expensive enough that Google will run those only once in a while. </p>
+<p>As explained <a href="http://www.seroundtable.com/google-panda-3-8-15350.html" target="_blank">here</a> an algorithm refresh is when Google runs the algorithm to check its entire index in order to penalize (or not). Running the Panda/Penguin during the normal ranking operations seems to be expensive enough that Google will run those only once in a while. </p>
 
 <p>An algorithm update is a change in the algorithm itself, not just a rerun through the entire index. That means that when an update takes place the the functions in the algo will receive different values or even new variables are added in them. </p>
 
@@ -26,10 +26,10 @@
 
 <p>A good read can be found on Matt Cutt's blog about <a href="http://www.mattcutts.com/blog/myth-busting-virtual-hosts-vs-dedicated-ip-addresses/" target="_blank">virtual hosts vs dedicated IPs</a>. Virtual hosts or shared hosting means that there are more websites hosted at the same IP address. SEO wise that is fine.</p>
 
-<p>There is no worry about that. The only thing you need to look at is if the given IP has been involved in any malware/spamming activity. That might hurt. </p>
+<p>There is no need to worry about that. The only thing you need to look at is if the given IP has been involved in any malware/spamming activity. That might hurt. </p>
 
 <p>Back to the fact that BigCommerce changes the IP of the stores often (1-2 times a month): there are no issues with that. The authority, ranking and so on of a website are based on other metrics that the IP (except for local search) and <a href="http://www.webmasterworld.com/google/4275531.htm" target="_blank">changing the IPs over time won't hurt your SEO</a>. </p>
 
-<p>A word of warning: if you plan on hosting you many websites on the same datacenter (or having close C class IPs) AND you plan to interlink them, Google is watching you. Multiple websites that have the <a href="http://forums.searchenginewatch.com/showthread.php?t=9408" target="_blank">same owner and come from the same IP or related IPs</a> (same C class ) will not get counted or might even get penalized. Why? Because it looks like a link network created to manipulate PageRank. </p>
+<p>A word of warning: if you plan on hosting many websites on the same datacenter (or having close C class IPs) AND you plan to interlink them, Google is watching you. Multiple websites that have the <a href="http://forums.searchenginewatch.com/showthread.php?t=9408" target="_blank">same owner and come from the same IP or related IPs</a> (same C class ) will not get counted or might even get penalized. Why? Because it looks like a link network created to manipulate PageRank. </p>
 
 <p>Now your turn: do you have any questions?</p>
