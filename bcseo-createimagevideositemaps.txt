@@ -1,6 +1,6 @@
- <p><br style="clear: both;" /><br />Since Google started showing images and videos in search results page image and video sitemaps have become increasingly important.  With A1 Sitemap Generator you need only 5 simple steps to get this done. These sitemaps help Google index faster your rich content.</p>
+ <p><br style="clear: both;" /><br />Since Google started showing images and videos in search results page image and video sitemaps have become increasingly important.  With A1 Sitemap Generator you only need 5 simple steps to get this done. These sitemaps help Google index your rich content.</p>
 
-<p>I used the trial version of the tool and it is still very powerful since it lets me create a whole range of sitemap types. This is what I've been searching for: a tools that does it all without headaches on my part. Since Google Webmasters Tools is accepting different types of sitemaps it is a joy to see all in there: my XML sitemap, the image sitemap and the video sitemap. All in one place. </p>
+<p>I used the trial version of the tool and it is still very powerful since it lets me create a whole range of sitemap types. This is what I've been searching for: a tool that does it all without headaches on my part. Since Google Webmasters Tools is accepting different types of sitemaps it is a joy to see all in there: my XML sitemap, the image sitemap and the video sitemap. All in one place. </p>
 
 <p>How do we do that? Below are the 5 simple steps to help any BigCommerce store owner submit these sitemaps. </p>
 
@@ -30,9 +30,9 @@
 
 <p><h2>4. Upload sitemap to /content/ folder via FTP or WebDAV</h2></p>
 
-<p>Once you have located the image sitemap in your computer, copy it on Desktop. From there you need to copy it in <strong>/content/</strong> folder on your store's server. We will indicate in Google Webmasters Tools to take the image and video sitemaps from that folder. </p>
+<p>Once you have located the image sitemap on your computer, copy it to your Desktop. From there you need to copy it in <strong>/content/</strong> folder on your store's server. We will indicate in Google Webmasters Tools to take the image and video sitemaps from that folder. </p>
 
-<p>In the image from below you can see the normal XML sitemap and the image sitemap located in /content/ folder. Good that Google allows me to host my sitemaps in any path on my server and not only in root.<br /><img src="https://s3.amazonaws.com/bc-posts-images/bc-seo-images-august-2012/seo-tips-xml-sitemap-image-submit-google-webmasters-tools-bigcommerce-store.png" title="Upload the xml sitemaps in content folder on your server" alt="Upload the image and video sitemap in your content folder on your server"  width="700" /></p>
+<p>In the image from below you can see the normal XML sitemap and the image sitemap located in /content/ folder. It is good that Google allows me to host my sitemaps in any path on my server and not only in root.<br /><img src="https://s3.amazonaws.com/bc-posts-images/bc-seo-images-august-2012/seo-tips-xml-sitemap-image-submit-google-webmasters-tools-bigcommerce-store.png" title="Upload the xml sitemaps in content folder on your server" alt="Upload the image and video sitemap in your content folder on your server"  width="700" /></p>
 
 <p><h2>5. Log into Google Webmasters Tool and submit sitemap</h2></p>
 
@@ -40,7 +40,7 @@
 
 <p><h3>Conclusion</h3></p>
 
-<p>You can use this program to create sitemaps for any website you own, not only BigCommerce store. The full version costs $70 (cheap, let me add) and the trial lasts 31 days. </p>
+<p>You can use this program to create sitemaps for any website you own, not only a BigCommerce store. The full version costs $70 (cheap, let me add) and the trial lasts 31 days. </p>
 
 <p>Note: the video sitemap might contain only the first YouTube video in the page. You also need to make sure you use the old embed code if you add one to your product description. </p>
 
