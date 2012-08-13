@@ -1,0 +1,13 @@
+Hi SpringMerchant fans, 
+
+By know you have already heard that Google has rolled out the Emanuel Update an update which looks at how many DMCA takedown requests a site receives and then lowers the rank of that website. More on this here <a href="http://searchengineland.com/dmca-requests-now-used-in-googles-ranking-algorithm-130118" target="_blank">here</a>. Yes, the situation becoming crazier if you read a lot about the changes in Google's algorithm. 
+
+One thing you must not forget is that by next month Google will request you to pay in order to publish products in Google Shopping and Google Website optimizer has been discontinued. It will be taken out of BigCommerce in the next versions. 
+
+The newest UI change in BigCommer will be rolled out to beta testers by the end f the month and, we hope, in September we will see the new and improved UI. We do not have many info about the functionalities in this new version. Anyways, BIG changes on the horizon. 
+
+From our SEO blog you can read ur latest post about creating and submitting image and video sitemaps to Google. that would be a nice feature to add in BigCommerce, but until then you can thanks the interwebs for the Ai Sitemap Geenrator. Read more about creating image and video sitemaps <a href="http://bigcommerce.springmerchant.com/content/five-steps-create-image-video-sitemaps-submit-google/" target="_blank">here</a>.
+
+That is all for this issue, but be prepared for the big changes that will come on our website too. 
+
+
