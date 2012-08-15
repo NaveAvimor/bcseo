@@ -1,0 +1,67 @@
+<p>Locating which BigCommerce template you need to edit in order to create your own design is easy with WinGrep, a tool that lets you search variables and any HTML/CSS code. </p>
+
+<p><h2>Methodology </h2></p>
+
+<p>The simplest way we can locate an element in the BigCommerce templates is to use Inspect Tool from Chrome (Firebug in Firefox) and look at the surrounding HTML tags and at their CSS classes and IDs. </p>
+
+<p>In the .css file a class is referenced with .classname (there is a point before the classname)  and an ID with #idname. </p>
+
+<p>Usually, I look at the class or ID of a div tag, then copy that class (ID) name in WinGrep and let it search through all the template files until it finds all the templates with the matching code. It is easy to do something like this and it will save you time from searching in BigCommerce support of asking on chat where that it.</p>
+
+<p><h2>What is WinGrep?</h2></p>
+
+<p>It is called Windows Grep, and the name Grep comes from an Unix command g/re/p which basically means to search for a string (text) in a file and then print the lines where that is located. </p>
+
+<p>This program lets you search for a text in any type of text file. BigCommerce templates are .html and .css file so it will be a simple task for WinGrep to locate and ID or class in these. </p>
+
+<p><h2>Steps to locate the BigCommerce template that needs edited</h2></p>
+
+<p>Anyone can follow these steps and locate any of the templates needed to be customized. Before continuing you need to know that the templates can be reverted anytime by clicking Revert, from top right corner of the template editor. </p>
+
+<p><h3>Step 1. Make sure you know how to work with Inspect Tool </h3></p>
+
+<p>Inspect Tool is a powerful tool from Chrome that shows you how the HTML elements are connected to the CSS rules and lets you edit the rendered page directly in browser and see the changes live. </p>
+
+<p>You can learn how to use Inspect Tool by reading this <a href="https://support.bigcommerce.com/questions/1483/How+can+I+use+Inspect+Tool+from+Chrome+to+customize+my+store%3F+" target="_blank">tutorial</a> written in the BigCommerce Support portal. </p>
+
+<p><h3>Step 2. Download and install WinGrep </h3></p>
+
+<p>WinGrep can be downloaded from <a href="http://www.wingrep.com/" target="_blank">here</a>. Installation is straightforward and it will add an option in the popup menu, when you do a right click.</p>
+
+<p><h3>Step 3. Download and extract your template files to the PC</h3></p>
+
+<p>Log into your store's <strong>Control Panel</strong>, then go to <strong>Design - Store design tab</strong> and then click on <strong>Download Template files</strong>.<br /><img src="https://s3.amazonaws.com/bc-posts-images/bc-seo-images-august-2012/bigcommerce-templates-design-download-template-pc.png" title="Download template files to your PC" alt="BigCommerce Template designs - download template files to your pc and extract the archive" width="700" /></p>
+
+<p>After this you need to extract the archive to a folder on your Desktop. Name that folder anyway you want. </p>
+
+<p><h3>Step 4. Go to the element on page that you want to change</h3></p>
+
+<p>Let's say you want to remove the <strong>Estimate shipping and Tax</strong> link from the <strong>cart page</strong>. You need to add an item to the cart and then select to view the cart. You will see something like this:<br /><img src="https://s3.amazonaws.com/bc-posts-images/bc-seo-images-august-2012/bigcommerce-templates-design-delete-estimate-shipping-tax-estimate-from-cart.png" title="Go to the page you want to modify and identify the element!" alt="Bigcommerce templates design - go to the page and element you want to edit" width="700" /></p>
+
+<p>Using Inspect Tool we can see that the link for Estimate Shipping and Tax has a class named : <strong>EstimateShippingLink</strong>.  <br /><img src="https://s3.amazonaws.com/bc-posts-images/bc-seo-images-august-2012/bigcommerce-templates-design-inspect-tool-shows-css-class.png" title="Use Inspect Tool to see what class or id an HTML element has" alt="BigCommerce templates design - inspect tool shows which class an html element has" width="700" /></p>
+
+<p><h3>Step 5. Locate the template and the code surrounding that HTML/CSS element </h3></p>
+
+<p>After we select the class (or ID) name of that HTML element we go to our template folder, right click the folder and then select Windows Grep. After inserting EstimateShippingLink in the search box we will see that it has located the template where we need to do the changes. </p>
+
+<p><img src="https://s3.amazonaws.com/bc-posts-images/bc-seo-images-august-2012/bigcommerce-templates-design-locate-template-and_code-wingrep.png" title="Insert the class name in WinGrep and then locate the code in the template" alt="Bigcommerce templates design - wingrep shows the location and the code in the files" width="700" /></p>
+
+<p><h3>Step 6. Go to the place indicated by WinGrep  and edit the template</h3></p>
+
+<p>WinGrep showed me that EstimateShippingLink is referenced in <strong>Panels\CartContent.html</strong>. That means that I need to go to <strong>Design - Template files - Panels - CartContent.html</strong>, at line 43 to see that piece of code. <br /><img src="https://s3.amazonaws.com/bc-posts-images/bc-seo-images-august-2012/bigcommerce-templates-designs-hide-code-using-html-comments.png" title="Once the class found in the template make sure you know what you need to hide" alt="Bigcommerce Templates design - hide the code you want using html comments" width="700" /></p>
+
+<p>Once you locate the code you need to make sure that you hide or delete only the code related to Estimate Shippign and Tax. As you can see in the image above that bit of code is really big and it is in a table row <tr>. </p>
+
+<p>We will use HTML comments in order to hide a piece of code. Html comments have this formatting: <strong>&lt;!-- code here --&gt;</strong></p>
+
+<p><h3>Step 7. Do the changes you need and enjoy your day </h3></p>
+
+<p>Since we need to hide a whole bunch of code we will use HTML comments to enclose the <tr>- table row - in them. <br /><img src="https://s3.amazonaws.com/bc-posts-images/bc-seo-images-august-2012/bigcommerce-templates-designs-html-comment-in-action.png" title="Use HTML comments to hide a piece of code" alt="BigCommerce Templates designs - use html comments to hide a piece of code " width="700" /></p>
+
+<p>After I save the file and refresh the cart page I can see this:<br /><img src="https://s3.amazonaws.com/bc-posts-images/bc-seo-images-august-2012/bigcommerce-templates-design-estmate-shipping-link-deleted.png" title="Final result: the Estimate shipping link is gone" alt="BigCommerce templates design - estimate shipping link is gone.enjoy" width="700" /></p>
+
+<p>Note: you may find out that WinGrep locates sometimes very many templates while doing the search. what you need to do is to use some logic and see on what page you want to do the changes and then find the most relevant templates to edit. </p>
+
+<p>Example: if I am on the category page and want to edit the category title/heading I will look only at the templates with category in their name. That will shorten the time it takes to locate the template. </p>
+
+<p>Did you find what you needed with WinGrep? </p>
