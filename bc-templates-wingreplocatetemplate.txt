@@ -6,7 +6,7 @@
 
 <p>In the .css file a class is referenced with .classname (there is a point before the classname)  and an ID with #idname. </p>
 
-<p>Usually, I look at the class or ID of a div tag, then copy that class (ID) name in WinGrep and let it search through all the template files until it finds all the templates with the matching code. It is easy to do something like this and it will save you time from searching in BigCommerce support of asking on chat where that it.</p>
+<p>Usually, I look at the class or ID of a div tag, then copy that class (ID) name in WinGrep and let it search through all the template files until it finds all the templates with the matching code. It is easy to do something like this and it will save you time from searching the BigCommerce support knowledge base.</p>
 
 <p><h2>What is WinGrep?</h2></p>
 
@@ -18,7 +18,7 @@
 
 <p>Anyone can follow these steps and locate any of the templates needed to be customized. Before continuing you need to know that the templates can be reverted anytime by clicking Revert, from top right corner of the template editor. </p>
 
-<p><h3>Step 1. Make sure you know how to work with Inspect Tool </h3></p>
+<p><h3>Step 1. Make sure you know how to work with the Inspect Tool </h3></p>
 
 <p>Inspect Tool is a powerful tool from Chrome that shows you how the HTML elements are connected to the CSS rules and lets you edit the rendered page directly in browser and see the changes live. </p>
 
@@ -32,7 +32,7 @@
 
 <p>Log into your store's <strong>Control Panel</strong>, then go to <strong>Design - Store design tab</strong> and then click on <strong>Download Template files</strong>.<br /><img src="https://s3.amazonaws.com/bc-posts-images/bc-seo-images-august-2012/bigcommerce-templates-design-download-template-pc.png" title="Download template files to your PC" alt="BigCommerce Template designs - download template files to your pc and extract the archive" width="700" /></p>
 
-<p>After this you need to extract the archive to a folder on your Desktop. Name that folder anyway you want. </p>
+<p>After this you need to extract the archive to a folder on your Desktop. Name that folder anything you want. </p>
 
 <p><h3>Step 4. Go to the element on page that you want to change</h3></p>
 
@@ -50,7 +50,7 @@
 
 <p>WinGrep showed me that EstimateShippingLink is referenced in <strong>Panels\CartContent.html</strong>. That means that I need to go to <strong>Design - Template files - Panels - CartContent.html</strong>, at line 43 to see that piece of code. <br /><img src="https://s3.amazonaws.com/bc-posts-images/bc-seo-images-august-2012/bigcommerce-templates-designs-hide-code-using-html-comments.png" title="Once the class found in the template make sure you know what you need to hide" alt="Bigcommerce Templates design - hide the code you want using html comments" width="700" /></p>
 
-<p>Once you locate the code you need to make sure that you hide or delete only the code related to Estimate Shippign and Tax. As you can see in the image above that bit of code is really big and it is in a table row <tr>. </p>
+<p>Once you locate the code you need to make sure that you hide or delete only the code related to Estimate Shipping and Tax. As you can see in the image above that bit of code is really big and it is in a table row <tr>. </p>
 
 <p>We will use HTML comments in order to hide a piece of code. Html comments have this formatting: <strong>&lt;!-- code here --&gt;</strong></p>
 
@@ -60,8 +60,9 @@
 
 <p>After I save the file and refresh the cart page I can see this:<br /><img src="https://s3.amazonaws.com/bc-posts-images/bc-seo-images-august-2012/bigcommerce-templates-design-estmate-shipping-link-deleted.png" title="Final result: the Estimate shipping link is gone" alt="BigCommerce templates design - estimate shipping link is gone.enjoy" width="700" /></p>
 
-<p>Note: you may find out that WinGrep locates sometimes very many templates while doing the search. what you need to do is to use some logic and see on what page you want to do the changes and then find the most relevant templates to edit. </p>
+<p>Note: you may find out that WinGrep sometimes locates very many templates while doing the search. In that case you need to use some logic and see on what page you want to do the changes and then find the most relevant templates to edit. </p>
 
 <p>Example: if I am on the category page and want to edit the category title/heading I will look only at the templates with category in their name. That will shorten the time it takes to locate the template. </p>
 
 <p>Did you find what you needed with WinGrep? </p>
+
