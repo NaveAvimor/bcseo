@@ -1,0 +1,28 @@
+
+Hi SpringMerchant Fans, 
+
+While we are waiting for BigCommerce to roll out the new UI we have an eye on the changes Google is doing
+on a day to day basis (almost).
+
+<h2>Google changes and some words about Google Shopping</h2>
+
+Google has started showing <a href="http://searchengineland.com/7-new-10-google-showing-fewer-results-131006" target="_blank">7 results on the first page</a>, instead of 10, when it sees that someone is searching for a brand. Make sure it is your brand they're searching. 
+
+If you see this message in the search results page then you know you have an issue with Robots.txt blocking Google: "A description for this result is not available because of this site’s robots.txt – learn more." Read more about this <a href="http://searchengineland.com/google-search-descriptions-now-say-if-googlebot-is-blocked-130767" target="_blank">here</a>.
+
+Are you angry with Google? Veteran SEOs speak about <a href="http://www.webmasterworld.com/google/4483481.htm" target="_blank">humility in the world of SEO</a>. We might need to see Gogole as the master 
+of his own house, than as someone who has to put our sites in the 1st place in SERPs.
+
+And some words about Google Shopping. Many will give up Google Shopping once it enables listing via payment only. The most interesting part in this is that traditional SEO (using keywords, best description, title and meta tags) aren't the ones that rank you well in there, it is the money you sepnd o Google. Read more <a href="http://www.portent.com/blog/ppc/google-shopping-interview-with-rick-backus-of-cpc-strategy.htm" target="_blank">here</a>. Dowload the <a href="http://learn.cpcstrategy.com/GoogleShopping2.html" target="_blank">Google Shopping Guide from here</a>
+
+<h2>Use WinGrep to locate templates and codes that need to be edited</h2>
+
+In our latesc tutorial regarding BigCommerce we explain how to use WinGrep, a search tool that lets you search for text in BigCommerce's templates. WinGrep and Inspect Tool are the most valuable tools you need to have when customizing your store. If you know basic HTML/CSS then you can do wonders. Wtih some practice you can even do design work for other BigCommerce shop owners. 
+
+Read more about this tutorial <a href="http://bigcommerce.springmerchant.com/content/use-wingrep-locate-bigcommerce-templates-need-change/" target="_blank">here</a> and enjoy customizing your store.
+
+
+
+
+
+<a href="" target="_blank">
