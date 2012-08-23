@@ -1,0 +1,11 @@
+<p><br style="clear: both;"/><br />With the code from below you can change colors and backgrounds in your BigCommerce template without having to touch the CSS files. For someone that does not work with HTML/CSS and still wants to change things around it can be <br />hard to locate exactly the lines that need to be changed. </p>
+
+<p>In the code from below you will see comments that will help you identify what and where you change in the template. The code will handle only changes like text or link color and color of the background for different elements of the page like top menu, main menu, left ad right panels or background image of the entire store. </p>
+
+<p>Some things you need to learn:<br /><ul><br /><li>you can set transparent colors or background using the value: transparent</li><br /><li>colors need to be writen in hexa code, which looks like this: #FFF (for white) or #000 (for black)</li><br /><li>to change the color of a text or link you will need to change the line with : color</li><br /><li>to change the background of an HTML element look for : background (this allows you to use even images as background) or background-color (only when you set colors as background)</li><br /><li>you can get the hexa value of a color by using: <a href="http://www.colorschemer.com/online.html" target="_blank">Online color Schemer</a></li><br /><li>if you want to use your own images for the background simply upload them to Website content- Image Manager, and then get the link to insert it where you see the 'url' value (in the lines that have both 'url' and 'background')</li><br /></ul></p>
+
+<p>Since there are no easy ways to change things in the BigCommerce templates you need to use workaround like this one. Copy the entire code and paste it in  Panels/HTMLHead.html, right under the %%GLOBAL_RTLStyles%% variable and then you are ready to change colors and backgrounds in most of the elements in home page. </p>
+
+<p>The code does not handle colors and background for category, product or brand pages. This will come in a later tutorial. </p>
+
+<p>What other changes would you like to do so easily as using the code form below? <br /><script src="https://gist.github.com/3438693.js?file=bc-css-change"></script></p>
