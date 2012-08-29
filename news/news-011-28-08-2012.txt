@@ -1,0 +1,16 @@
+Hi SpringMerchant fans, 
+
+We get to read and find out about a ton of things, but we also want to ask you want YOU want to read about 
+on our company blog. Take time to complete the one question survery <a href="http://www.surveymonkey.com/s/2HRHN7L" target="_blank">here</a>.
+
+Today we'll mention our latest BigCommerce design customization post: <a href="http://bigcommerce.springmerchant.com/content/easiest-change-colors-backgrounds-bigcommerce-template/" target="_blank">The Easiest Way to Change Colors and Backgrounds in Your BigCommerce Templates</a>. 
+
+In the post from above we have selected the most important CSS styles and showed how you can change the color and background of most elements in the store. 
+
+The tutorial was created for the Default Template only, but most of the templates use the same styles. you will be able to change the color of the menu items, the background of the site or the color of the texts in the side panels, home new product panels and featued products panel. 
+
+If you encounter any issue please take time to leave a comment anf we'll get right on work and solve the issue. 
+
+On the SEO front there is not much to say, except the fact that there are still some SEO bugs that need to be resolved in BigCommerce and, of course, we are all waiting for the new design of the stores (early September, unofficial date). 
+
+Thanks for reading this email and happy BigCommercing. 
